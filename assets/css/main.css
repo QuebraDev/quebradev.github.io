@@ -3043,6 +3043,10 @@
 		text-align: center;
 	}
 
+	#banner img {
+		margin-bottom: 15px;
+	}
+
 	#banner p {
 	    background: #222;
     	padding: 10px 0px 10px 0px;
