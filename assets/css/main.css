@@ -2267,6 +2267,7 @@
 
 		.box.special {
 			text-align: center;
+			min-height: 818px;
 		}
 
 		.box .image.featured {
