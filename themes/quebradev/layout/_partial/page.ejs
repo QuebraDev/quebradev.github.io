@@ -1,0 +1,11 @@
+<article>
+    <h1 class="page-title"><%= post.title %></h1>
+
+    <div class="page-body">
+        <%- post.content %>
+
+        <% if (post.uses && post.uses == 'members') { %>
+            <%- partial('_partial/members', {members: post.members}) %>
+        <% } %>
+    </div>
+</article>

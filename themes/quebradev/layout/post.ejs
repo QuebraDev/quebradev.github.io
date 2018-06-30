@@ -1,0 +1,5 @@
+<% if (page.type && page.type == 'page') { %>
+    <%- partial('_partial/page', {post: page, index: false}) %>
+<% } else { %>
+    <%- partial('_partial/podcast', {post: page, index: false}) %>
+<% } %>

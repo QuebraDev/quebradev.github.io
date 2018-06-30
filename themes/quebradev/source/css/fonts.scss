@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'ubuntu_monobold';
+  src: url('#{$icon-font-path}/ubuntumono-b-webfont.woff2') format('woff2'),
+  url('#{$icon-font-path}/ubuntumono-b-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ubuntu_monobold_italic';
+  src: url('#{$icon-font-path}/ubuntumono-bi-webfont.woff2') format('woff2'),
+  url('#{$icon-font-path}/ubuntumono-bi-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ubuntu_monoregular';
+  src: url('#{$icon-font-path}/ubuntumono-r-webfont.woff2') format('woff2'),
+  url('#{$icon-font-path}/ubuntumono-r-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ubuntu_monoitalic';
+  src: url('#{$icon-font-path}/ubuntumono-ri-webfont.woff2') format('woff2'),
+  url('#{$icon-font-path}/ubuntumono-ri-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

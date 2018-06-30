@@ -1,0 +1,77 @@
+<article class="podcast-internal" itemscope itemprop="blogPost">
+    <%- partial('_partial/date', {post: post}) %>
+
+    <header class="article-header">
+        <h1 itemprop="name" class="page-title"><%= post.title %></h1>
+    </header>
+
+    <div class="podcast-body" itemprop="articleBody">
+        <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/<%= post.soundcloud_id %>&color=%232f2f2f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+        <div class="row">
+            <div class="col-12 col-sm-6">
+                <h2 class="bordered-left">Sobre este episódio</h2>
+
+                <div class="podcast-description">
+                    <%- post.content %>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-6">
+                <h2 class="bordered-left">Download</h2>
+                <p>Faça o download do episódio (MP3) clicando <a href="https://api.soundcloud.com/tracks/<%= post.soundcloud_id %>/download?client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P">AQUI</a></p>
+
+                <h3 class="bordered-left">Participantes</h3>
+                <ul class="podcast-participants">
+                    <% post.participants.forEach(function(participant) { %>
+                        <li>
+                            <%= participant.name %>
+                            <% if (participant.twitter) { %>
+                                <a href="https://twitter.com/<%= participant.twitter %>" target="_blank" title="<%= participant.name %> Twitter"><%- fa_inline('twitter', {prefix: 'fab'}) %></a>
+                            <% } %>
+                            <% if (participant.github) { %>
+                                <a href="https://github.com/<%= participant.github %>" target="_blank" title="<%= participant.name %> GitHub"><%- fa_inline('github', {prefix: 'fab'}) %></a>
+                            <% } %>
+                        </li>
+                    <% }) %>
+                </ul>
+
+                <h3 class="bordered-left">Links</h3>
+                <ul class="podcast-links">
+                    <% post.links.forEach(function(link) { %>
+                        <li><a href="<%= link.link %>" target="_blank" title="<%= link.name %>"><%= link.name %></a></li>
+                    <% }) %>
+                </ul>
+
+                <h3 class="bordered-left">Músicas</h3>
+                <ul>
+                    <% post.songs.forEach(function(song) { %>
+                        <li><%= song.name %></li>
+                    <% }) %>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="podcast-footer">
+        <div id="disqus_thread"></div>
+        <script>
+          /**
+           *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+           *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+          /*
+          var disqus_config = function () {
+          this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+          this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+          };
+          */
+          (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://quebradev-github-io.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', + new Date());
+            (d.head || d.body).appendChild(s);
+          })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+</article>

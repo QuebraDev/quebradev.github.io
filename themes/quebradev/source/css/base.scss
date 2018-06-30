@@ -1,0 +1,84 @@
+html { background: #000000; }
+
+#app {
+  font-family: 'ubuntu_monoregular', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #ffffff;
+  background: #000000;
+}
+
+main {
+  padding: 0 20px;
+}
+
+a, .nav-item a {
+  color: #ffffff;
+
+  &:hover {
+    color: #ffffff !important;
+  }
+
+  &:active, &:visited {
+    color: #ffffff;
+  }
+}
+
+.page-title, .bordered-left {
+  color: #ffffff;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  border-left: 15px solid #ffffff;
+  padding-left: 20px;
+  word-wrap: break-word;
+}
+
+.pagination-buttons {
+  display: block;
+  margin-top: 80px;
+  border-top: 3px solid rgba(255, 255, 255, 0.3);
+
+  .btn {
+    font-size: 21px;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+footer {
+  margin-top: 50px;
+  background-color: #000000;
+  padding: 30px;
+
+  .footer-links {
+    svg {
+      width: 25px;
+    }
+
+    a {
+      margin: 5px;
+      color: #ffffff;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+
+  .quebradev-footer {
+    margin-top: 20px;
+    font-size: 15px;
+    color: #ccc;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .navbar-toggler {
+    border: none;
+  }
+}

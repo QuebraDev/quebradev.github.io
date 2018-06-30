@@ -1,0 +1,17 @@
+<div class="pagination-buttons">
+    <% if (page.prev) { %>
+        <% if (page.prev === 1) { %>
+        <a class="btn btn-quebradev" href="<%- url_for(' ') %>">
+            <% } else { %>
+            <a class="btn btn-quebradev" href="<%- url_for(page.prev_link) %>">
+                <% } %>
+                <span>< Novos</span>
+            </a>
+        </a>
+    <% } %>
+    <% if (page.next) { %>
+        <a class="btn btn-quebradev" href="<%- url_for(page.next_link) %>">
+            <span>Antigos ></span>
+        </a>
+    <% } %>
+</div>

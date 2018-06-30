@@ -1,0 +1,43 @@
+.navbar-toggler {
+  border: 1px solid #fff; // remove default button style
+  font-size: 30px;
+  border-radius: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+
+  &:active, &:focus {
+    outline: none;
+  }
+}
+
+.navbar {
+  height: 238px;
+  background-image: url('../images/background.png');
+  background-color: #000;
+
+  .navbar-brand {
+    padding: 0 30px 0 30px;
+    img {
+      height: 127px;
+    }
+  }
+
+  .nav-item {
+    font-size: 28px;
+    text-align: center;
+  }
+}
+
+footer {
+  background-image: url('../images/footer.png');
+  background-size: cover;
+}
+
+@include media-breakpoint-down(xs) {
+  .navbar {
+    .navbar-brand {
+      img {
+        height: 90px;
+      }
+    }
+  }
+}

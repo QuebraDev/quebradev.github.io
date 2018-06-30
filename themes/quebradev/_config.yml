@@ -1,0 +1,26 @@
+# Header
+menu:
+  Home: /
+rss: http://feeds.soundcloud.com/users/soundcloud:users:449199045/sounds.rss
+cover: https://avatars0.githubusercontent.com/u/39226661?s=400&u=f55b0c891367489d62d138537b527c49045f71b3&v=4
+favicon: /favicon.ico
+twitter: quebradev
+google_analytics: UA-119134705-1
+footer_links:
+  twitter:
+    link: https://twitter.com/quebradev
+  github:
+    link: https://github.com/QuebraDev
+  soundcloud:
+    link: https://soundcloud.com/quebradev
+  youtube:
+    link: https://www.youtube.com/channel/UCcC9BomrjB8nM4WwGXxAkgg
+
+node_sass:
+  outputStyle: compressed
+  precision: 5
+  sourceComments: false
+  file: themes/quebradev/source/css/app.scss
+
+webpack:
+  entry: themes/quebradev/source/js/app.js
