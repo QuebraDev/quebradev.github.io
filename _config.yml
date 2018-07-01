@@ -75,6 +75,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: quebradev
 
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+
+robotstxt:
+  useragent: "*"
+  sitemap: /sitemap.xml
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
