@@ -1,5 +1,5 @@
 ---
-title: '#2 - Iniciando em Desenvolvimento Web - Back-End'
+title: '#2 - Iniciando no Desenvolvimento Web - Back-End'
 participants:
   - name: Kaio Leal
     twitter: teixeirak_
