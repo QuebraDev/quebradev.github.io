@@ -34,7 +34,11 @@ songs:
 date: 2018-07-10 05:58:25
 tags: linguagens, programacao, como escolher, como começar, php, python, javascript, tecnologia, quebradev
 cover: /images/linguagens-como-ferramentas-como-escolher.png
-description:
+description: 'É um tema polêmico que confronta diretamente aquela treta chata e infinita: "Ai, a linguagem que eu uso é melhor da melhor do mundo!", "Ui, só a linguagem que eu uso é performática!", "Ai, a linguagem que eu uso tem a melhor semântica!"'
 soundcloud_id: 469640451
 ---
+
+Neste episódio iremos abordar o tema: Linguagens como ferramentas, como escolhe-las? 
+É um tema polêmico que confronta diretamente aquela treta chata e infinita: "Ai, a linguagem que eu uso é melhor da melhor do mundo!", "Ui, só a linguagem que eu uso é performática!", "Ai, a linguagem que eu uso tem a melhor semântica!" e nossa proposta é demonstrar que linguagens de programação são ferramentas que servem para resolver problemas e que a melhor linguagem é aquela que resolverá melhor o seu problema do momento.
+Então chega mais e da play no bagulho que ta rolando uma roda de capoeira pesadona enquanto a gente caga regra pra vocês.
 
