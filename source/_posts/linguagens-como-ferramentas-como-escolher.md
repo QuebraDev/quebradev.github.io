@@ -42,3 +42,4 @@ Neste episódio iremos abordar o tema: Linguagens como ferramentas, como escolhe
 É um tema polêmico que confronta diretamente aquela treta chata e infinita: "Ai, a linguagem que eu uso é melhor da melhor do mundo!", "Ui, só a linguagem que eu uso é performática!", "Ai, a linguagem que eu uso tem a melhor semântica!" e nossa proposta é demonstrar que linguagens de programação são ferramentas que servem para resolver problemas e que a melhor linguagem é aquela que resolverá melhor o seu problema do momento.
 Então chega mais e da play no bagulho que ta rolando uma roda de capoeira pesadona enquanto a gente caga regra pra vocês.
 
+Se vocês curtem o conteúdo, não esqueçam de divulgar a gente pra todo canto, além de nos dar singelas opiniões também, vocês são a fonte de energia para que nós consigamos produzir este canal de comunicação.
