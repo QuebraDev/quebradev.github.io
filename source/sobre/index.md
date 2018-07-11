@@ -9,28 +9,28 @@ members: [
         twitter: 'teixeirak_',
         github: 'kteixeira',
         linkedin: 'https://www.linkedin.com/in/kaio-teixeira-9118a95a/',
-        photo: 'https://pbs.twimg.com/profile_images/986650009184690178/b52h9Vjr_400x400.jpg'
+        photo: 'kaio.jpg'
     },
     {
         name: 'Gustavo Castilião',
         twitter: 'gucastiliao',
         github: 'gucastiliao',
         linkedin: 'https://www.linkedin.com/in/gcastiliao/',
-        photo: 'https://pbs.twimg.com/profile_images/1000010066467217408/Pqjj7L6c_400x400.jpg'
+        photo: 'gustavo.jpeg'
     },
     {
         name: 'Reginaldo Junior',
         twitter: 'reginaldoojnr',
         github: 'reginaldojunior',
         linkedin: 'https://www.linkedin.com/in/reginaldo-luis-luna-junior-b26b4b79/',
-        photo: 'https://pbs.twimg.com/profile_images/990633221460299782/WGL2g5Q6_400x400.jpg'
+        photo: 'reginaldo.jpg'
     },
     {
         name: 'Matheus Hernandes',
         twitter: 'onhernandes',
         github: 'onhernandes',
         linkedin: 'https://www.linkedin.com/in/onhernandes/',
-        photo: 'https://pbs.twimg.com/profile_images/954835525663363074/GoLnIZ39_400x400.jpg'
+        photo: 'matheus.jpg'
     }
 ]
 ---
