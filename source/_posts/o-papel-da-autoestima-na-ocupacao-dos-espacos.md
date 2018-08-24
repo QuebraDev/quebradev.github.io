@@ -11,10 +11,14 @@ participants:
     twitter: reginaldoojnr
     github: reginaldojunior
 links:
-  - name: Lorem Ipsum
-    link: 'https://www.lorem.ipsum/'
-  - name: Lorem Ipsum
-    link: 'https://www.lorem.ipsum/'
+  - name: Precisamos romper com os silêncios.
+    link: 'https://www.youtube.com/watch?v=6JEdZQUmdbc'
+  - name: Brancos são a maiorias em empregos de elite e negros ocupam vagas sem qualificação.
+    link: 'https://g1.globo.com/economia/noticia/brancos-sao-maioria-em-empregos-de-elite-e-negros-ocupam-vagas-sem-qualificacao.ghtml'
+  - name: A guerra não declarada na visão de um favelado.
+    link: 'https://vaiserrimando.com.br/2013/11/03/eduardo-livro-guerra-nao-declarada-visao-favelado-resenha/'
+  - name: 'Eduardo Galeano'
+    link: 'https://pt.wikipedia.org/wiki/Eduardo_Galeano'
 songs:
   - name: '509-E - Oitavo Anjo'
   - name: 'DMN - H Ponto Aço part. Edi Rock'
