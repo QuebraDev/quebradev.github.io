@@ -11,7 +11,7 @@
 
 .navbar {
   height: 238px;
-  background-image: url('../images/background.png');
+  background-image: url('../images/quebradev-background.png');
   background-color: #000;
 
   .navbar-brand {
@@ -28,7 +28,7 @@
 }
 
 footer {
-  background-image: url('../images/footer.png');
+  background-image: url('../images/quebradev-footer.png');
   background-size: cover;
 }
 
@@ -36,7 +36,7 @@ footer {
   .navbar {
     .navbar-brand {
       img {
-        height: 90px;
+        height: 40px;
       }
     }
   }
