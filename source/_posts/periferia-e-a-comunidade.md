@@ -1,5 +1,6 @@
 ---
 title: '#0 - Periferia e a Comunidade'
+mp3: true
 participants:
   - name: Kaio Leal
     twitter: teixeirak_
