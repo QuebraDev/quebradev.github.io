@@ -77,27 +77,6 @@ footer {
   }
 }
 
-.glitch{
-  position: relative;
-  &:before,
-  &:after{
-    content: attr(data-text);
-    position: absolute;
-    top: 0;
-    width: 100%;
-    background: black;
-    clip: rect(0, 0, 0, 0);
-  }
-  &:before{
-    left: -1px;
-    text-shadow: 1px 0 #f0f;
-  }
-  &:after{
-    left: -1px;
-    text-shadow: -1px 0 #0ff;
-  }
-}
-
 @include media-breakpoint-down(sm) {
   .navbar-toggler {
     border: none;
