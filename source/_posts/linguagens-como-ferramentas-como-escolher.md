@@ -2,7 +2,7 @@
 title: '#6 - Linguagens como ferramentas como escolher?'
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao

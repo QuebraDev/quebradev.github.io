@@ -2,7 +2,7 @@
 title: '#2 - Iniciando no Desenvolvimento Web - Back-End'
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao
