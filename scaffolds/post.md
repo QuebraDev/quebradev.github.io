@@ -1,5 +1,6 @@
 ---
 title: '#0 - Titulo Podcast'
+type: 'tecnologia'
 date: {{ date }}
 tags:
 cover: 

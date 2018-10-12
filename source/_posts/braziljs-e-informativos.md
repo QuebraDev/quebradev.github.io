@@ -1,5 +1,6 @@
 ---
 title: '#8 - [Relâmpago] BrazilJS e Informativos'
+type: 'tecnologia'
 participants:
   - name: Kaio Leal
     twitter: kaletex

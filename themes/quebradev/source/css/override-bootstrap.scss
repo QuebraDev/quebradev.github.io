@@ -9,6 +9,27 @@
   }
 }
 
+.site-header {
+  background: rgba(0, 0, 0, 0.8);
+  margin-bottom: -50px;
+
+  a {
+    margin: 0 10px;
+    font-size: 25px;
+
+    &:after {
+      content: '';
+      display: block;
+      height: 12px;
+      border-right: 1px solid #333;
+      float: right;
+      position: relative;
+      top: 12px;
+      left: 10px;
+    }
+  }
+}
+
 .navbar {
   height: 238px;
   background-image: url('../images/quebradev-background.png');
@@ -27,16 +48,60 @@
   }
 }
 
+select.form-control {
+  border-radius: 0!important;
+  background: #000;
+  outline: none;
+  color: #fff;
+  border: 1px solid #4e4e4e;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: transparent url('../images/down-arrow.svg') no-repeat right center;
+  background-size: 21px;
+  background-position-x: 98%;
+  cursor: pointer;
+
+  &:hover {
+    border-color: #ffffff;
+  }
+
+  &:focus {
+    background: transparent url('../images/down-arrow.svg') no-repeat right center;
+    background-size: 21px;
+    background-position-x: 98%;
+    color: inherit;
+    border-color: #ffffff;
+    outline: 0;
+    box-shadow: none;
+  }
+}
+
 footer {
   background-image: url('../images/quebradev-footer.png');
   background-size: cover;
+}
+
+@include media-breakpoint-down(sm) {
+  .site-header {
+    a {
+      font-size: 18px;
+      display: inline-block;
+      text-align: center;
+      padding:0!important;
+
+      &:after {
+        display: none;
+      }
+    }
+  }
 }
 
 @include media-breakpoint-down(xs) {
   .navbar {
     .navbar-brand {
       img {
-        height: 40px;
+        height: 45px;
       }
     }
   }

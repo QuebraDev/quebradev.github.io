@@ -1,5 +1,6 @@
 ---
 title: '#2 - Iniciando no Desenvolvimento Web - Back-End'
+type: 'tecnologia'
 participants:
   - name: Kaio Leal
     twitter: kaletex

@@ -1,5 +1,6 @@
 ---
 title: '#0 - Periferia e a Comunidade'
+type: 'vivencias'
 category: 'podcast'
 participants:
   - name: Kaio Leal
@@ -40,7 +41,6 @@ songs:
 date: 2018-05-14 00:00:00
 tags: tecnologia, periferia, conhecimento, desenvolvimento, quebradev, piloto, como surgiu, ideias
 cover: /images/periferia-e-a-comunidade.png
-type: audio/mpeg
 duration: 46:46:00
 description: Episódio piloto, apresentaremos aqui a ideia da criação do podcast, além de um pouco da nossa vivência.
 soundcloud_id: 444376998

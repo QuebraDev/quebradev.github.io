@@ -18,6 +18,20 @@ footer_links:
   github:
     link: https://github.com/QuebraDev
 
+types:
+  tecnologia: 
+    name: 'Tecnologia'
+    description: 'Lorem ipsum'
+  vivencias: 
+    name: 'Vivências'
+    description: 'Lorem ipsum'
+  raizes:
+    name: 'Raízes' 
+    description: 'Lorem ipsum'
+  politize: 
+    name: 'Politize-se'
+    description: 'Lorem ipsum'
+
 node_sass:
   outputStyle: compressed
   precision: 5

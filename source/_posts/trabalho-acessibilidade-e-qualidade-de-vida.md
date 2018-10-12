@@ -1,5 +1,6 @@
 ---
 title: '#5 - Trabalho, acessibilidade e qualidade de vida.'
+type: 'politize'
 participants:
   - name: Kaio Leal
     twitter: kaletex

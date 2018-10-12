@@ -2,8 +2,29 @@
     <h1 class="page-title">Episódios</h1>
 
     <div class="row">
+        <div class="filter col-12 col-lg-4">
+            <h4>Filtre por assunto:</h4>
+            <select id="select-podcast-type" class="form-control">
+                <option value="all">Todos</option>
+                <% for (var key in theme.types) { %>
+                    <option value="<%= key %>"><%= theme.types[key].name %></option>
+                <% } %>
+            </select>
+            
+            <% for (var key in theme.types) { %>
+                <div class="type-description" data-description-type="<%= key %>">
+                    <h5><%= theme.types[key].name %></h5>
+                    <p><%= theme.types[key].description %></p>
+                </div>
+            <% } %>
+
+            <p class="ep-count"><%= page.posts.length %> episódios encontrados.</p>
+        </div>
+    </div>
+
+    <div class="row">
         <% page.posts.each(function(post){ %>
-            <article class="col-12 col-lg-6">
+            <article class="col-12 col-lg-6" data-post-type="<%= post.type %>">
                 <div class="podcast-item row">
                     <div class="col-12">
                         <a href="<%- url_for(post.path) %>" title="<%= post.title %>">

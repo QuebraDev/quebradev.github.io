@@ -1,5 +1,6 @@
 ---
 title: '#3 - Por que ser um desenvolvedor web?'
+type: 'tecnologia'
 participants:
   - name: Kaio Leal
     twitter: kaletex

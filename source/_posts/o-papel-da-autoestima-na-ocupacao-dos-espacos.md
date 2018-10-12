@@ -1,5 +1,6 @@
 ---
 title: '#7 - O papel da autoestima na ocupação dos espaços'
+type: 'politize'
 participants:
   - name: Kaio Leal
     twitter: kaletex
