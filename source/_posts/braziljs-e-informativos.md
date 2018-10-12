@@ -2,7 +2,7 @@
 title: '#8 - [Relâmpago] BrazilJS e Informativos'
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao

@@ -6,7 +6,7 @@ uses: members
 members: [
     {
         name: 'Kaio Teixeira',
-        twitter: 'teixeirak_',
+        twitter: 'kaletex',
         github: 'kteixeira',
         linkedin: 'https://www.linkedin.com/in/kaio-teixeira-9118a95a/',
         photo: 'kaio.jpg'

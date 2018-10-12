@@ -2,7 +2,7 @@
 title: '#5 - Trabalho, acessibilidade e qualidade de vida.'
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao

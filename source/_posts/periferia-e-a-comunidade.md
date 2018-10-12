@@ -3,7 +3,7 @@ title: '#0 - Periferia e a Comunidade'
 category: 'podcast'
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao

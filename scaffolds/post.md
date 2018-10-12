@@ -7,7 +7,7 @@ description:
 soundcloud_id: 
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao

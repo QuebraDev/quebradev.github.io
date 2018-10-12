@@ -2,7 +2,7 @@
 title: '#4 - Por que Linux?'
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao

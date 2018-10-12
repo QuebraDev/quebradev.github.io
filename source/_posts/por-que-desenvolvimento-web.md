@@ -2,7 +2,7 @@
 title: '#3 - Por que ser um desenvolvedor web?'
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao

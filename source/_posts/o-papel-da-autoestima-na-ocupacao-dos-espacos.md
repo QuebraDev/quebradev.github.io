@@ -2,7 +2,7 @@
 title: '#7 - O papel da autoestima na ocupação dos espaços'
 participants:
   - name: Kaio Leal
-    twitter: teixeirak_
+    twitter: kaletex
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gucastiliao
