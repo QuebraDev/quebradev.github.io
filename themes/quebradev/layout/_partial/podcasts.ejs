@@ -10,16 +10,16 @@
                     <option value="<%= key %>"><%= theme.types[key].name %></option>
                 <% } %>
             </select>
-            
-            <% for (var key in theme.types) { %>
-                <div class="type-description" data-description-type="<%= key %>">
-                    <h5><%= theme.types[key].name %></h5>
-                    <p><%= theme.types[key].description %></p>
-                </div>
-            <% } %>
 
             <p class="ep-count"><%= page.posts.length %> episódios encontrados.</p>
         </div>
+
+        <% for (var key in theme.types) { %>
+            <div class="type-description text-right col-12 col-lg-8" data-description-type="<%= key %>">
+                <h4><%= theme.types[key].name %></h4>
+                <p><%= theme.types[key].description %></p>
+            </div>
+        <% } %>
     </div>
 
     <div class="row">
