@@ -24,6 +24,8 @@ links:
     link: 'https://www.tracto.com.br/o-que-e-storytelling/'
   - name: 'Uma das threads do Ale Santos'
     link: 'https://twitter.com/Savagefiction/status/1052337358215950336'
+  - name: 'FLUP - Festa Literária das Periferias'
+    link: 'http://flup.net.br/'
 songs:
   - name: Emicida e Lakers e Pá - Minha Vida
   - name: IZA - Dona de Mim
