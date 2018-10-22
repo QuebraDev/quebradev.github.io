@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>QuebraDev</title>
+    <link>http://quebradev.com.br/</link>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>QuebraDev</itunes:author>
+    <itunes:summary>Um podcast de origem periférica e com destino voltado à origem.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>quebradev@gmail.com</itunes:name>
+      <itunes:email>quebradev@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://quebradev.com.br" />
+    <itunes:category text="CATEGORY">
+      <itunes:category text="CATEGORY" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <language>zh-CN</language>
+    
+    <item>
+      <title>#0 - Periferia e a Comunidade</title>
+      <description> Neste episódio falamos um pouco sobre a ideia do podcast e como ele surgiu, os problemas de locomoção entre periferia e centro para o trabalho, e também falamos sobre como conhecemos a área de desenvolvimento e principais dificuldades em se habituar no ambiente de trabalho, passamos um pouco sobre a sindrome do impostor e para finalizar falamos sobre as comunidades de desenvolvimento e como elas podem ajudar você a crescer pessoalmente e profissionalmente, tudo isso com muita cultura Hip Hop.
+ </description>
+      <itunes:author> QuebraDev</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="https://URL/to/static/resources" />
+      <enclosure url="https://URL/to/static/resources" length="" type=""/>
+      <guid></guid>
+      <pubDate>Mon, 14 May 2018 03:00:00 GMT</pubDate>
+      <itunes:duration>168360</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+  </channel>
+</rss>
