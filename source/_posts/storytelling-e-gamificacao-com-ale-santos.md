@@ -41,4 +41,4 @@ description: 'O Alê é um Consultor de Games, autor de fantasias afro-americana
 soundcloud_id: 517897878
 ---
 
-O Alê é um Consultor de Games, autor de fantasias afro-americanas e ficação científica, a zica viva do marketing inovador e estratégico, o trabalho em que eu o conhecemos foram as threads que ele cria no twitter, além do mais, o cara é fundador de uma consultoria de entretenimento estratégico chamada Savage Fiction.
+O Alê é um Consultor de Games, autor de fantasias afro-americanas e ficação científica, a zica viva do marketing inovador e estratégico, o trabalho em que o conhecemos foram as threads que ele cria no twitter, além do mais, o cara é fundador de uma consultoria de entretenimento estratégico chamada Savage Fiction.
