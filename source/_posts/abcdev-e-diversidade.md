@@ -30,7 +30,7 @@ songs:
   - name: Dina Di - Mente Engatilhada
   - name: Quebrada Queer - Pra Quem Duvidou
   - name: Liniker e os Caramelows - Calmo
-date: 2018-11-22 12:00:00
+date: 2018-11-21 12:00:00
 tags: quebradev, abcdev, diversidade, tecnologia, conhecimento, inclusao, periferia
 cover: /images/abcdev-e-diversidade.png
 description: 'Nesse episódio, conversamos um pouco sobre como foi a experiência de participar  do ABC-Dev, que é a maior conferência dev do Grande ABC e que foi o evento onde tivemos um espaço muito foda para debater ideias e onde conhecemos pessoas incríveis.'
