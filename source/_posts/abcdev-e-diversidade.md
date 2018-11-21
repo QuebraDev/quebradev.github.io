@@ -33,8 +33,12 @@ songs:
 date: 2018-11-22 12:00:00
 tags: quebradev, abcdev, diversidade, tecnologia, conhecimento, inclusao, periferia
 cover: /images/abcdev-e-diversidade.png
-description:
+description: 'Nesse episódio, conversamos um pouco sobre como foi a experiência de participar  do ABC-Dev, que é a maior conferência dev do Grande ABC e que foi o evento onde tivemos um espaço muito foda para debater ideias e onde conhecemos pessoas incríveis.'
 soundcloud_id: 533190777
 ---
 
-Lorem ipsum
+Nesse episódio, conversamos um pouco sobre como foi a experiência de participar  do ABC-Dev, que é a maior conferência dev do Grande ABC e que foi o evento onde tivemos um espaço muito foda para debater ideias e onde conhecemos pessoas incríveis.
+ 
+Também conversamos sobre assuntos relacionados a diversidade e inclusão na área de tecnologia e tudo isso com a ilustre presença da Miguel que é a zica viva das interwebs e dos eventos, tá ligado? 
+
+Então faz assim dá o play aí, se curtir, manda pros camaradas e comente nas redes o que achou do episódio!
