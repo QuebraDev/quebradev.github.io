@@ -18,10 +18,10 @@ participants:
     twitter: oieusouamiguell
     github: oieusouamiguel
 links:
-  - name: Lorem Ipsum
-    link: 'https://www.lorem.ipsum/'
-  - name: Lorem Ipsum
-    link: 'https://www.lorem.ipsum/'
+  - name: 'ABC-Dev 2018'
+    link: 'https://2018.abcdevelopers.org/'
+  - name: 'LGBTI+ In Tech'
+    link: 'https://www.meetup.com/LGBTIinTech-SP/'
 songs:
   - name: Michael Jackson - They Don’t Care About Us
   - name: Rico Dalasam - Aceite-C
