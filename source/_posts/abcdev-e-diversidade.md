@@ -1,5 +1,5 @@
 ---
-title: '#11 - ABCDev e Diversidade'
+title: '#11 - [Politize-se] ABCDev e Diversidade'
 type: politize
 participants:
   - name: Kaio Leal
