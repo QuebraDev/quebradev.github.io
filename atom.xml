@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://quebradev.com.br/"/>
-  <updated>2018-10-22T16:48:01.999Z</updated>
+  <updated>2018-11-21T15:32:01.287Z</updated>
   <id>http://quebradev.com.br/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>#11 - ABCDev e Diversidade</title>
+    <link href="http://quebradev.com.br/abcdev-e-diversidade/"/>
+    <id>http://quebradev.com.br/abcdev-e-diversidade/</id>
+    <published>2018-11-22T14:00:00.000Z</published>
+    <updated>2018-11-21T15:32:01.287Z</updated>
+    
+    <content type="html"><![CDATA[<p>Nesse episódio, conversamos um pouco sobre como foi a experiência de participar  do ABC-Dev, que é a maior conferência dev do Grande ABC e que foi o evento onde tivemos um espaço muito foda para debater ideias e onde conhecemos pessoas incríveis.</p><p>Também conversamos sobre assuntos relacionados a diversidade e inclusão na área de tecnologia e tudo isso com a ilustre presença da Miguel que é a zica viva das interwebs e dos eventos, tá ligado? </p><p>Então faz assim dá o play aí, se curtir, manda pros camaradas e comente nas redes o que achou do episódio!</p>]]></content>
+    
+    <summary type="html">
+    
+      Nesse episódio, conversamos um pouco sobre como foi a experiência de participar  do ABC-Dev, que é a maior conferência dev do Grande ABC e que foi o evento onde tivemos um espaço muito foda para debater ideias e onde conhecemos pessoas incríveis.
+    
+    </summary>
+    
+    
+      <category term="quebradev, abcdev, diversidade, tecnologia, conhecimento, inclusao, periferia" scheme="http://quebradev.com.br/tags/quebradev-abcdev-diversidade-tecnologia-conhecimento-inclusao-periferia/"/>
+    
+  </entry>
+  
+  <entry>
     <title>#10 - [Raízes] Storytelling e Gamificação - com Ale Santos</title>
     <link href="http://quebradev.com.br/storytelling-e-gamificacao-com-ale-santos/"/>
     <id>http://quebradev.com.br/storytelling-e-gamificacao-com-ale-santos/</id>
     <published>2018-10-22T15:00:00.000Z</published>
-    <updated>2018-10-22T16:48:01.999Z</updated>
+    <updated>2018-10-22T21:00:30.543Z</updated>
     
     <content type="html"><![CDATA[<p>O Alê é um Consultor de Games, autor de fantasias afro-americanas e ficção científica, a zica viva do marketing inovador e estratégico, o trabalho em que o conhecemos foram as threads que ele cria no twitter, além do mais, o cara é fundador de uma consultoria de entretenimento estratégico chamada Savage Fiction.</p>]]></content>
     
@@ -41,7 +61,7 @@
     <link href="http://quebradev.com.br/javascript-com-a-miguel/"/>
     <id>http://quebradev.com.br/javascript-com-a-miguel/</id>
     <published>2018-10-16T15:00:00.000Z</published>
-    <updated>2018-10-22T16:48:01.995Z</updated>
+    <updated>2018-10-22T21:00:30.539Z</updated>
     
     <content type="html"><![CDATA[<p>O episódio da vez foi atendendo a pedidos que recebemos por ouvintes, temos convidada no recinto e não é do sexo masculino, falaremos de JavaScript com a Miguel.<br>Falamos um pouco sobre história da tão aclamada ECMAScript, a forma que o JQuery fez com que essa linguagem maravilhosa chegasse como chegou aos dias de hoje, não deixamos de lado os frameworks e as tretas que rodeiam este tema e o mais daora, com cultura de rua, com periféricos e umas risadas, então assim.. sem mais delongas, ouve o bagulho aí.</p>]]></content>
     
@@ -61,7 +81,7 @@
     <link href="http://quebradev.com.br/braziljs-e-informativos/"/>
     <id>http://quebradev.com.br/braziljs-e-informativos/</id>
     <published>2018-09-13T15:20:19.000Z</published>
-    <updated>2018-10-22T16:48:01.995Z</updated>
+    <updated>2018-10-22T21:00:30.539Z</updated>
     
     <content type="html"><![CDATA[<p>Fizemos este episódio na correria para noticiar algo que está fazendo com que nossas pequenas ideias tomem corpo e migrem para o mundo real, temos novidades e vocês precisam nos ouvir, então façam o favor, liguem seus autofalantes e dêem play na bagaça!</p>]]></content>
     
@@ -81,7 +101,7 @@
     <link href="http://quebradev.com.br/o-papel-da-autoestima-na-ocupacao-dos-espacos/"/>
     <id>http://quebradev.com.br/o-papel-da-autoestima-na-ocupacao-dos-espacos/</id>
     <published>2018-08-23T03:37:22.000Z</published>
-    <updated>2018-10-22T16:48:01.999Z</updated>
+    <updated>2018-10-22T21:00:30.543Z</updated>
     
     <content type="html"><![CDATA[<p>Ó quem voltou doutor, o podcast mais periférico do bagulho e nesse episódio de retorno deixamos uma pitada de polêmica com uma pauta meio… política — que não deixa de fazer parte do que representa a tecnologia, seus meios de acessibilidade e transformação da sociedade.<br>Falamos sobre ocupação de espaços, autoestima e otras cositas más, cositas estas que vocês vão ficar sabendo assim que ouvirem, então sem mais delongas, da play na bagaça e não esqueça de compartilhar, mandar críticas, sugestões e até elogios, precisamos de interação, aliás não somos nada sem vocês.</p>]]></content>
     
@@ -101,7 +121,7 @@
     <link href="http://quebradev.com.br/linguagens-como-ferramentas-como-escolher/"/>
     <id>http://quebradev.com.br/linguagens-como-ferramentas-como-escolher/</id>
     <published>2018-07-10T08:58:25.000Z</published>
-    <updated>2018-10-22T16:48:01.995Z</updated>
+    <updated>2018-10-22T21:00:30.543Z</updated>
     
     <content type="html"><![CDATA[<p>Neste episódio iremos abordar o tema: Linguagens como ferramentas, como escolhe-las?<br>É um tema polêmico que confronta diretamente aquela treta chata e infinita: “Ai, a linguagem que eu uso é melhor da melhor do mundo!”, “Ui, só a linguagem que eu uso é performática!”, “Ai, a linguagem que eu uso tem a melhor semântica!” e nossa proposta é demonstrar que linguagens de programação são ferramentas que servem para resolver problemas e que a melhor linguagem é aquela que resolverá melhor o seu problema do momento.<br>Então chega mais e da play no bagulho que ta rolando uma roda de capoeira pesadona enquanto a gente caga regra pra vocês.</p><p>Se vocês curtem o conteúdo, não esqueçam de divulgar a gente pra todo canto, além de nos dar singelas opiniões também, vocês são a fonte de energia para que nós consigamos produzir este canal de comunicação.</p>]]></content>
     
@@ -121,7 +141,7 @@
     <link href="http://quebradev.com.br/trabalho-acessibilidade-e-qualidade-de-vida/"/>
     <id>http://quebradev.com.br/trabalho-acessibilidade-e-qualidade-de-vida/</id>
     <published>2018-07-02T21:24:02.000Z</published>
-    <updated>2018-10-22T16:48:01.999Z</updated>
+    <updated>2018-10-22T21:00:30.543Z</updated>
     
     <content type="html"><![CDATA[<p>Discutimos qualidade de vida, pontos de melhorias e como ter uma vida mais saudável melhorando seu trajeto até o trabalho, falamos um pouco sobre a formação das periferias e a dificuldade no trajeto intermunicipal, comentamos sobre a importância de estar nos lugares e tudo isso com muito Hip Hop, Capoeira e os salves para aquele pessoal que entrou em contato conosco.</p>]]></content>
     
@@ -141,7 +161,7 @@
     <link href="http://quebradev.com.br/por-que-linux/"/>
     <id>http://quebradev.com.br/por-que-linux/</id>
     <published>2018-06-25T12:51:07.000Z</published>
-    <updated>2018-10-22T16:48:01.999Z</updated>
+    <updated>2018-10-22T21:00:30.543Z</updated>
     
     <content type="html"><![CDATA[<p>Dessa vez falamos um pouco dos motivos para usar Linux. Abordamos também as vantagens e desvantagens de usar, apresentando também algumas distribuições feitas especificamente para cada tipo de tarefa, como por exemplo, jogos ou edição de imagens.</p><p>Explicamos alguns detalhes mais técnicos envolvendo o linux e a sua arquitetura e como funcionam os gerenciadores de pacotes. No final demos algumas dicas para quem deseja se aventurar pelo linux. Tudo isso com muita música boa e um pouco de jazz.</p>]]></content>
     
@@ -161,7 +181,7 @@
     <link href="http://quebradev.com.br/por-que-desenvolvimento-web/"/>
     <id>http://quebradev.com.br/por-que-desenvolvimento-web/</id>
     <published>2018-06-11T12:37:34.000Z</published>
-    <updated>2018-10-22T16:48:01.999Z</updated>
+    <updated>2018-10-22T21:00:30.543Z</updated>
     
     <content type="html"><![CDATA[<p>Depois de falar sobre Back-End e Front-End, acatamos uma sugestão e assim, voltamos para explicar o nosso ponto de vista sobre motivos que temos para incentivarmos as pessoas a estudarem sobre desenvolvimento web.<br>A evolução da tecnologia, a evolução da internet, áreas envolvidas no desenvolvimento de software, dificuldades, facilidades, comunidades, mercado de trabalho, cultura e ambientação… falamos sobre tudo isso com muito humor, samba e treta, como qualquer outro debate saudável, então cuidado ao dar play, o bagulho é louco.</p>]]></content>
     
@@ -181,7 +201,7 @@
     <link href="http://quebradev.com.br/iniciando-no-desenvolvimento-web-back-end/"/>
     <id>http://quebradev.com.br/iniciando-no-desenvolvimento-web-back-end/</id>
     <published>2018-06-04T12:30:47.000Z</published>
-    <updated>2018-10-22T16:48:01.995Z</updated>
+    <updated>2018-10-22T21:00:30.539Z</updated>
     
     <content type="html"><![CDATA[<p>Continuando a série de como iniciar no desenvolvimento web e dessa vez falamos sobre o mundo backend. Toda aquela parte que você não vê no software mas faz todo o processamento e mágica dos seus dados. Passamos sobre diversos temas que envolve o backend, lógica, lógica de programação, servidores, linguagens de programação, mercado de trabalho, ambiente de trabalho e a pouca diversificação nesta categoria de trabalho</p>]]></content>
     
@@ -199,7 +219,7 @@
     <link href="http://quebradev.com.br/iniciando-no-desenvolvimento-web-front-end/"/>
     <id>http://quebradev.com.br/iniciando-no-desenvolvimento-web-front-end/</id>
     <published>2018-05-24T03:00:00.000Z</published>
-    <updated>2018-10-22T16:48:01.995Z</updated>
+    <updated>2018-10-22T21:00:30.539Z</updated>
     
     <content type="html"><![CDATA[<p>Nesse episódio nós iremos dar uma pequena prévia de como podem ser dados os primeiros passos para se tornar um desenvolvedor web. Abordamos desde conceitos técnicos estruturais sobre a Web até um dos destinos da área: como iniciar no Desenvolvimento Front-End. Não deixamos de citar referências, comunidades e sem deixar de lado a cultura Hip Hop. Deixamos explícitas muitas de nossas opiniões e caso você tenha algo a acrescentar, entre em contato com a gente, o compartilhamento de ideias é sempre bem vindo!</p>]]></content>
     
@@ -219,7 +239,7 @@
     <link href="http://quebradev.com.br/periferia-e-a-comunidade/"/>
     <id>http://quebradev.com.br/periferia-e-a-comunidade/</id>
     <published>2018-05-14T03:00:00.000Z</published>
-    <updated>2018-10-22T16:48:01.999Z</updated>
+    <updated>2018-10-22T21:00:30.543Z</updated>
     
     <content type="html"><![CDATA[<p>Neste episódio falamos um pouco sobre a ideia do podcast e como ele surgiu, os problemas de locomoção entre periferia e centro para o trabalho, e também falamos sobre como conhecemos a área de desenvolvimento e principais dificuldades em se habituar no ambiente de trabalho, passamos um pouco sobre a sindrome do impostor e para finalizar falamos sobre as comunidades de desenvolvimento e como elas podem ajudar você a crescer pessoalmente e profissionalmente, tudo isso com muita cultura Hip Hop.</p>]]></content>
     
