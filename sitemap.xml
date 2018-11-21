@@ -8,12 +8,12 @@
     <url>
         <loc>http://quebradev.com.br/abcdev-e-diversidade/</loc>
         
-        <lastmod>2018-11-21T15:41:26.725Z</lastmod>
+        <lastmod>2018-11-21T15:44:13.617Z</lastmod>
         
     </url>
     
     <url>
-        <loc>http://quebradev.com.br/sobre/index.html</loc>
+        <loc>http://quebradev.com.br/o-papel-da-autoestima-na-ocupacao-dos-espacos/</loc>
         
         <lastmod>2018-10-22T21:00:30.543Z</lastmod>
         
@@ -34,13 +34,6 @@
     </url>
     
     <url>
-        <loc>http://quebradev.com.br/linguagens-como-ferramentas-como-escolher/</loc>
-        
-        <lastmod>2018-10-22T21:00:30.543Z</lastmod>
-        
-    </url>
-    
-    <url>
         <loc>http://quebradev.com.br/por-que-linux/</loc>
         
         <lastmod>2018-10-22T21:00:30.543Z</lastmod>
@@ -48,7 +41,14 @@
     </url>
     
     <url>
-        <loc>http://quebradev.com.br/por-que-desenvolvimento-web/</loc>
+        <loc>http://quebradev.com.br/linguagens-como-ferramentas-como-escolher/</loc>
+        
+        <lastmod>2018-10-22T21:00:30.543Z</lastmod>
+        
+    </url>
+    
+    <url>
+        <loc>http://quebradev.com.br/sobre/index.html</loc>
         
         <lastmod>2018-10-22T21:00:30.543Z</lastmod>
         
@@ -62,16 +62,9 @@
     </url>
     
     <url>
-        <loc>http://quebradev.com.br/o-papel-da-autoestima-na-ocupacao-dos-espacos/</loc>
+        <loc>http://quebradev.com.br/por-que-desenvolvimento-web/</loc>
         
         <lastmod>2018-10-22T21:00:30.543Z</lastmod>
-        
-    </url>
-    
-    <url>
-        <loc>http://quebradev.com.br/iniciando-no-desenvolvimento-web-back-end/</loc>
-        
-        <lastmod>2018-10-22T21:00:30.539Z</lastmod>
         
     </url>
     
@@ -83,14 +76,21 @@
     </url>
     
     <url>
-        <loc>http://quebradev.com.br/braziljs-e-informativos/</loc>
+        <loc>http://quebradev.com.br/iniciando-no-desenvolvimento-web-front-end/</loc>
         
         <lastmod>2018-10-22T21:00:30.539Z</lastmod>
         
     </url>
     
     <url>
-        <loc>http://quebradev.com.br/iniciando-no-desenvolvimento-web-front-end/</loc>
+        <loc>http://quebradev.com.br/iniciando-no-desenvolvimento-web-back-end/</loc>
+        
+        <lastmod>2018-10-22T21:00:30.539Z</lastmod>
+        
+    </url>
+    
+    <url>
+        <loc>http://quebradev.com.br/braziljs-e-informativos/</loc>
         
         <lastmod>2018-10-22T21:00:30.539Z</lastmod>
         
