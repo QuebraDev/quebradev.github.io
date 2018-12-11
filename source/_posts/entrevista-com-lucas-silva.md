@@ -1,0 +1,41 @@
+---
+title: '#12 - [Raízes] Entrevista com Lucas Silva'
+type: raizes
+participants:
+  - name: Kaio Leal
+    twitter: kaletex
+    github: kteixeira
+  - name: Gustavo Castilião
+    twitter: gucastiliao
+    github: gucastiliao
+  - name: Reginaldo Junior
+    twitter: reginaldoojnr
+    github: reginaldojunior
+  - name: Lucas Silva
+    twitter: lucas_dejsilva
+    github: lucasjs
+links:
+  - name: Lucas J S - Medium
+    link: 'https://medium.com/@lucasjs'
+  - name: 'Oi, meu nome é Lucas e eu sou um “viciado”'
+    link: 'https://medium.com/@lucasjs/oi-meu-nome-%C3%A9-lucas-e-eu-sou-um-viciado-4a8a629cff5c'
+  - name: Curso Design Digital
+    link: 'https://portal.anhembi.br/graduacao/cursos/design-digital/'
+  - name: Training Center
+    link: 'https://github.com/training-center'
+songs:
+  - name: Racionais MC's - O Homem na estrada
+  - name: Erykah Badu - Bag Lady
+  - name: Edgar - Crack so se for de Futebol
+  - name: Diego Moraes - Muderno Oficial
+  - name: CRIOLO - Menino Mimado
+  - name: Di Melo - A Vida em seus metodos diz calma
+  - name: 2Pac - Dear Mama Official Music Video
+date: 2018-12-11 12:00:00
+tags: quebradev, lucasjs, lucas silva, diversidade, tecnologia, meetup, inclusao, periferia, raízes
+cover: /images/entrevista-com-lucas-silva.png
+description:
+soundcloud_id: 543253149
+---
+
+Lorem ipsum
