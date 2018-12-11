@@ -70,6 +70,22 @@ footer {
     }
   }
 
+  .footer-support {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding-bottom: 30px;
+    max-width: 900px;
+    margin: 0 auto 30px auto;
+
+    h4 {
+      margin-bottom: 30px;
+    }
+
+    a {
+      margin: 5px;
+      text-decoration: none;
+    }
+  }
+
   .quebradev-footer {
     margin-top: 20px;
     font-size: 15px;

@@ -16,7 +16,14 @@ members: [
         twitter: 'gucastiliao',
         github: 'gucastiliao',
         linkedin: 'https://www.linkedin.com/in/gcastiliao/',
-        photo: 'gustavo.jpeg'
+        photo: 'gustavo.png'
+    },
+    {
+        name: 'Junior Pereira',
+        twitter: 'pereirajr1407',
+        github: 'pereirajunior1407',
+        linkedin: 'https://www.linkedin.com/in/pereirajunior1407/',
+        photo: 'junior.png'
     },
     {
         name: 'Kaio Teixeira',
