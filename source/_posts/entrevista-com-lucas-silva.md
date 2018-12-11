@@ -23,6 +23,9 @@ links:
     link: 'https://portal.anhembi.br/graduacao/cursos/design-digital/'
   - name: Training Center
     link: 'https://github.com/training-center'
+  - name: CAPS (Centros de Atenção Psicossocial)
+    link: 'https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/atencao_basica/index.php?p=204204'
+
 songs:
   - name: Racionais MC's - O Homem na estrada
   - name: Erykah Badu - Bag Lady
@@ -34,8 +37,8 @@ songs:
 date: 2018-12-11 12:00:00
 tags: quebradev, lucasjs, lucas silva, diversidade, tecnologia, meetup, inclusao, periferia, raízes
 cover: /images/entrevista-com-lucas-silva.png
-description:
+description: Desta vez, tivemos a honra de conversar com o Lucas Silva, que é um assíduo membro de diferentes comunidades.
 soundcloud_id: 543253149
 ---
 
-Lorem ipsum
+Desta vez, tivemos a honra de conversar com o Lucas Silva, que é um assíduo membro de diferentes comunidades e durante um bate papo descontraído, conseguimos dar um giro em assuntos que vão de acessibilidade e inclusão nas comunidades de tecnologia, estruturas familiares, vício em drogas, vivências de quebrada e formas de ajudar as pessoas. O bate papo ficou muito bom e recomendamos muito que vocês ouçam, então na moral, da play e confere o bagulho aê, taoquei?
