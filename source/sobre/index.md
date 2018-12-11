@@ -19,6 +19,13 @@ members: [
         photo: 'gustavo.png'
     },
     {
+        name: 'Junior Pereira',
+        twitter: 'pereirajr1407',
+        github: 'pereirajunior1407',
+        linkedin: 'https://www.linkedin.com/in/pereirajunior1407/',
+        photo: 'junior.png'
+    },
+    {
         name: 'Kaio Teixeira',
         twitter: 'kaletex',
         github: 'kteixeira',
@@ -31,13 +38,6 @@ members: [
         github: 'onhernandes',
         linkedin: 'https://www.linkedin.com/in/onhernandes/',
         photo: 'matheus.jpg'
-    },
-    {
-        name: 'Milton Junior',
-        twitter: 'pereirajr1407',
-        github: 'pereirajunior1407',
-        linkedin: 'https://www.linkedin.com/in/pereirajunior1407/',
-        photo: 'junior.png'
     },
     {
         name: 'Reginaldo Junior',
