@@ -1,5 +1,16 @@
 <footer>
     <section class="container text-center">
+        <section class="footer-support">
+            <h4>Apoiadores ❤️</h4>
+            <% for (var key in theme.support_links) { %>
+                <a href="<%= theme.support_links[key].link %>" target="_blank" title="<%= key %>">
+                    <img src="/images/<%= key %>.png" alt="<%= key %>" height="<%= theme.support_links[key].height %>">
+                </a>
+            <% } %>
+        </section>
+    </section>
+
+    <section class="container text-center">
         <section class="footer-links">
             <% for (var key in theme.footer_links) { %>
                 <a href="<%= theme.footer_links[key].link %>" target="_blank" title="QuebraDev <%= key %>"><%- fa_inline(key, {prefix: 'fab'}) %></a>

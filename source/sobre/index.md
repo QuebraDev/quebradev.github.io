@@ -16,7 +16,7 @@ members: [
         twitter: 'gucastiliao',
         github: 'gucastiliao',
         linkedin: 'https://www.linkedin.com/in/gcastiliao/',
-        photo: 'gustavo.jpeg'
+        photo: 'gustavo.png'
     },
     {
         name: 'Kaio Teixeira',
@@ -31,6 +31,13 @@ members: [
         github: 'onhernandes',
         linkedin: 'https://www.linkedin.com/in/onhernandes/',
         photo: 'matheus.jpg'
+    },
+    {
+        name: 'Milton Junior',
+        twitter: 'pereirajr1407',
+        github: 'pereirajunior1407',
+        linkedin: 'https://www.linkedin.com/in/pereirajunior1407/',
+        photo: 'junior.png'
     },
     {
         name: 'Reginaldo Junior',
