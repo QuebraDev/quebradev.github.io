@@ -1,5 +1,5 @@
 ---
-title: '#9 - JavaScript com a Miguel'
+title: '#9 - [Tech] JavaScript com a Miguel'
 type: 'tecnologia'
 participants:
   - name: Kaio Leal

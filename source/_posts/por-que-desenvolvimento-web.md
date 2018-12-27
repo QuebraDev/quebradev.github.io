@@ -1,5 +1,5 @@
 ---
-title: '#3 - Por que ser um desenvolvedor web?'
+title: '#3 - [Tech] Por que ser um desenvolvedor web?'
 type: 'tecnologia'
 participants:
   - name: Kaio Leal
