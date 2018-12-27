@@ -1,5 +1,5 @@
 ---
-title: '#0 - Periferia e a Comunidade'
+title: '#0 - [Vivências] Periferia e a Comunidade'
 type: 'vivencias'
 category: 'podcast'
 participants:

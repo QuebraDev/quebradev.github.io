@@ -1,5 +1,5 @@
 ---
-title: '#4 - Por que Linux?'
+title: '#4 - [Tech] Por que Linux?'
 type: 'tecnologia'
 participants:
   - name: Kaio Leal

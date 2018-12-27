@@ -1,5 +1,5 @@
 ---
-title: '#2 - Iniciando no Desenvolvimento Web - Back-End'
+title: '#2 - [Tech] Iniciando no Desenvolvimento Web - Back-End'
 type: 'tecnologia'
 participants:
   - name: Kaio Leal

@@ -1,5 +1,5 @@
 ---
-title: '#5 - Trabalho, acessibilidade e qualidade de vida.'
+title: '#5 - [Politize-se] Trabalho, acessibilidade e qualidade de vida.'
 type: 'politize'
 participants:
   - name: Kaio Leal

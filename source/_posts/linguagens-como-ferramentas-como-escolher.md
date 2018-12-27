@@ -1,5 +1,5 @@
 ---
-title: '#6 - Linguagens como ferramentas como escolher?'
+title: '#6 - [Tech] Linguagens como ferramentas como escolher?'
 type: 'tecnologia'
 participants:
   - name: Kaio Leal
