@@ -26,7 +26,12 @@ links:
   - name: 'Casa do Código - O universo da programação, um guia de carreira em desenvolvimento de software'
     link: 'https://www.casadocodigo.com.br/products/livro-universo-programacao'
   - name: Training Center
-    link: 'https://github.com/training-center'
+    link: 'https://trainingcenter.io/'
+  - name: ABC-Dev 2018
+    link: 'https://2018.abcdevelopers.org/'
+  - name: Criando um bot para tibia
+    link: 'https://www.youtube.com/watch?v=xsG7tN1UWsw'
+
 songs:
   - name: FBC - Superstar
   - name: Rincon Sapiência - Dame Mais
