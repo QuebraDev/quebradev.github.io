@@ -21,6 +21,8 @@ links:
     link: 'https://medium.com/@woliveiras/'
   - name: William Oliveira - YouTube
     link: 'https://www.youtube.com/c/WilliamOliveiraS'
+  - name: Tweet do Emicida sobre meritocracia
+    link: 'https://twitter.com/emicida/status/1050538599438082048'
   - name: Um livro sobre carreira em programação
     link: 'https://medium.com/trainingcenter/um-livro-sobre-carreira-em-programa%C3%A7%C3%A3o-d3eaeac00a67'
   - name: 'Casa do Código - O universo da programação, um guia de carreira em desenvolvimento de software'
