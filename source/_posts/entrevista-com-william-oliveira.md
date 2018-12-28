@@ -19,8 +19,8 @@ links:
     link: 'https://www.linkedin.com/in/william-oliveira/'
   - name: William Oliveira - Medium
     link: 'https://medium.com/@woliveiras/'
-  - name: William Oliveira - YouTube
-    link: 'https://www.youtube.com/c/WilliamOliveiraS'
+  - name: O Universo da Programação - YouTube
+    link: 'https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw'
   - name: Tweet do Emicida sobre meritocracia
     link: 'https://twitter.com/emicida/status/1050538599438082048'
   - name: Um livro sobre carreira em programação
