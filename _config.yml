@@ -28,19 +28,6 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
-podcast:
-  type: rss2
-  path: podcast.xml 
-  limit: 20
-  hub: 
-  url: https://URL/to/static/resources
-  description: teste
-  language: zh-CN
-  copyright: "COPYRIGHT"
-  owner: quebradev@gmail.com
-  email: quebradev@gmail.com
-  category: CATEGORY
-
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
