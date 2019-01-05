@@ -82,11 +82,3 @@ sitemap:
 robotstxt:
   useragent: "*"
   sitemap: /sitemap.xml
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:QuebraDev/quebradev.github.io.git
-  branch: master
-
