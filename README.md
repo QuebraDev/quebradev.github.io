@@ -4,7 +4,7 @@ Site do podcast QuebraDev.
 
 > Um podcast de origem periférica e com destino voltado à origem.
 
-Utilizamos os [Hexo](https://hexo.io/) para desenvolvimento do site.
+Utilizamos o [Hexo](https://hexo.io/) para desenvolvimento do site.
 
 Rodando no local
 ```
