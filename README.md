@@ -16,6 +16,3 @@ Criar página para um episódio
 ```
 hexo new post titulo-do-episodio
 ```
-
-Todo o desenvolvimento deve ser feito na branch ```dev```. Aceitamos pull request apenas nessa branch para depois gerarmos o build na ```master```.
-
