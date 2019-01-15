@@ -40,12 +40,26 @@ members: [
         photo: 'matheus.jpg'
     },
     {
+        name: 'Miguel Sorares',
+        twitter: 'miguelssrs',
+        github: 'miguelssrs',
+        linkedin: 'https://www.linkedin.com/in/migueldenegocios/',
+        photo: 'miguel.png'
+    },
+    {
         name: 'Reginaldo Junior',
         twitter: 'reginaldoojnr',
         github: 'reginaldojunior',
         linkedin: 'https://www.linkedin.com/in/reginaldo-luis-luna-junior-b26b4b79/',
         photo: 'reginaldo.jpg'
-    }
+    },
+    {
+        name: 'Willian Viana',
+        twitter: 'willian_batista',
+        github: 'willian_batista',
+        linkedin: 'https://www.linkedin.com/in/willian-viana-94038b12a/',
+        photo: 'willian.png'
+    },
 ]
 ---
 
