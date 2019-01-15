@@ -3,7 +3,7 @@ title: Sobre
 date: 2018-06-30 00:02:49
 type: page
 uses: members
-members: [
+data: [
     {
         name: 'Bruno Dias',
         twitter: 'DissBruno',

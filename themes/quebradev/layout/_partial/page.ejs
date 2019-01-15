@@ -4,8 +4,8 @@
     <div class="page-body">
         <%- post.content %>
 
-        <% if (post.uses && post.uses == 'members') { %>
-            <%- partial('_partial/members', {members: post.members}) %>
+        <% if (post.uses) { %>
+            <%- partial('_partial/' + post.uses, {data: post.data}) %>
         <% } %>
     </div>
 </article>
