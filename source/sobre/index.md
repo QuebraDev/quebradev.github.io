@@ -56,7 +56,7 @@ members: [
     {
         name: 'Willian Viana',
         twitter: 'willian_batista',
-        github: 'willian_batista',
+        github: 'willian-viana',
         linkedin: 'https://www.linkedin.com/in/willian-viana-94038b12a/',
         photo: 'willian.png'
     },
