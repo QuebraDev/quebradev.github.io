@@ -51,7 +51,12 @@ songs:
 date: 2019-01-28 12:00:00
 tags: quebrada, tecnologia, periferia, retrospectiva, quebradev, planos, podcast, perifatecnico, periférico, autoestima, organização
 cover: /images/retrospectiva-2018-e-planos-futuros.png
-description:
+description: Neste que é o último episódio da temporada, resolvemos fazer uma espécie de "reunião", então não se preocupem com a quantidade de vozes que estão no ar.
 soundcloud_id: 565545330
 ---
 
+Neste que é o último episódio da temporada, resolvemos fazer uma espécie de "reunião", então não se preocupem com a quantidade de vozes que estão no ar.
+
+Reunimos todos os membros do QuebraDev (com exceção do Matheus que dormiu no trem e foi parar em Calmon Viana) para falar um pouco das nossas últimas reflexões, nossas detecções de falhas, acertos e também os possíveis planos que adotaremos para arcar com a responsa da postura que resolvemos assumir nestes últimos tempos para atingirmos nosso real objetivo: entregar o mínimo de poder à periferia.
+
+Então na moral, vocês queriam novidade, não percam a oportunidade de ouvir este que é um dos mais emblemáticos episódios do podcast mais perifatécnico do mundão, então da play no bagulho e confere aí.
