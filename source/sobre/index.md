@@ -40,7 +40,7 @@ data: [
         photo: 'matheus.jpg'
     },
     {
-        name: 'Miguel Sorares',
+        name: 'Miguel Soares',
         twitter: 'miguelssrs',
         github: 'miguelssrs',
         linkedin: 'https://www.linkedin.com/in/migueldenegocios/',
