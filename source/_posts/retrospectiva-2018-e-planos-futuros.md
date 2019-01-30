@@ -25,7 +25,7 @@ participants:
     github: reginaldojunior
   - name: Willian Viana
     twitter: willian_batista
-    github: willian-batista
+    github: willian-viana
 links:
   - name: Twitter PerifaCon
     link: https://twitter.com/perifacon
