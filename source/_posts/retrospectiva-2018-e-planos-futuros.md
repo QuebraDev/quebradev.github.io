@@ -1,6 +1,6 @@
 ---
 title: '#14 - Retrospectiva 2018 e Planos Futuros'
-type: tecnologia
+type: vivencias
 participants:
   - name: Bruno Dias
     twitter: DissBruno
