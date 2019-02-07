@@ -15,7 +15,7 @@ data: [
         name: 'Gustavo Castilião',
         twitter: 'gucastiliao',
         github: 'gucastiliao',
-        linkedin: 'https://www.linkedin.com/in/gcastiliao/',
+        linkedin: 'https://www.linkedin.com/in/gucastiliao/',
         photo: 'gustavo.png'
     },
     {
