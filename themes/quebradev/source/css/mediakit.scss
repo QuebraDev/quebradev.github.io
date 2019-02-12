@@ -1,0 +1,78 @@
+.mediakit-wrapper {
+    h1 {
+        font-size: 35px;
+    }
+
+    .subtitle {
+        margin: 20px auto;
+        border: 1px solid #ccc;
+        border-top: 5px solid #ccc;
+        padding: 10px;
+        font-size: 20px;
+        max-width: 500px;
+
+        p {
+            margin: 0;
+        }
+    }
+
+    .social {
+        border-top: 3px solid #333;
+        margin-top: 30px;
+
+        h3 {
+            margin: 30px 0 25px 0;
+        }
+        
+        .social-box {
+            margin-top: 10px;
+            
+            .social-info {
+                display: flex;
+                font-size: 20px;
+
+                p {
+                    margin: auto;
+                    text-align: center;
+                }
+            }
+
+            .social-icon {
+                display: flex;
+                border-left: 5px solid #fff; 
+                padding: 15px;
+                height: 120px;
+                
+                svg {
+                    width: 80px;
+                    margin: auto;
+                    text-align: center;
+                    color: #fff;
+                }
+            }
+        }
+
+        .spotlight {
+            margin-top: 50px;
+
+            .social-icon {
+                border-left: none;
+            }
+        }
+
+        .perfil {
+            p {
+                font-size: 25px;
+            }
+
+            ul {
+                list-style-type: none;
+                padding: 0;
+
+                li {
+                    font-size: 19px;
+                }
+            }
+        }
+    }
+}
