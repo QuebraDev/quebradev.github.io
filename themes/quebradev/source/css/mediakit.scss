@@ -57,6 +57,15 @@
 
             .social-icon {
                 border-left: none;
+                height: 200px;
+                
+                svg {
+                    width: 180px;
+                }
+            }
+
+            .social-info {
+                font-size: 25px;
             }
         }
 
