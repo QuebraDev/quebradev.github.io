@@ -1,5 +1,7 @@
 <article>
-    <h1 class="page-title"><%= post.title %></h1>
+    <% if (post.showTitle) { %>
+        <h1 class="page-title"><%= post.title %></h1>
+    <% } %>
 
     <div class="page-body">
         <%- post.content %>
