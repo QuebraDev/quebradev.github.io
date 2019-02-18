@@ -1,0 +1,55 @@
+<div class="support-wrapper row">
+    <div class="col-12">
+        <h1 class="bordered-left">Apoie o QuebraDev</h1>
+    </div>
+
+    <div class="support col-12">
+        <p>O QuebraDev deixou de ser um podcast e há um tempo tem metas maiores que apenas produzir conteúdo para a Web, o objetivo inicial se mantém de pé e queremos atingir o maior número de periferias que pudermos. Para isso, precisamos de ajuda.</p>
+        <p>No episódio <a href="https://quebradev.com.br/abcdev-e-diversidade/" target="_blank" title="Episódio 11 do QuebraDev - ABCDev e Diversidade">#11</a> nós conversamos um pouco sobre e formulamos melhor no episódio <a href="https://quebradev.com.br/retrospectiva-2018-e-planos-futuros/" target="_blank" title="Episódio 14 do QuebraDev - Retrospectiva 2018 e Planos Futuros">#14</a>, achamos interessante que antes que você colabore, ouça os dois episódios para entender melhor quais as nossas pretensões e nossos planos para que atinjamos o que queremos.</p>
+        <p>Para alcançarmos nosso objetivo de democratização de conhecimentos sobre a internet, nós precisamos de recursos financeiros para criarmos pequenas infraestruturas e hoje temos os seguintes gastos mapeados:</p>
+
+        <ul>
+            <li>Podcast</li>
+            <li>
+                <ul>
+                    <li>Investimento em equipamentos</li>
+                </ul>
+            </li>
+        </ul>
+        
+        <ul>
+            <li>Aulas e Trabalho de Campo</li>
+            <li>
+                <ul>
+                    <li>Arte para materiais de divulgação</li>
+                    <li>Impressão de materiais de divulgação</li>
+                    <li>Divulgação na rua</li>
+                    <li>Passagem para os voluntários e alunos que precisarem</li>
+                    <li>Alimentação p/ voluntário e alunos</li>
+                    <li>Emissão de Certificados</li>
+                </ul>
+            </li>
+        </ul>
+
+        <div class="padrim-image text-center">
+            <p>Clicando na imagem abaixo você irá acessar a nossa página no Padrim:</p>
+            <a href="https://padrim.com.br/quebradev" target="_blank" title="Padrim QuebraDev - Apoie">
+                <img src="/images/quebradev-padrim.png" alt="Padrim QuebraDev - Apoie">
+            </a>
+        </div>
+    </div>
+
+    <% if (data) { %>
+        <div class="col-12 supporters text-center">
+            <h4>Lista dos padrinhos do QuebraDev</h4>
+            
+            <div class="row">
+                <% data.forEach(function(member){ %>
+                    <div class="support col-6 col-sm-4 col-lg-2 text-center">
+                        <p><%= member.name %></p>
+                    </div>
+                <% }) %>
+            </div>
+        </div>
+    <% } %>
+</div>

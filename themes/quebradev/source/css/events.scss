@@ -1,12 +1,17 @@
 .events-wrapper {
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0 0;
+    border-top: 3px solid rgba(255, 255, 255, 0.3);
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 40px 0;
+  
+    h1 {
+      margin-bottom: 40px;
+    }
 
     .event {
         border-left: 4px solid #fff;
-        padding: 10px;
-        margin: 20px 0;
+        padding-left: 15px;
+        margin: 15px;
 
         p {
             width: 100%;
