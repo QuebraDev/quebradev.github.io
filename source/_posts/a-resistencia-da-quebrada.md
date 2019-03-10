@@ -35,7 +35,10 @@ links:
     link: 'https://www.padrim.com.br/quebradev'
 songs:
   - name: Racionais MCs - Mil Faces de Um Homem Leal
+  - name: Dfideliz - Preto Rico
+  - name: GABZ - Do Batuque Ao Bass
   - name: Black e Djonga - LUTO
+  - name: Racionais MCs - Finado Neguin
   - name: Raffa Moreira - Paga O Que Ce Deve Pra Mim
 date: 2019-03-11 12:00:00
 tags: quebrada, tecnologia, periferia, autoestima, resistencia, marighella, carlos marighella, educação financeira, ascensão, poder para periferia
