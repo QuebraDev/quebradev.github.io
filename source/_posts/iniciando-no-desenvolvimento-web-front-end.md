@@ -1,6 +1,7 @@
 ---
 title: '#1 - [Tech] Iniciando no Desenvolvimento Web - Front-End'
 type: 'tecnologia'
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex

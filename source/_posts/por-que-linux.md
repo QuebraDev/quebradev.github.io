@@ -1,6 +1,7 @@
 ---
 title: '#4 - [Tech] Por que Linux?'
 type: 'tecnologia'
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex

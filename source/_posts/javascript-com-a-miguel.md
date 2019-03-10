@@ -1,6 +1,7 @@
 ---
 title: '#9 - [Tech] JavaScript com a Miguel'
 type: 'tecnologia'
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex

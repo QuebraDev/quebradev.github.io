@@ -1,6 +1,7 @@
 ---
 title: '#11 - [Politize-se] ABCDev e Diversidade'
 type: politize
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex
