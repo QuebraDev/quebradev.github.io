@@ -39,12 +39,16 @@ songs:
   - name: GABZ - Do Batuque Ao Bass
   - name: Black e Djonga - LUTO
   - name: Racionais MCs - Finado Neguin
-  - name: Perfil #55 - Drik Barbosa e Karol de Souza - Céu Azul
+  - name: Drik Barbosa e Karol de Souza - Céu Azul
   - name: Raffa Moreira - Paga O Que Ce Deve Pra Mim
 date: 2019-03-11 12:00:00
 tags: quebrada, tecnologia, periferia, autoestima, resistencia, marighella, carlos marighella, educação financeira, ascensão, poder para periferia
 cover: /images/a-resistencia-da-quebrada.png
-description:
-soundcloud_id: 
+description: Para iniciar essa temporada com chave de ouro, resolvemos falar sobre a resistência da quebrada, os assuntos estão bem variados, fizemos uma recapitulação de alguns episódios e uma introdução da postura que estaremos adotando a partir dessa temporada.
+soundcloud_id: 587837634
 ---
 
+Para iniciar essa temporada com chave de ouro, resolvemos falar sobre a resistência da quebrada, os assuntos estão bem variados, fizemos uma recapitulação de alguns episódios e uma introdução da postura que estaremos adotando a partir dessa temporada.
+O estudo como forma de resistência, a busca de união entre produtores de conteúdo que façam parte de recortes minoritários (principalmente pretos e periféricos), o autoconhecimento, a autogestão, as formas de luta que podemos ter para nos emanciparmos. 
+Fizemos um bom apanhado de nossas reflexões e esperamos surpreender à todos com essa temporada que virá quebrando tudo, afinal, é QuebraDev!
+Então na moral? Dê o play e pega a visão, é papo de avanço!
