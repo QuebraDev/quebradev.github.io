@@ -1,6 +1,7 @@
 ---
 title: '#13 - [Raízes] Entrevista com William Oliveira'
 type: raizes
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex

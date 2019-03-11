@@ -62,9 +62,3 @@ data: [
     },
 ]
 ---
-
-O QuebraDev é um podcast de origem periférica que surgiu com o objetivo de representar quem é de quebrada na área de tecnologia, além de tentar trazer para o cerne dessa profissão quem tem interesse em ingressar (priorizando o diálogo com quem é de quebrada).
-
-Temos a estrutura bem informal e queremos levar diferentes assuntos aos seus ouvidos, são pautas técnicas e não técnicas que abrangem assuntos técnológicos, sociais e políticos que atingem diretamente a vida do periférico, bem como da sociedade como um todo.
-
-Além de um canal informativo e sério, o QuebraDev é cultura das ruas e humor, é o podcast mais perifatécnico do planeta.

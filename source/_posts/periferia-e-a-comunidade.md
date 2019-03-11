@@ -1,6 +1,7 @@
 ---
 title: '#0 - [Vivências] Periferia e a Comunidade'
 type: 'vivencias'
+season: 1
 category: 'podcast'
 participants:
   - name: Kaio Leal

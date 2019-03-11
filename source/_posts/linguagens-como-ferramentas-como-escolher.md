@@ -1,6 +1,7 @@
 ---
 title: '#6 - [Tech] Linguagens como ferramentas como escolher?'
 type: 'tecnologia'
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex

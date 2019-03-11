@@ -1,24 +1,37 @@
 ---
 title: '#0 - Titulo Podcast'
 type: 'tecnologia'
+season: 2
 date: {{ date }}
 tags:
 cover: 
 description: 
 soundcloud_id: 
 participants:
-  - name: Kaio Leal
-    twitter: kaletex
-    github: kteixeira
+  - name: Bruno Dias
+    twitter: DissBruno
+    github: iBrunox11
   - name: Gustavo Castilião
     twitter: gucastiliao
     github: gucastiliao
-  - name: Reginaldo Junior
-    twitter: reginaldoojnr
-    github: reginaldojunior
+  - name: Junior Pereira
+    twitter: pereirajr1407
+    github: pereirajunior1407
+  - name: Kaio Teixeira
+    twitter: kaletex
+    github: kteixeira
   - name: Matheus Hernandes
     twitter: onhernandes
     github: onhernandes
+  - name: Miguel Sorares
+    twitter: miguelssrs
+    github: miguelssrs
+  - name: Reginaldo Junior
+    twitter: reginaldoojnr
+    github: reginaldojunior
+  - name: Willian Viana
+    twitter: willian_batista
+    github: willian-viana
 links:
   - name: 'Lorem Ipsum'
     link: 'https://www.lorem.ipsum/'

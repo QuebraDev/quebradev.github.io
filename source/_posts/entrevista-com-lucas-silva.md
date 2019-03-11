@@ -1,6 +1,7 @@
 ---
 title: '#12 - [Raízes] Entrevista com Lucas Silva'
 type: raizes
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex

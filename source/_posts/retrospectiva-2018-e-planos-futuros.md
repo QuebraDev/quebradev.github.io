@@ -1,6 +1,7 @@
 ---
-title: '#14 - Retrospectiva 2018 e Planos Futuros'
+title: '#14 - [Vivências] Retrospectiva 2018 e Planos Futuros'
 type: vivencias
+season: 1
 participants:
   - name: Bruno Dias
     twitter: DissBruno

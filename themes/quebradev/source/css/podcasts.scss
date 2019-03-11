@@ -10,6 +10,25 @@
   display: none;
 }
 
+.season-block {
+  margin-bottom: 30px;
+  padding-top: 40px;
+  
+  .season-title {
+    margin-bottom: 50px;
+  
+    h3 {
+      display: inline;
+      border-bottom: 7px solid #333;
+  
+      span {
+        font-size: 15px;
+      }
+    }
+    
+  }
+}
+
 .podcasts-wrapper {
   .podcast-item {
     background-color: #000000;

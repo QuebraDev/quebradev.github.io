@@ -22,24 +22,23 @@
     </div>
 
     <div class="row">
-        <% page.posts.each(function(post){ %>
-            <article class="col-12 col-lg-6" data-post-type="<%= post.type %>">
-                <div class="podcast-item row">
-                    <div class="col-12">
-                        <a href="<%- url_for(post.path) %>" title="<%= post.title %>">
-                            <h1 class="podcast-title"><%= post.title %></h1>
-                        </a>
-                    </div>
-                    <a href="<%- url_for(post.path) %>" title="<%= post.title %>" class="podcast-cover col-12 col-md-5">
-                        <img src="<%= post.cover %>" alt="<%= post.title %> Cover" class="col-12">
-                    </a>
-                    <div class="podcast-body col-12 col-md-6">
-                        <a href="<%- url_for(post.path) %>" title="<%= post.title %>"><p class="podcast-description"><%= post.description %></p></a>
-                        <%- partial('_partial/date', {post: post}) %>
-                    </div>
-                </div>
-            </article>
-        <% }) %>
+        <div class="row col-12 season-block">
+            <div class="col-12 season-title">
+                <h3>Temporada 2 - <span>Inicio 11/03/2019</span></h3>
+            </div>
+            <% page.posts.each(function(post){ %>
+                <%- partial('_partial/podcast-block', {post: post, season: 2}) %>
+            <% }) %>
+        </div>
+        
+        <div class="row col-12 season-block">
+            <div class="col-12 season-title">
+                <h3>Temporada 1 - <span>14/05/2018 à 28/01/2019 - Encerrada</span></h3>
+            </div>
+            <% page.posts.each(function(post){ %>
+                <%- partial('_partial/podcast-block', {post: post, season: 1}) %>
+            <% }) %>
+        </div>
     </div>
 </section>
 <%- partial('pagination', {type: 'page'}) %>

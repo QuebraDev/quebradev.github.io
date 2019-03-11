@@ -1,6 +1,7 @@
 ---
 title: '#5 - [Politize-se] Trabalho, acessibilidade e qualidade de vida.'
 type: 'politize'
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex

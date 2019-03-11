@@ -1,6 +1,7 @@
 ---
 title: '#10 - [Raízes] Storytelling e Gamificação - com Ale Santos'
 type: raizes
+season: 1
 participants:
   - name: Kaio Leal
     twitter: kaletex
