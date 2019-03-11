@@ -39,6 +39,7 @@ songs:
   - name: GABZ - Do Batuque Ao Bass
   - name: Black e Djonga - LUTO
   - name: Racionais MCs - Finado Neguin
+  - name: Perfil #55 - Drik Barbosa e Karol de Souza - Céu Azul
   - name: Raffa Moreira - Paga O Que Ce Deve Pra Mim
 date: 2019-03-11 12:00:00
 tags: quebrada, tecnologia, periferia, autoestima, resistencia, marighella, carlos marighella, educação financeira, ascensão, poder para periferia
