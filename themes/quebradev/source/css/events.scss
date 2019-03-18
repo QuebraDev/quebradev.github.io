@@ -16,6 +16,14 @@
         p {
             width: 100%;
         }
+        
+        a {
+            text-decoration: underline;
+        }
+    }
+
+    .event.old {
+        opacity: 0.3;
     }
 }
 

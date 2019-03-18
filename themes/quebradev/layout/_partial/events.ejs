@@ -4,11 +4,11 @@
     </div>
 
     <% data.forEach(function(event){ %>
-        <div class="event col-lg-6 row">
+        <div class="event col-lg-6 row <% if (event.old) { %> old <% } %>">
             <h3><%= event.name %></h3>
             <p><strong>Datas:</strong> <%= event.date %></p>
             <p><strong>Conteúdo:</strong> <%= event.description %></p>
-            <p><strong>Onde:</strong> <%= event.location %></p>
+            <p><strong>Onde:</strong> <a href="https://maps.google.com/?q=<%= event.location %>" target="_blank" title="Localização do evento no Google Maps."><%= event.location %></a></p>
         </div>
     <% }) %>
 </div>
