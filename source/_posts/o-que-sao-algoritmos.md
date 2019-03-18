@@ -35,8 +35,10 @@ songs:
 date: 2019-03-18 03:18:18
 tags: algoritmos, inteligencia artificial, AI, robôs, bots, carros autonomos, machine learning, algoritmos discriminatórios, capitalismo de vigilância, quebradev, tech
 cover: /images/o-que-sao-algoritmos.png
-description: O que são algoritmos?
+description: Já que temos ligação direta com a tecnologia, não podia faltar pauta em bits e bytes, né não? Bom, desta vez resolvemos falar sobre algoritmos e não abordamos de forma superficial, desde a definição de lógica à história, os tipos de algoritmos mais populares...
 soundcloud_id: 591808920
 ---
 
-O que são algoritmos?
+Já que temos ligação direta com a tecnologia, não podia faltar pauta em bits e bytes, né não? 
+Bom, desta vez resolvemos falar sobre algoritmos e não abordamos de forma superficial, desde a definição de lógica à história, os tipos de algoritmos mais populares, algoritmos que auxiliam em pesquisas e os temas mais intrigantes como algoritmos discriminatórios e o capitalismo de vigilância! Na moral, o episódio ficou interessante e informativo — como todos é claro. 
+Além de politização e a busca pela representatividade da periferia no desenvolvimento de algoritmos, desmitificamos passo a passo um tema que não é um bicho de sete cabeças, mas afasta muitas pessoas por autoestima intelectual baixa, chega mais e explore suas capacidades cognitivas que quem ta no toque do podcast de periferia é o QuebraDev, fiel!
