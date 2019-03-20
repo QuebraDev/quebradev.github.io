@@ -17,7 +17,7 @@
     margin: 0 10px;
     font-size: 25px;
 
-    &:after {
+    &:not(:last-child):after {
       content: '';
       display: block;
       height: 12px;
