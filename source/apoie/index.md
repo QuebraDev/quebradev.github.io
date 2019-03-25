@@ -6,7 +6,10 @@ uses: support
 data: [
     { name: 'Andrei Oliveira' },
     { name: 'Daniel Junior' },
+    { name: 'Henrique Coimbra' },
+    { name: 'Juliana Myaki Bueno da Silva' },
     { name: 'Reginaldo Junior' },
-    { name: 'Sulamita Brito' }
+    { name: 'Sulamita Brito Pereira' },
+    { name: 'William Oliveira' }
 ]
 ---
