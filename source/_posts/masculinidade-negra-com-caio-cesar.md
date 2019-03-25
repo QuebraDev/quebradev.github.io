@@ -1,6 +1,6 @@
 ---
-title: '#17 - Masculinidade Negra com Caio César'
-type: tecnologia
+title: '#17 - [Raízes] Masculinidade Negra com Caio César'
+type: raizes
 season: 2
 participants:
   - name: Caio César
