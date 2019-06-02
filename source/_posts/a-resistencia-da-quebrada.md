@@ -7,10 +7,10 @@ participants:
     twitter: DissBruno
     github: iBrunox11
   - name: Gustavo Castilião
-    twitter: gucastiliao
-    github: gucastiliao
+    twitter: gustv0_
+    github: gustv0_
   - name: Kaio Teixeira
-    twitter: kaletex
+    twitter: __kaell13
     github: kteixeira
   - name: Matheus Hernandes
     twitter: onhernandes
@@ -28,7 +28,7 @@ links:
   - name: 'Banco Comunitário - Moedas Alternativas'
     link: 'https://www.youtube.com/watch?v=sG5XZ5T-URU'
   - name: 'Thread do Kaio no Twitter'
-    link: 'https://twitter.com/kaletex/status/1098798726611636226'
+    link: 'https://twitter.com/__kaell13/status/1098798726611636226'
   - name: 'Finanças com a Nath'
     link: 'https://www.youtube.com/channel/UCmhzmQBdXP9TeRtpQ-iWSPg'
   - name: 'Padrim QuebraDev'

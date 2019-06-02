@@ -12,13 +12,13 @@ participants:
     twitter: DissBruno
     github: iBrunox11
   - name: Gustavo Castilião
-    twitter: gucastiliao
-    github: gucastiliao
+    twitter: gustv0_
+    github: gustv0_
   - name: Junior Pereira
     twitter: pereirajr1407
     github: pereirajunior1407
   - name: Kaio Teixeira
-    twitter: kaletex
+    twitter: __kaell13
     github: kteixeira
   - name: Matheus Hernandes
     twitter: onhernandes

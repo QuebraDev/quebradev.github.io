@@ -6,7 +6,7 @@ participants:
   - name: Caio César
     twitter: geocaio_
   - name: Kaio Teixeira
-    twitter: kaletex
+    twitter: __kaell13
     github: kteixeira
   - name: Reginaldo Junior
     twitter: reginaldoojnr
