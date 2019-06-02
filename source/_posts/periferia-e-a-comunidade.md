@@ -5,11 +5,11 @@ season: 1
 category: 'podcast'
 participants:
   - name: Kaio Leal
-    twitter: kaletex
+    twitter: __kaell13
     github: kteixeira
   - name: Gustavo Castilião
-    twitter: gucastiliao
-    github: gucastiliao
+    twitter: gustv0_
+    github: gustv0_
   - name: Reginaldo Junior
     twitter: reginaldoojnr
     github: reginaldojunior

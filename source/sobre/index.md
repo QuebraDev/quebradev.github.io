@@ -13,9 +13,9 @@ data: [
     },
     {
         name: 'Gustavo Castilião',
-        twitter: 'gucastiliao',
-        github: 'gucastiliao',
-        linkedin: 'https://www.linkedin.com/in/gucastiliao/',
+        twitter: 'gustv0_',
+        github: 'gustv0_',
+        linkedin: 'https://www.linkedin.com/in/gustv0_/',
         photo: 'gustavo.png'
     },
     {
@@ -27,7 +27,7 @@ data: [
     },
     {
         name: 'Kaio Teixeira',
-        twitter: 'kaletex',
+        twitter: '__kaell13',
         github: 'kteixeira',
         linkedin: 'https://www.linkedin.com/in/kaio-teixeira-9118a95a/',
         photo: 'kaio.jpg'
