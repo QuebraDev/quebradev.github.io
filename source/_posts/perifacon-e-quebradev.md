@@ -59,4 +59,4 @@ Rolou uma oficina nossa por lá, rolou panfletagem e interação com várias pes
 
 O episódio flerta com a estética periférica nas produções geeks, um pouco sobre cultura pop e representatividade para quem consume e produz este tipo de conteúdo que muitas vezes fecha os olhos para quem é de alguma forma, marginalizado.
 
-Polêmica, informação, descontração e bons sons, dẽem aquele play e descubram como foi o evento sob a ótica de quem tem origem periférica.
+Polêmica, informação, descontração e bons sons, deem aquele play e descubram como foi o evento sob a ótica de quem tem origem periférica.
