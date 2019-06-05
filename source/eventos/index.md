@@ -8,7 +8,8 @@ data: [
         name: 'Workshop de Desenvolvimento Web',
         date: '07/04/2019 - 28/04/2019 - Das 14hrs às 17hrs (Domingos)',
         description: 'Workshop aos domingos gratuito, dê seus primeiros passos para desenvolvimento de sistemas web. Aprenda na prática de uma forma simples.',
-        location: 'Rua do Poente, 148 - 07263-721 Guarulhos - Cursinho Comunitário Pimentas'
+        location: 'Rua do Poente, 148 - 07263-721 Guarulhos - Cursinho Comunitário Pimentas',
+        old: true
     },
     {
         name: 'Workshop na Fundação Julita',
