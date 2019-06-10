@@ -35,7 +35,7 @@ songs:
   - name: Mobb Deep - Cradle To The Grave
   - name: Das EFX - Kaught In Da Ak
 
-date: 2019-06-07 12:00:00
+date: 2019-06-10 19:00:00
 tags: cloud, infraestrutura, infra, quebradev, google cloud onboard, tecnologia, google
 cover: /images/um-pouco-sobre-cloud.png
 description: Buscando uma nova estrutura de episódio, resolvemos falar sobre algumas coisas diferentes, numa estrutura um pouco diferente e mais informativa. Desta vez abordamos um assunto sobre infraestrutura na nuvem, algumas notícias e informações interessantes sobre iniciativas que fomentam o Open Source.
