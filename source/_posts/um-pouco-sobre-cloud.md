@@ -47,3 +47,18 @@ Buscando uma nova estrutura de episódio, resolvemos falar sobre algumas coisas 
 O episódio está bem técnico, embora descontraído e com a estética periférica que sempre entregamos.
 
 Incentivo ao estudo sobre a computação na nuvem e ocupação de espaços com direito a convite para um evento que é interessante que cogitemos nossa participação para que nos capacitemos, esperamos que vocês gostem.
+
+Para registrar-se no Google Cloud OnBoard:
+
+1) Acesse a URL http://bit.ly/gcquebradev  
+
+2) Veja qual treinamento escolher (você pode fazer os dois): 
+    - Core Infrastructure e Big Data & Machine Learning 
+
+3) Clique no botão "REGISTRE-SE" ou role até o final da página
+
+4) Preencha o formulário:
+    - No campo Treinamento escolha qual deles você quer fazer ou ambos.
+    - No campo "Empresa/Instituição de Ensino" como QUEBRADEV, isso é importante para que você tenha sua reserva aceita de imediato, perifatécnicos estão tendo lugares exclusivos.
+     
+Não se esqueça de preencher "Empresa/Instituição de Ensino" como QUEBRADEV, isso garantirá sua aceitação na triagem do Google!
