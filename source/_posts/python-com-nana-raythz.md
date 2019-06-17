@@ -12,12 +12,12 @@ participants:
   - name: Miguel Sorares
     twitter: miguelssrs
     github: miguelssrs
-  - name: Reginaldo Junior
-    twitter: reginaldoojnr
-    github: reginaldojunior
   - name: Nana Raythz
     twitter: nanaraythz
     github: https://www.github.com/nraythz
+  - name: Reginaldo Junior
+    twitter: reginaldoojnr
+    github: reginaldojunior
 links:
   - name: PyJobs
     link: 'https://www.pyjobs.com.br/'
@@ -49,7 +49,7 @@ date: 2019-06-17 12:00:00
 tags: quebradev, tecnologia, python, backend, framework, biblioteca, conhecimento, tech
 cover: /images/python-com-nana-raythz.png
 description: 
-soundcloud_id:
+soundcloud_id: 637784010
 ---
 
 ...
