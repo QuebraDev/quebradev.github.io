@@ -48,8 +48,9 @@ songs:
 date: 2019-06-17 12:00:00
 tags: quebradev, tecnologia, python, backend, framework, biblioteca, conhecimento, tech
 cover: /images/python-com-nana-raythz.png
-description: 
+description: Se liguem só, mais uma vez falando sobre linguagens de programação e a escolhida da vez foi uma bem querida: o Python.
 soundcloud_id: 637784010
 ---
 
-...
+Se liguem só, mais uma vez falando sobre linguagens de programação e a escolhida da vez foi uma bem querida: o Python. 
+Para falar desta que é uma das linguagens de programação mais democráticas e até mais amadas que existem, tivemos além dos membros deste que é o podcast mais querido pela podosfera, uma convidada especial, a Nana (@nanaraythz) que vocês conhecerão melhor no episódio. Houve uma colaboração interessante para que vocês conheçam um pouco mais sobre essa, que é a linguagem de programação mais organizada do planeta, ta ligado? Então assim, dêem aquele play que o episódio ficou pesadão!
