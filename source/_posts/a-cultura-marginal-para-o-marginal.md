@@ -1,5 +1,5 @@
 ---
-title: '#21 - [Vivências] A cultura marginal, para o marginal'
+title: '#21 - [Vivências] A cultura marginal, para o marginal - com Jef Delgado'
 type: vivencias
 season: 2
 participants:
