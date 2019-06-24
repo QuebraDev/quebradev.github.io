@@ -1,5 +1,5 @@
 ---
-title: '#20 - Python com Nana Raythz'
+title: '#20 - [Tech] Python com Nana Raythz'
 type: tecnologia
 season: 2
 participants:
