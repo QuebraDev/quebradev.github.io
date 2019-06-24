@@ -6,15 +6,17 @@ participants:
   - name: Gustavo Castilião
     twitter: gustv0_
     github: gustv0_
+  - name: Jeferson Delgado
+    twitter: _jefdelgado
   - name: Kaio Teixeira
     twitter: __kaell13
     github: kteixeira
   - name: Reginaldo Junior
     twitter: reginaldoojnr
     github: reginaldojunior
-  - name: Jeferson Delgado
-    twitter: _jefdelgado
 links:
+  - name: 'Favela Business'
+    link: 'https://www.youtube.com/favelabusiness'
   - name: 'Thread - Jeferson Delgado - Baile do Princesinha'
     link: 'https://twitter.com/_jefdelgado/status/1135351188701032448'
   - name: 'Benzina no Batidão | O funk não é modismo, é uma necessidade'
@@ -37,6 +39,8 @@ links:
     link: 'https://tashaetracie.com.br/'
   - name: 'Vida de Maloka'
     link: 'https://kondzilla.com/m/serie-vida-de-maloka-te-conta-sobre-1a-turne-ngks/#materia'
+  - name: 'O funk pelas lentes do fotógrafo Jeferson Delgado'
+    link: 'https://www.redbull.com/br-pt/music/O-funk-pelas-lentes-do-fotografo-Jeferson-Delgado' 
 songs:
   - name: MC Cidinho & Doga - Rap da Felicidade
   - name: MC Bob Rum - Rap do Silva
@@ -50,6 +54,6 @@ date: 2019-06-24 12:00:00
 tags: quebradev, cultura, cultura marginal, periferia, funk, 150bpm, fluxo, fluxo nas periferias
 cover: /images/a-cultura-marginal-para-o-marginal.png
 description:
-soundcloud_id:
+soundcloud_id: 641185776
 ---
 
