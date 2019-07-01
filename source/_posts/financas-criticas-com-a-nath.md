@@ -4,7 +4,7 @@ type: politize
 season: 2
 participants:
   - name: Junior Pereira
-    twitter: pereirajr1407
+    twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Kaio Teixeira
     twitter: __kaell13

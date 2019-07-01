@@ -10,7 +10,7 @@ participants:
     twitter: gustv0_
     github: gustv0_
   - name: Junior Pereira
-    twitter: pereirajr1407
+    twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Kaio Teixeira
     twitter: __kaell13

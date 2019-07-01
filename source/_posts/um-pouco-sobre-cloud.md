@@ -4,7 +4,7 @@ type: tecnologia
 season: 2
 participants:
   - name: Junior Pereira
-    twitter: pereirajr1407
+    twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Kaio Teixeira
     twitter: __kaell13
@@ -52,13 +52,13 @@ Para registrar-se no Google Cloud OnBoard:
 
 1) Acesse a URL http://bit.ly/gcquebradev  
 
-2) Veja qual treinamento escolher (você pode fazer os dois): 
-    Core Infrastructure e Big Data & Machine Learning 
+2) Veja qual treinamento escolher (você pode fazer os dois):
+    Core Infrastructure e Big Data & Machine Learning
 
 3) Clique no botão "REGISTRE-SE" ou role até o final da página
 
 4) Preencha o formulário:
     No campo Treinamento escolha qual deles você quer fazer ou ambos.
     No campo "Empresa/Instituição de Ensino" como QUEBRADEV, isso é importante para que você tenha sua reserva aceita de imediato, perifatécnicos estão tendo lugares exclusivos.
-     
+
 Não se esqueça de preencher "Empresa/Instituição de Ensino" como QUEBRADEV, isso garantirá sua aceitação na triagem do Google!
