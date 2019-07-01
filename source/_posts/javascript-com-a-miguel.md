@@ -19,7 +19,7 @@ participants:
     twitter: oieusouamiguell
     github: oieusouamiguel
   - name: Junior
-    twitter: pereirajr1407
+    twitter: pereirajrdevds
 links:
   - name: JavaScript
     link: https://pt.wikipedia.org/wiki/JavaScript
