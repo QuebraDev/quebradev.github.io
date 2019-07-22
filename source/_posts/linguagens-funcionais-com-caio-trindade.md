@@ -1,5 +1,5 @@
 ---
-title: '#23 - [Tech] Linguagens Funcionais Com Caio Trindade'
+title: '#23 - [Tech] Linguagens Funcionais com Caio Trindade'
 type: tecnologia
 season: 2
 participants:
