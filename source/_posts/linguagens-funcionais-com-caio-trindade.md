@@ -15,10 +15,16 @@ participants:
     twitter: reginaldoojnr
     github: reginaldojunior
 links:
-    Como funcionam funções anônimas? - https://pt.stackoverflow.com/questions/9936como-funcionam-fun%C3%A7%C3%B5es-an%C3%B4nimas'
-    História do Lisp - https://pt.wikipedia.org/wiki/Lisp#Hist%C3%B3ria
-    Programação Funcional com Marina Limeira - https://www.youtube.com/watch?v=X-hKc4FFhCM
-    AI winter - https://en.wikipedia.org/wiki/AI_winter
+  - name: 'Caio Trindade - Linkedin'
+    link: 'https://www.linkedin.com/in/caiotrindade/'
+  - name: 'Como funcionam funções anônimas?'
+    link: 'https://pt.stackoverflow.com/questions/9936como-funcionam-fun%C3%A7%C3%B5es-an%C3%B4nimas'
+  - name: 'História do Lisp'
+    link: 'https://pt.wikipedia.org/wiki/Lisp#Hist%C3%B3ria'
+  - name: 'Programação Funcional com Marina Limeira'
+    link: 'https://www.youtube.com/watch?v=X-hKc4FFhCM'
+  - name: 'AI winter'
+    link: 'https://en.wikipedia.org/wiki/AI_winter'
 songs:
   - name: 'Rakim - It's Been A Long Time'
   - name: 'De La Soul - It's Like That'
