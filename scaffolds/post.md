@@ -23,7 +23,7 @@ participants:
   - name: Matheus Hernandes
     twitter: onhernandes
     github: onhernandes
-  - name: Miguel Sorares
+  - name: Miguel Soares
     twitter: miguelssrs
     github: miguelssrs
   - name: Reginaldo Junior
