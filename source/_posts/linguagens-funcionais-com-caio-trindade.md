@@ -6,10 +6,10 @@ participants:
   - name: Caio Trindade
     github: caiotrindade
   - name: Junior Pereira
-    twitter: pereirajr1407
+    twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Miguel Soares
-    twitter: miguelssrs
+    twitter: miglsoares
     github: miguelssrs
   - name: Reginaldo Junior
     twitter: reginaldoojnr
