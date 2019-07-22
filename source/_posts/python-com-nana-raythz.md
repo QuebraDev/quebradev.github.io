@@ -9,7 +9,7 @@ participants:
   - name: Kaio Teixeira
     twitter: __kaell13
     github: kteixeira
-  - name: Miguel Sorares
+  - name: Miguel Soares
     twitter: miguelssrs
     github: miguelssrs
   - name: Nana Raythz
