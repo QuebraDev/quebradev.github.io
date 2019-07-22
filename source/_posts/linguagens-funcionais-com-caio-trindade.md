@@ -26,8 +26,8 @@ links:
   - name: 'AI winter'
     link: 'https://en.wikipedia.org/wiki/AI_winter'
 songs:
-  - name: 'Rakim - It's Been A Long Time'
-  - name: 'De La Soul - It's Like That'
+  - name: 'Rakim - Its Been A Long Time'
+  - name: 'De La Soul - Its Like That'
   - name: 'The Notorious B.I.G - Big Poppa'
   - name: 'Leschea - Hip Hop'
 date: 2019-07-22 12:00:00
