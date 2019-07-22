@@ -31,7 +31,7 @@ songs:
   - name: 'The Notorious B.I.G - Big Poppa'
   - name: 'Leschea - Hip Hop'
 date: 2019-07-22 12:00:00
-tags: quebradev tecnologia linguagens funcionais lisp clojure scala tecnologia paradigmas
+tags: quebradev, tecnologia, linguagens funcionais, lisp, clojure, scala, tecnologia, paradigmas
 cover: /images/linguagens-funcionais-com-caio-trindade.png
 description:
 soundcloud_id: 654521018
