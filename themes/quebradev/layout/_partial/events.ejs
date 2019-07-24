@@ -4,7 +4,7 @@
     </div>
 
     <% data.forEach(function(event){ %>
-        <div class="event col-lg-6 row <% if (event.old) { %> old <% } %>">
+        <div class="event col-6 <% if (event.old) { %> old <% } %>">
             <h3><%= event.name %></h3>
             <p><strong>Datas:</strong> <%= event.date %></p>
             <p><strong>Conteúdo:</strong> <%= event.description %></p>
