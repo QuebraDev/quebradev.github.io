@@ -4,9 +4,9 @@ type: 'tecnologia'
 season: 2
 date: {{ date }}
 tags:
-cover: 
-description: 
-soundcloud_id: 
+cover:
+description:
+soundcloud_id:
 participants:
   - name: Bruno Dias
     twitter: DissBruno
@@ -24,7 +24,7 @@ participants:
     twitter: onhernandes
     github: onhernandes
   - name: Miguel Soares
-    twitter: miguelssrs
+    twitter: miglsoares
     github: miguelssrs
   - name: Reginaldo Junior
     twitter: reginaldoojnr
