@@ -1,0 +1,15 @@
+<div class="links-wrapper row">
+    <div class="col-12">
+        <h1 class="bordered-left">Links Úteis</h1>
+
+        <% if (data) { %>
+            <div class="col-12 links text-center">
+                <div class="row">
+                    <% data.forEach(function(member){ %>
+                        <a href="<%= member.link %>" class="link col-12 text-center" alt="<%= member.title %>"><%= member.title %></a>
+                    <% }) %>
+                </div>
+            </div>
+        <% } %>
+    </div>
+</div>
