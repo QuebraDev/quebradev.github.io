@@ -1,0 +1,24 @@
+.links-wrapper {
+    border-top: 3px solid rgba(255, 255, 255, 0.3);
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 40px 0;
+  
+    h1 {
+      margin-bottom: 40px;
+    }
+}
+
+.links {
+    .link {
+        background: #ffffff;
+        padding: 20px;
+        margin: 5px 0;
+        color: #000000;
+
+        &:hover{
+            color: #000000!important;
+            border-left: 5px solid #000000;
+        }
+    }
+}
