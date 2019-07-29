@@ -41,7 +41,7 @@ data: [
     },
     {
         name: 'Miguel Soares',
-        twitter: 'miguelssrs',
+        twitter: 'miglsoares',
         github: 'miguelssrs',
         linkedin: 'https://www.linkedin.com/in/migueldenegocios/',
         photo: 'miguel.png'
