@@ -5,7 +5,7 @@ type: page
 uses: links
 data: [
     { link: 'https://docs.google.com/forms/d/13vATg_UZPaoIhxzKouGQJrzOd5ftsZHX09OUFuWNayA/', title: 'Inscrição sorteio LINUXtips' },
-    { link: 'https://quebradev.com.br/linguagens-funcionais-com-caio-trindade/', title: '
+    { link: 'https://quebradev.com.br/habilidades-importantes-matematica-e-ingles/', title: '
 Último episódio de podcast' },
     { link: 'https://docs.google.com/forms/d/1ZliRtDeuHF0bsQ-hbJFWasJObRXFTlBGR5qpjLeMpog', title: 'Sugestão de Temas' },
     { link: 'https://twitter.com/quebradev', title: 'Twitter' },
