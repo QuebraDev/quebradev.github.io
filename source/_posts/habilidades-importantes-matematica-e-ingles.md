@@ -1,5 +1,5 @@
 ---
-title: '#24 - [Vivências] Habilidades Importantes - Inglês & Matemática'
+title: '#24 - [Vivências] Habilidades Importantes - Matemática & Inglês'
 type: vivencias
 season: 2
 participants:
@@ -29,7 +29,7 @@ songs:
   - name: 'Mano Brown - Adicto'
 date: 2019-08-06 12:00:00
 tags: quebradev, habilidades importantes, habilidades ti, inglês, matemática, estudo, vivências
-cover: /images/habilidades-importantes-ingles-e-matematica.png
+cover: /images/habilidades-importantes-matematica-e-ingles.png
 description:
 soundcloud_id: 661777463
 ---
