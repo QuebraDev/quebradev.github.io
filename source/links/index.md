@@ -4,6 +4,7 @@ date: 2019-07-29 21:00:00
 type: page
 uses: links
 data: [
+    { link: 'https://www.catarse.me/quebradev_no_braziljs_6fd3', title: 'Catarse - QuebraDev no BrazilJS' },
     { link: 'https://docs.google.com/forms/d/13vATg_UZPaoIhxzKouGQJrzOd5ftsZHX09OUFuWNayA/', title: 'Inscrição sorteio LINUXtips' },
     { link: 'https://quebradev.com.br/habilidades-importantes-matematica-e-ingles/', title: '
 Último episódio de podcast' },
