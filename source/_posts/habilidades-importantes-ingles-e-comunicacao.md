@@ -28,10 +28,16 @@ songs:
   - name: 'Valee - I Got Whatever'
   - name: 'BC Raff - Bricks ft. BC Shooter'
   - name: 'DaBaby - Taking It Out'
-date: 2019-08-11 12:00:00
+date: 2019-08-12 12:00:00
 tags: quebradev, habilidades importantes, habilidades ti, inglês, matemática, estudo, vivências
 cover: /images/habilidades-importantes-ingles-e-comunicacao.png
-description: ''
+description: 'Continuando o episódio #24, falamos agora sobre a importância do inglês para comunicação na área de TI.'
 soundcloud_id: 664142069
 ---
+
+Continuando o episódio #24, falamos agora sobre a importância do inglês para comunicação na área de TI.
+
+Também trouxemos algumas dicas para quem está interessado em aprender um novo idioma e além disso rolaram algumas discussões muito boas e claro, com muita zoeira e risada.
+
+Se você ainda não ouviu o episódio #24 dá o play lá e logo em seguida escuta esse aqui que também tá fino!
 
