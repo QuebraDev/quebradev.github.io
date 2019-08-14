@@ -11,6 +11,12 @@ data: [
         location: 'Av. Rebouças, 600 - Pinheiros, São Paulo - SP, 05402-000'
     },
     {
+        name: 'AfrotechBR International Meeting',
+        date: '22/08/2019 - Das 13:30hrs às 18hrs',
+        description: 'Estaremos presentes no evento AfrotechBR International Meeting para absorver um pouco de informação sobre negritudes, tecnologia, trocar umas ideias para ampliar a rede de contatos e é isso!',
+        location: 'Av. Diário de Notícias, 300 - Cristal, Porto Alegre - RS, 90810-080'
+    },
+    {
         name: 'BrazilJS',
         date: '23/08/2019 - 24/08/2019 - Das 09hrs às 18hrs (Sexta e Sábado)',
         description: 'Estaremos no evento BrazilJS trocando ideias conversando e conhecendo o pessoal da comunidade de JS Brasil, quer falar com a gente e pegar alguns brindes, procure-nos por lá!',
