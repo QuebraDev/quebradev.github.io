@@ -8,7 +8,8 @@ Utilizamos o [Hexo](https://hexo.io/) para desenvolvimento do site.
 
 Rodando no local
 ```
-yarn install
+npm install
+npm i -g hexo
 hexo server
 ```
 
