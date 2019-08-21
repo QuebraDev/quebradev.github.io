@@ -11,7 +11,7 @@
 
 .site-header {
   background: rgba(0, 0, 0, 0.8);
-  margin-bottom: -50px;
+  margin-bottom: -61px;
 
   a {
     margin: 0 10px;
@@ -34,6 +34,8 @@
   height: 238px;
   background-image: url('../images/quebradev-background.png');
   background-color: #000;
+  background-repeat: no-repeat;
+  background-position: center;
 
   .navbar-brand {
     padding: 0 30px 0 30px;
@@ -80,6 +82,7 @@ select.form-control {
 footer {
   background-image: url('../images/quebradev-footer.png');
   background-size: cover;
+  background-position: center;
 }
 
 @include media-breakpoint-down(sm) {
@@ -101,7 +104,7 @@ footer {
   .navbar {
     .navbar-brand {
       img {
-        height: 45px;
+        height: 75px;
       }
     }
   }
