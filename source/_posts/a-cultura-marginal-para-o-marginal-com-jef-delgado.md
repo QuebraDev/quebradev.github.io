@@ -1,6 +1,6 @@
 ---
-title: '#21 - [Vivências] A cultura marginal, para o marginal - com Jef Delgado'
-type: vivencias
+title: '#21 - [Raízes] A cultura marginal, para o marginal com Jef Delgado'
+type: raizes
 season: 2
 participants:
   - name: Gustavo Castilião
