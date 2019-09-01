@@ -1,5 +1,5 @@
 ---
-title: '#26 - [Tech] Informativos BrazilJS'
+title: '#26 - [Tech] Pré BrazilJS 2019'
 type: 'tecnologia'
 season: 2
 participants:
@@ -29,7 +29,7 @@ songs:
   - name: Rincon Sapiência - Estilo Maloca
 date: 2019-08-14 13:00:00
 tags: 
-cover: /images/informativos-braziljs.png
+cover: /images/pre-braziljs-2019.png
 description: Salve quebrada. Dessa vez chegamos com episódio relâmpago para divulgar alguns eventos pesados que vão rolar esse mês e organizados pela BrazilJS.
 soundcloud_id: 665469899
 ---

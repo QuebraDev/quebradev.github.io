@@ -1,6 +1,6 @@
 ---
-title: '#15 - [Vivências] A Resistência da Quebrada'
-type: vivencias
+title: '#15 - [Politize-se] A Resistência da Quebrada'
+type: politize
 season: 2
 participants:
   - name: Bruno Dias
