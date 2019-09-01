@@ -11,7 +11,6 @@
 
 .site-header {
   background: rgba(0, 0, 0, 0.8);
-  margin-bottom: -61px;
 
   a {
     margin: 0 10px;
@@ -40,7 +39,7 @@
   .navbar-brand {
     padding: 0 30px 0 30px;
     img {
-      height: 90px;
+      height: 130px;
     }
   }
 
@@ -79,11 +78,7 @@ select.form-control {
   }
 }
 
-footer {
-  background-image: url('../images/quebradev-footer.png');
-  background-size: cover;
-  background-position: center;
-}
+
 
 @include media-breakpoint-down(sm) {
   .site-header {
@@ -95,16 +90,6 @@ footer {
 
       &:after {
         display: none;
-      }
-    }
-  }
-}
-
-@include media-breakpoint-down(xs) {
-  .navbar {
-    .navbar-brand {
-      img {
-        height: 75px;
       }
     }
   }
