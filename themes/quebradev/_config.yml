@@ -19,13 +19,6 @@ footer_links:
     link: https://www.youtube.com/channel/UCcC9BomrjB8nM4WwGXxAkgg
   github:
     link: https://github.com/QuebraDev
-support_links:
-  lambda3:
-    link: https://www.lambda3.com.br
-    height: 20
-  codamos:
-    link: https://www.codamos.club/
-    height: 35
 
 types:
   tecnologia: 
