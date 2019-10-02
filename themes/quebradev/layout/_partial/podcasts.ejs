@@ -3,8 +3,8 @@
 
     <div class="row">
         <div class="filter col-12 col-lg-4">
-            <h4>Filtre por assunto:</h4>
-            <select id="select-podcast-type" class="form-control">
+            <h4 id="filtrarAssunto">Filtre por assunto:</h4>
+            <select id="select-podcast-type" class="form-control" aria-labelledby="filtrarAssunto">
                 <option value="all">Todos</option>
                 <% for (var key in theme.types) { %>
                     <option value="<%= key %>"><%= theme.types[key].name %></option>
