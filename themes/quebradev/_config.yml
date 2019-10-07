@@ -2,8 +2,8 @@
 menu:
   Home: /
 rss: http://feeds.soundcloud.com/users/soundcloud:users:449199045/sounds.rss
-cover: https://avatars0.githubusercontent.com/u/39226661?s=400&u=f55b0c891367489d62d138537b527c49045f71b3&v=4
-favicon: /favicon.png
+cover: https://avatars0.githubusercontent.com/u/39226661?s=400&u=f55b0c891367489d62d138537b527c49045f71b3
+favicon: /favicon.png?v=1
 twitter: quebradev
 google_analytics: UA-119134705-1
 footer_links:
