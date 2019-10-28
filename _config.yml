@@ -82,3 +82,22 @@ sitemap:
 robotstxt:
   useragent: "*"
   sitemap: /sitemap.xml
+
+js_minifier:
+  enable: true
+  mangle: true
+  silent: true
+
+html_minifier:
+  enable: true
+  ignore_error: false
+  silent: true
+
+css_minifier:
+  enable: true
+  silent: true
+
+image_minifier:
+  enable: true
+  pngquant: true
+  silent: true
