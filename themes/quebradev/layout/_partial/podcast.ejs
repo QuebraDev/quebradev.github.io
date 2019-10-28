@@ -41,6 +41,9 @@
                             <% if (participant.github) { %>
                                 <a href="https://github.com/<%= participant.github %>" target="_blank" title="<%= participant.name %> GitHub"><%- fa_inline('github', {prefix: 'fab'}) %></a>
                             <% } %>
+                            <% if (participant.instagram) { %>
+                                <a href="https://www.instagram.com/<%= participant.instagram %>" target="_blank" title="<%= participant.name %> Instagram"><%- fa_inline('instagram', {prefix: 'fab'}) %></a>
+                            <% } %>
                         </li>
                     <% }) %>
                 </ul>
