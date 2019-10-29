@@ -12,6 +12,7 @@
     "bootstrap": "^4.2.1",
     "font-awesome": "^4.7.0",
     "hexo": "^3.8.0",
+    "hexo-all-minifier": "^0.5.3",
     "hexo-deployer-git": "^1.0.0",
     "hexo-fontawesome": "^1.1.1",
     "hexo-generator-archive": "^0.1.4",
