@@ -18,7 +18,7 @@ links:
     link: 'https://www.sescsp.org.br/unidades/32_ARARAQUARA/'
 songs:
   - name: Kamau - Resistência
-date: 2019-11-04 12:00:00
+date: 2019-11-12 12:00:00
 tags: quebradev, oficina de podcast, sesc, sesc araraquara
 cover: /images/oficina-de-podcast-sesc-araraquara.png
 description: Em outubro participamos de uma oficina de podcast lá no Sesc Araraquara e como exercício resolvemos gravar um episódio com os participantes. Nesse episódio cada participante fala como foi a experiência de participar dessa oficina.
