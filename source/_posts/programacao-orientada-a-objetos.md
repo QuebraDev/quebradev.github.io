@@ -22,7 +22,7 @@ links:
   - name: Conceitos - POO
     link: 'https://medium.com/@TDamiao/16-conceitos-poo-programa%C3%A7%C3%A3o-orientada-a-objeto-6cdc72ac3ee2'
   - name: Alura Cursos
-    link: 'https://www.alura.com.br/'
+    link: 'https://www.alura.com.br/cursos-online-programacao?utm_source=quebradev&utm_medium=cpc'
 songs:
   - name: Orishas - Represent
   - name: Cypress Hill - Lowrider
