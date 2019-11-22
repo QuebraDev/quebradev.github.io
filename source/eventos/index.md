@@ -5,6 +5,24 @@ type: page
 uses: events
 data: [
     {
+        name: 'Brazil JS - OnTheRoad SP',
+        date: '30/11/2019',
+        description: 'Palestraremos na BrazilJS sobre comunicação como forma de representativade',
+        location: 'TOTVS - Av Braz Leme, 1000, São Paulo/SP - Brazil'
+    },
+    {
+        name: 'Galpão ZL - Minas Programam',
+        date: '23/11/2019 - 14hrs às 18hrs  (Sábado)',
+        description: 'Workshop Tecnologia & Quebrada',
+        location: 'R. Serra da Juruoca, 112 - Jardim Lapena, São Paulo - SP, 08071-180'
+    },
+    {
+        name: 'RoadSec',
+        date: '23/11/2019 - 15hrs (Sábado)',
+        description: 'Palestraremos na RoadSec sobre comunicação como forma de representativade',
+        location: 'Francisco Matarazzo, 694, Água Branca, São Paulo, SP 05001-000, Brasil'
+    },
+    {
         name: 'CodeCon',
         date: '31/08/2019 - 16hrs (Sábado)',
         description: 'Palestraremos na CodeCon sobre comunicação como forma de representativade',
