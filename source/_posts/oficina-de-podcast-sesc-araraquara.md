@@ -16,6 +16,8 @@ participants:
 links:
   - name: Sesc Araraquara
     link: 'https://www.sescsp.org.br/unidades/32_ARARAQUARA/'
+  - name: Alura
+    link: 'https://www.alura.com.br/cursos-online-programacao?utm_source=quebradev&utm_medium=cpc'
 songs:
   - name: Kamau - Resistência
 date: 2019-11-12 12:00:00
