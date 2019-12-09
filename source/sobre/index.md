@@ -20,7 +20,7 @@ data: [
     },
     {
         name: 'Junior Pereira',
-        twitter: 'pereirajrdevds',
+        twitter: 'putaqpariujunio',
         github: 'pereirajunior1407',
         linkedin: 'https://www.linkedin.com/in/pereirajunior1407/',
         photo: 'junior.png'
