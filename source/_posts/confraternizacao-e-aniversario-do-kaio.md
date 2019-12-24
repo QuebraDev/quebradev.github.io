@@ -2,13 +2,6 @@
 title: '#30 - [Vivências] Confraternização e Aniversário do Kaio'
 type: vivencias
 season: 2
-participants:
-  - name:
-    twitter:
-    github:
-links:
-  - name: 
-    link:
 songs:
   - name: Racionais MCs - Capítulo 4 Versículo 3
   - name: Racionais MCs - Vida Loka Parte 2

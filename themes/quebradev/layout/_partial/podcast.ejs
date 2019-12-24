@@ -30,30 +30,35 @@
                 <% } else { %>
                     <p>Faça o download do episódio (MP3) clicando <a href="https://api.soundcloud.com/tracks/<%= post.soundcloud_id %>/download?client_id=LBCcHmRB8XSStWL6wKH2HPACspQlXg2P">AQUI</a></p>
                 <% } %>
-                <h3 class="bordered-left">Participantes</h3>
-                <ul class="podcast-participants">
-                    <% post.participants.forEach(function(participant) { %>
-                        <li>
-                            <%= participant.name %>
-                            <% if (participant.twitter) { %>
-                                <a href="https://twitter.com/<%= participant.twitter %>" target="_blank" title="<%= participant.name %> Twitter"><%- fa_inline('twitter', {prefix: 'fab'}) %></a>
-                            <% } %>
-                            <% if (participant.github) { %>
-                                <a href="https://github.com/<%= participant.github %>" target="_blank" title="<%= participant.name %> GitHub"><%- fa_inline('github', {prefix: 'fab'}) %></a>
-                            <% } %>
-                            <% if (participant.instagram) { %>
-                                <a href="https://www.instagram.com/<%= participant.instagram %>" target="_blank" title="<%= participant.name %> Instagram"><%- fa_inline('instagram', {prefix: 'fab'}) %></a>
-                            <% } %>
-                        </li>
-                    <% }) %>
-                </ul>
 
-                <h3 class="bordered-left">Links</h3>
-                <ul class="podcast-links">
-                    <% post.links.forEach(function(link) { %>
-                        <li><a href="<%= link.link %>" target="_blank" title="<%= link.name %>"><%= link.name %></a></li>
-                    <% }) %>
-                </ul>
+                <% if (post.participants) { %>
+                    <h3 class="bordered-left">Participantes</h3>
+                    <ul class="podcast-participants">
+                        <% post.participants.forEach(function(participant) { %>
+                            <li>
+                                <%= participant.name %>
+                                <% if (participant.twitter) { %>
+                                    <a href="https://twitter.com/<%= participant.twitter %>" target="_blank" title="<%= participant.name %> Twitter"><%- fa_inline('twitter', {prefix: 'fab'}) %></a>
+                                <% } %>
+                                <% if (participant.github) { %>
+                                    <a href="https://github.com/<%= participant.github %>" target="_blank" title="<%= participant.name %> GitHub"><%- fa_inline('github', {prefix: 'fab'}) %></a>
+                                <% } %>
+                                <% if (participant.instagram) { %>
+                                    <a href="https://www.instagram.com/<%= participant.instagram %>" target="_blank" title="<%= participant.name %> Instagram"><%- fa_inline('instagram', {prefix: 'fab'}) %></a>
+                                <% } %>
+                            </li>
+                        <% }) %>
+                    </ul>
+                <% } %>
+
+                <% if (post.links) { %>
+                    <h3 class="bordered-left">Links</h3>
+                    <ul class="podcast-links">
+                        <% post.links.forEach(function(link) { %>
+                            <li><a href="<%= link.link %>" target="_blank" title="<%= link.name %>"><%= link.name %></a></li>
+                        <% }) %>
+                    </ul>
+                <% } %>
 
                 <h3 class="bordered-left">Músicas</h3>
                 <ul>
