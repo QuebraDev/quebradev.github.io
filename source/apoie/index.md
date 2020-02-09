@@ -25,6 +25,7 @@ data: [
     { name: 'Paulo Moura' },
     { name: 'Reginaldo' },
     { name: 'Sulamita Brito Pereira' },
-    { name: 'William Oliveira' }
+    { name: 'William Oliveira' },
+    { name: 'Ane Schunk' }
 ]
 ---
