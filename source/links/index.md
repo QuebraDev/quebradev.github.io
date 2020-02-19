@@ -4,8 +4,8 @@ date: 2019-07-29 21:00:00
 type: page
 uses: links
 data: [
-    { link: 'https://docs.google.com/forms/d/1i9VJXDLqGRStg0tJCjr6FT5F4Ff6BvYfIJDMsO0H1_M/viewform?chromeless=1&edit_requested=true', title: 'Sorteio WORDCAMP 2019' },
-    { link: 'https://quebradev.com.br/pre-braziljs-2019/', title: 'Último episódio de podcast' },
+    { link: 'https://docs.google.com/forms/d/e/1FAIpQLSdJyJiD6hwZZ7_AlXnR-mcUhRDuOn8LX2G9yS5nU6n45HFZ-Q/viewform', title: 'Evento Perifatécnico pros Quebradinha de SP' },
+    { link: 'https://quebradev.com.br/confraternizacao-e-aniversario-do-kaio/', title: 'Último episódio de podcast' },
     { link: 'https://docs.google.com/forms/d/1ZliRtDeuHF0bsQ-hbJFWasJObRXFTlBGR5qpjLeMpog', title: 'Sugestão de Temas' },
     { link: 'https://twitter.com/quebradev', title: 'Twitter' },
     { link: 'https://www.facebook.com/quebradev/', title: 'Facebook' },
