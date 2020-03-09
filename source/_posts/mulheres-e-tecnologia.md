@@ -4,17 +4,17 @@ type: tecnologia
 season: 3
 participants:
   - name: Amanda Silva
-    linkedin: 'https://www.linkedin.com/in/amanda-silva-dev'
+    linkedin: 'amanda-silva-dev'
   - name: Fabi Ferlin
-    linkedin: 'https://www.linkedin.com/in/fabiana-ferlin-assami'
+    linkedin: 'fabiana-ferlin-assami'
   - name: Jessica Happatsch
-    linkedin: 'https://www.linkedin.com/in/jessicahappatsch'
+    linkedin: 'jessicahappatsch'
   - name: Luiza Araújo
-    linkedin: 'https://www.linkedin.com/in/luizaaraujovieira'
+    linkedin: 'luizaaraujovieira'
   - name: Thassia Lima
-    linkedin: ''
+    linkedin: 'thassia-lima'
   - name: Yassui Kimura
-    linkedin: 'https://www.linkedin.com/in/yassuikimura'
+    linkedin: 'yassuikimura'
 links:
   
 songs:
