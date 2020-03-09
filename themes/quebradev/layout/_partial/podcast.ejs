@@ -46,6 +46,9 @@
                                 <% if (participant.instagram) { %>
                                     <a href="https://www.instagram.com/<%= participant.instagram %>" target="_blank" title="<%= participant.name %> Instagram"><%- fa_inline('instagram', {prefix: 'fab'}) %></a>
                                 <% } %>
+                                <% if (participant.linkedin) { %>
+                                    <a href="https://www.linkedin.com/<%= participant.linkedin %>" target="_blank" title="<%= participant.name %> Linkedin"><%- fa_inline('linkedin', {prefix: 'fab'}) %></a>
+                                <% } %>
                             </li>
                         <% }) %>
                     </ul>
