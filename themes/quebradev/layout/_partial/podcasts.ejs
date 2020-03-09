@@ -24,7 +24,16 @@
     <div class="row">
         <div class="row col-12 season-block">
             <div class="col-12 season-title">
-                <h3>Temporada 2 - <span>Início 11/03/2019</span></h3>
+                <h3>Temporada 3 - <span>Início 09/03/2020</span></h3>
+            </div>
+            <% page.posts.each(function(post){ %>
+                <%- partial('_partial/podcast-block', {post: post, season: 3}) %>
+            <% }) %>
+        </div>
+
+        <div class="row col-12 season-block">
+            <div class="col-12 season-title">
+                <h3>Temporada 2 - <span>Início 11/03/2019 à 30/12/2019 - Encerrada</span></h3>
             </div>
             <% page.posts.each(function(post){ %>
                 <%- partial('_partial/podcast-block', {post: post, season: 2}) %>
