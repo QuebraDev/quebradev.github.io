@@ -1,6 +1,6 @@
 ---
 title: '#31 - [Vivências] Mulheres e Tecnologia'
-type: tecnologia
+type: vivencias
 season: 3
 participants:
   - name: Amanda Silva
