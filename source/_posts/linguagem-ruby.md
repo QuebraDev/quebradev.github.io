@@ -39,5 +39,5 @@ soundcloud_id: 780906688
 ---
 
 Salve salve! Desta vez temos um episódio técnico e resolvemos falar sobre ruby que é uma linguagem multiparadigma, de tipagem forte e dinâmica.
-Para falar sobre essa linguagem tivemos além dos membros deste podcast, um convidado especial que é logo gerente, dev zica e sabe muito sobre ruby, é o Joacir Junior (twitter.com/jrjoacir).
+Para falar sobre essa linguagem tivemos além dos membros deste podcast, um convidado especial que tem habilidades de gerente, dev zica e sabe muito sobre ruby, é o Joacir Junior (twitter.com/jrjoacir).
 Então deem o play que o episódio tá fino e cheio de conteúdo!
