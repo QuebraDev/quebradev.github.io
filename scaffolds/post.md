@@ -1,34 +1,31 @@
 ---
-title: '#0 - Titulo Podcast'
+title: '#0 - [Tema] Titulo Podcast'
 type: 'tecnologia'
-season: 2
+season: 3
 date: {{ date }}
 tags:
-cover:
+cover: /images/titulo-podcast.png
 description:
 soundcloud_id:
 participants:
-  - name: Bruno Dias
-    twitter: DissBruno
-    github: iBrunox11
   - name: Gustavo Castilião
     twitter: gustv0_
     github: gustv0_
-  - name: Junior Pereira
-    twitter: pereirajr1407
-    github: pereirajunior1407
-  - name: Kaio Teixeira
-    twitter: __kaell13
-    github: kteixeira
-  - name: Matheus Hernandes
-    twitter: onhernandes
-    github: onhernandes
+  - name: Marcos Florencio
+    twitter: eptaccio
+    github: eptaccio
   - name: Miguel Soares
     twitter: miglsoares
     github: miguelssrs
+  - name: Kaio Teixeira
+    twitter: __kaell13
+    github: kteixeira
   - name: Reginaldo Junior
     twitter: reginaldoojnr
     github: reginaldojunior
+  - name: Thassia Lima
+    twitter: ThassiaLays
+    github: ThassiaLima
   - name: Willian Viana
     twitter: willian_batista
     github: willian-viana
