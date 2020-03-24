@@ -5,13 +5,6 @@ type: page
 uses: members
 data: [
     {
-        name: 'Bruno Dias',
-        twitter: 'DissBruno',
-        github: 'iBrunox11',
-        linkedin: 'https://www.linkedin.com/in/bruno-dias-72b1b5158/',
-        photo: 'bruno.png'
-    },
-    {
         name: 'Gustavo Castilião',
         twitter: 'gustv0_',
         github: 'gustv0_',
@@ -19,25 +12,11 @@ data: [
         photo: 'gustavo.png'
     },
     {
-        name: 'Junior Pereira',
-        twitter: 'putaqpariujunio',
-        github: 'pereirajunior1407',
-        linkedin: 'https://www.linkedin.com/in/pereirajunior1407/',
-        photo: 'junior.png'
-    },
-    {
         name: 'Kaio Teixeira',
         twitter: '__kaell13',
         github: 'kteixeira',
         linkedin: 'https://www.linkedin.com/in/kaio-teixeira-9118a95a/',
         photo: 'kaio.jpg'
-    },
-    {
-        name: 'Matheus Hernandes',
-        twitter: 'onhernandes',
-        github: 'onhernandes',
-        linkedin: 'https://www.linkedin.com/in/onhernandes/',
-        photo: 'matheus.jpg'
     },
     {
         name: 'Miguel Soares',
@@ -59,6 +38,6 @@ data: [
         github: 'willian-viana',
         linkedin: 'https://www.linkedin.com/in/willian-viana-94038b12a/',
         photo: 'willian.png'
-    },
+    }
 ]
 ---
