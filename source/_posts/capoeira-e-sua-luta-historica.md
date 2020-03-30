@@ -27,11 +27,11 @@ links:
   - name: 'Dicionário de Capoeira'
     link: 'https://www.arteculturacapoeira.com.br/site/index.php?option=com_content&view=article&id=102:dicionario&catid=57:dicionario-da-capoeira&Itemid=85'
 songs:
-  - name: Eu já vivo enjoado - Mestre Pastinha
-  - name: Maculelê - Mestre Suassuna
-  - name: Meu Gunga - Mestre Museu
-  - name: Ecoou um canto forte na senzala - Edvander de Oliveira e Verônica
-  - name: Valor da Capoeira - Grupo Muzenza
+  - name: Mestre Pastinha - Eu já vivo enjoado
+  - name: Mestre Suassuna - Maculelê
+  - name: Mestre Museu - Meu Gunga
+  - name: Edvander de Oliveira e Verônica - Ecoou um canto forte na senzala
+  - name: Grupo Muzenza - Valor da Capoeira
 date: 2020-03-16 12:00:00
 tags: quebradev, capoeira, historia, periferia, cultura, mestre bimba, mestre pastinha, besouro, candomble, umbanda
 cover: /images/capoeira-e-sua-luta-historica.png

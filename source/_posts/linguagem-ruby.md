@@ -26,11 +26,11 @@ links:
   - name: Try Ruby
     link: 'https://try.ruby-lang.org/'
 songs:
-  - name: I Like It - DeBarge
-  - name: Attitudes - The Bar Kays
-  - name: I Heard It Through the Grapevine - Zapp & Roger
-  - name: Outstanding - The Gap Band
-  - name: Mr  Groove - One Way
+  - name: DeBarge - I Like It
+  - name: The Bar Kays - Attitudes
+  - name: Zapp & Roger - I Heard It Through the Grapevine
+  - name: The Gap Band - Outstanding
+  - name: One Way - Mr Groove
 date: 2020-03-23 12:00:00
 tags: ruby, quebradev, ruby on rails, tecnologia
 cover: /images/linguagem-ruby.png
