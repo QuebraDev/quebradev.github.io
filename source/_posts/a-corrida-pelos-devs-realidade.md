@@ -8,7 +8,7 @@ participants:
     twitter: __kaell13
     github: kteixeira
   - name: Lucas Silva
-    twitter: lucas_dejsilva
+    twitter: olucasjs
     github: lucasjs
   - name: Miguel Soares
     twitter: miglsoares

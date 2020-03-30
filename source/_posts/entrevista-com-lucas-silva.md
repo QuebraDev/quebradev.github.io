@@ -13,7 +13,7 @@ participants:
     twitter: reginaldoojnr
     github: reginaldojunior
   - name: Lucas Silva
-    twitter: lucas_dejsilva
+    twitter: olucasjs
     github: lucasjs
 links:
   - name: Lucas J S - Medium
