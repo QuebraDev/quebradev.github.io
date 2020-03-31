@@ -9,35 +9,60 @@ data: [
         twitter: 'gustv0_',
         github: 'gustv0_',
         linkedin: 'https://www.linkedin.com/in/gustv0_/',
-        photo: 'gustavo.png'
+        photo: 'gustavo_profile.jpg'
     },
     {
         name: 'Kaio Teixeira',
         twitter: '__kaell13',
         github: 'kteixeira',
         linkedin: 'https://www.linkedin.com/in/kaio-teixeira-9118a95a/',
-        photo: 'kaio.jpg'
+        photo: 'kaio_profile.jpg'
     },
     {
         name: 'Miguel Soares',
         twitter: 'miglsoares',
         github: 'miguelssrs',
         linkedin: 'https://www.linkedin.com/in/migueldenegocios/',
-        photo: 'miguel.png'
+        photo: 'miguel_profile.jpg'
     },
     {
         name: 'Reginaldo Junior',
         twitter: 'reginaldoojnr',
         github: 'reginaldojunior',
         linkedin: 'https://www.linkedin.com/in/reginaldo-luis-luna-junior-b26b4b79/',
-        photo: 'reginaldo.jpg'
+        photo: 'reginaldo_profile.jpg'
     },
     {
         name: 'Willian Viana',
         twitter: 'willian_batista',
         github: 'willian-viana',
         linkedin: 'https://www.linkedin.com/in/willian-viana-94038b12a/',
-        photo: 'willian.png'
-    }
+        photo: 'will_profile.jpg'
+    },
+    {
+        name: 'Marcos Florencio',
+        twitter: 'eptaccio',
+        github: 'eptaccio',
+        linkedin: 'https://www.linkedin.com/in/eptaccio/',
+        photo: 'marcos_profile.jpg'
+    },
+    {
+        name: 'Thassia Lima',
+        twitter: 'thassialays',
+        github: 'thassialima',
+        linkedin: 'https://www.linkedin.com/in/thassia-lima',
+        photo: 'thassia_profile.jpg'
+    },
+    {
+        name: 'Lucas Silva',
+        twitter: 'olucasjs',
+        github: 'lucasjs',
+        linkedin: 'http://linkedin.com/in/lucasjsilva',
+        photo: 'lucas.jpg'
+    },
+    {
+        name: 'Debora Rocha',
+        photo: 'debora_profile.jpg'
+    },
 ]
 ---
