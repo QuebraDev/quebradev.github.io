@@ -7,7 +7,7 @@ data: [
     {
         name: 'Gustavo Castilião',
         twitter: 'gustv0_',
-        github: 'gustv0_',
+        github: 'gucastiliao',
         linkedin: 'https://www.linkedin.com/in/gustv0_/',
         photo: 'gustavo_profile.jpg'
     },
@@ -21,7 +21,7 @@ data: [
     {
         name: 'Miguel Soares',
         twitter: 'miglsoares',
-        github: 'miguelssrs',
+        github: 'miglsoares',
         linkedin: 'https://www.linkedin.com/in/migueldenegocios/',
         photo: 'miguel_profile.jpg'
     },
