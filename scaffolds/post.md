@@ -27,7 +27,7 @@ participants:
     twitter: ThassiaLays
     github: ThassiaLima
   - name: Willian Viana
-    twitter: willian_batista
+    twitter: wbvianna
     github: willian-viana
 links:
   - name: 'Lorem Ipsum'

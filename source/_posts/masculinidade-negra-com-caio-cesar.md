@@ -12,7 +12,7 @@ participants:
     twitter: reginaldoojnr
     github: reginaldojunior
   - name: Willian Viana
-    twitter: willian_batista
+    twitter: wbvianna
     github: willian-viana
 links:
   - name: Canal Caio César

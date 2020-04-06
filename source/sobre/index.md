@@ -34,7 +34,7 @@ data: [
     },
     {
         name: 'Willian Viana',
-        twitter: 'willian_batista',
+        twitter: 'wbvianna',
         github: 'willian-viana',
         linkedin: 'https://www.linkedin.com/in/willian-viana-94038b12a/',
         photo: 'will_profile.jpg'

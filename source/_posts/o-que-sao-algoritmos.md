@@ -10,7 +10,7 @@ participants:
     twitter: reginaldoojnr
     github: reginaldojunior
   - name: Willian Viana
-    twitter: willian_batista
+    twitter: wbvianna
     github: willian-viana
 links:
   - name: 'Governo Dos Algoritmos'
