@@ -23,7 +23,7 @@ links:
   - name: Code Smells
     link: 'https://medium.com/@tusharma/how-to-track-code-smells-effectively-48dbf5ba659d'
   - name: 'What is Extreme Programming (XP)? | Agile Alliance'
-    link: 'https://www.agilealliance.org/glossary/xp/#q=~(infinite~false~filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'xp))~searchTerm~'~sort~false~sortDirection~'asc~page~1)'
+    link: "https://www.agilealliance.org/glossary/xp/#q=~(infinite~false~filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'xp))~searchTerm~'~sort~false~sortDirection~'asc~page~1)"
   - name: Martin Fowler
     link: 'https://martinfowler.com/bliki/Yagni.html'
   - name: Padrão de Projeto
