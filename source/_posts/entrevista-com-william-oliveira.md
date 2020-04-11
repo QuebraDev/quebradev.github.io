@@ -46,7 +46,7 @@ date: 2018-12-27 12:00:00
 tags: quebradev, woliveiras, william oliveira, periferia, comunidade, inclusao, conhecimento, raízes
 cover: /images/entrevista-com-william-oliveira.png
 description: O penúltimo episódio dessa temporada fodástica do QuebraDev tem como convidado especial o William Oliveira, mais um jovem com descendência periférica, uma história foda e ótimas intenções para colaborar com as vidas originárias de onde ele veio. 
-soundcloud_id: 550477332
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/13---Razes-Entrevista-com-William-Oliveira-eclvcs'
 ---
 
 O penúltimo episódio dessa temporada fodástica do QuebraDev tem como convidado especial o William Oliveira, mais um jovem com descendência periférica, uma história foda e ótimas intenções para colaborar com as vidas originárias de onde ele veio. 

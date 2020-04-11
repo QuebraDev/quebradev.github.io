@@ -9,7 +9,7 @@ date: 2019-12-30 12:00:00
 tags: quebrada, tecnologia, periferia, autoestima, resistencia, ascensão, poder para periferia
 cover: /images/confraternizacao-e-aniversario-do-kaio.png
 description: Firmeza total, mais um ano se passando. Graças a Deus a gente tá com saúde aí, morô? Mais um ano e a quebrada continua fazendo barulho. Nesse episódio comemoramos o aniversário do Kaio além de uma retrospectiva do ano que passou e mais algumas novidades para o próximo ano.
-soundcloud_id: 731712685
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/30---Vivncias-Confraternizao-e-Aniversrio-do-Kaio-eclvbi'
 ---
 
 Firmeza total, mais um ano se passando. Graças a Deus a gente tá com saúde aí, morô? Mais um ano e a quebrada continua fazendo barulho. Nesse episódio comemoramos o aniversário do Kaio além de uma retrospectiva do ano que passou e mais algumas novidades para o próximo ano.

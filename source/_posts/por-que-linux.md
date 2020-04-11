@@ -51,7 +51,7 @@ date: 2018-06-25 09:51:07
 tags: linux, opensource, softwarelivre, ubuntu, conhecimento, quebradev, tecnologia, como usar linux, iniciante em linux
 cover: /images/por-que-linux.png
 description: Dessa vez falamos um pouco dos motivos para usar Linux. Abordamos também as vantagens e desvantagens de usar, apresentando também algumas distribuições feitas especificamente para cada tipo de tarefa, como por exemplo, jogos ou edição de imagens.
-soundcloud_id: 463218858
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/4---Tech-Por-que-Linux-eclvce'
 ---
 
 Dessa vez falamos um pouco dos motivos para usar Linux. Abordamos também as vantagens e desvantagens de usar, apresentando também algumas distribuições feitas especificamente para cada tipo de tarefa, como por exemplo, jogos ou edição de imagens.

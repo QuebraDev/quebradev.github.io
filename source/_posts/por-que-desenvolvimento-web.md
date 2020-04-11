@@ -59,7 +59,7 @@ date: 2018-06-11 09:37:34
 tags: desenvolvimento, web, backend, back-end, frontend, front-end, games, mobile, quebradev, conhecimento, tecnologia, trabalho, cultura, como comecar em desenvolvimento
 cover: /images/por-que-desenvolvimento-web.png
 description: Depois de falar sobre Back-End e Front-End, resolvemos fazer um episódio póstumo explicando as razões que temos para incentivarmos os estudos para a área de desenvolvimento web.
-soundcloud_id: 456824541
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/3---Tech-Por-que-ser-um-desenvolvedor-web-eclvch'
 ---
 
 Depois de falar sobre Back-End e Front-End, acatamos uma sugestão e assim, voltamos para explicar o nosso ponto de vista sobre motivos que temos para incentivarmos as pessoas a estudarem sobre desenvolvimento web.

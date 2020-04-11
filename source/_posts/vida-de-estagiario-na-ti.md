@@ -23,7 +23,7 @@ date: 2020-04-06 12:00:00
 tags: quebradev, tecnologia, carreira, estagio, vida de estagiario
 description: 'Salve salve quebrada de todo Brasil. Mais uma segunda de luta contra o coronga iniciando com o podcast mais perifatecnico do planeta.
 Esse papo tá muito bom e gostaríamos de convidar a todos, inclusive você aí de RH a ouvir com carinho sobre um assunto tão importante: Vida de estagiário!'
-soundcloud_id: 790284382
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/35---Vivencias-Vida-de-estagiario-na-TI-eclvbh'
 ---
 
 Salve salve quebrada de todo Brasil. Mais uma segunda de luta contra o coronga iniciando com o podcast mais perifatecnico do planeta.

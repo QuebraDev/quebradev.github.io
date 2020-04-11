@@ -6,7 +6,7 @@ date: {{ date }}
 tags:
 cover: /images/titulo-podcast.png
 description:
-soundcloud_id:
+embed_url:
 participants:
   - name: Gustavo Castilião
     twitter: gustv0_

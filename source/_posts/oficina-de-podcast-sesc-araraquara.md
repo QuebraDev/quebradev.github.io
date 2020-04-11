@@ -24,7 +24,7 @@ date: 2019-11-12 12:00:00
 tags: quebradev, oficina de podcast, sesc, sesc araraquara
 cover: /images/oficina-de-podcast-sesc-araraquara.png
 description: Em outubro participamos de uma oficina de podcast lá no Sesc Araraquara e como exercício resolvemos gravar um episódio com os participantes. Nesse episódio cada participante fala como foi a experiência de participar dessa oficina.
-soundcloud_id: 706581880 
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/28---Tech-Oficina-de-Podcast---Sesc-Araraquara-eclvba'
 ---
 
 Em outubro participamos de uma oficina de podcast lá no Sesc Araraquara e como exercício resolvemos gravar um episódio com os participantes.

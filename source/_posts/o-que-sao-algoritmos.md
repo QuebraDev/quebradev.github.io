@@ -36,7 +36,7 @@ date: 2019-03-18 03:18:18
 tags: algoritmos, inteligencia artificial, AI, robôs, bots, carros autonomos, machine learning, algoritmos discriminatórios, capitalismo de vigilância, quebradev, tech
 cover: /images/o-que-sao-algoritmos.png
 description: Já que temos ligação direta com a tecnologia, não podia faltar pauta em bits e bytes, né não? Bom, desta vez resolvemos falar sobre algoritmos e não abordamos de forma superficial, desde a definição de lógica à história, os tipos de algoritmos mais populares...
-soundcloud_id: 591808920
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/16---Tech-O-que-sao-algoritmos-eclvbd'
 ---
 
 Já que temos ligação direta com a tecnologia, não podia faltar pauta em bits e bytes, né não? 

@@ -36,7 +36,7 @@ date: 2019-07-01 12:00:00
 tags: finanças, nath, nath finanças, finanças com a nath, quebradev, periferia, baixa renda
 cover: /images/financas-criticas-com-a-nath.png
 description: E quem é que imaginou que um dia conseguiríamos conversar sobre um tabu? Finanças para quem vai com sede ao pote quando começa a ter acesso à existência (dinheiro) é um assunto pouco difundido entre nós!
-soundcloud_id: 644541558
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/22---Politize-se-Financas-criticas-com-a-Nath-eclvbq'
 ---
 
 E quem é que imaginou que um dia conseguiríamos conversar sobre um tabu? Finanças para quem vai com sede ao pote quando começa a ter acesso à existência (dinheiro) é um assunto pouco difundido entre nós!

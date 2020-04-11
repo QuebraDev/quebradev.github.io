@@ -45,7 +45,7 @@ date: 2019-03-11 12:00:00
 tags: quebrada, tecnologia, periferia, autoestima, resistencia, marighella, carlos marighella, educação financeira, ascensão, poder para periferia
 cover: /images/a-resistencia-da-quebrada.png
 description: Para iniciar essa temporada com chave de ouro, resolvemos falar sobre a resistência da quebrada, os assuntos estão bem variados, fizemos uma recapitulação de alguns episódios e uma introdução da postura que adotaremos a partir dessa temporada.
-soundcloud_id: 587837634
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/15---Politize-se-A-Resistencia-da-Quebrada-eclvc9'
 ---
 
 Para iniciar essa temporada com chave de ouro, resolvemos falar sobre a resistência da quebrada, os assuntos estão bem variados, fizemos uma recapitulação de alguns episódios e uma introdução da postura que adotaremos a partir dessa temporada.

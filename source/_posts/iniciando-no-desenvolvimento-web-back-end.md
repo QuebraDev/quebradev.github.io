@@ -57,7 +57,7 @@ date: 2018-06-04 09:30:47
 tags: 
 cover: /images/iniciando-no-desenvolvimento-web-back-end.png
 description: Sabe o mundo backend? Ele não é tão dificil assim, vem com a gente e descubra como dar os primeiros passos nesta área de desenvolvimento.
-soundcloud_id: 453577206
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/2---Tech-Iniciando-no-Desenvolvimento-Web---Back-End-eclvde'
 ---
 
 Continuando a série de como iniciar no desenvolvimento web e dessa vez falamos sobre o mundo backend. Toda aquela parte que você não vê no software mas faz todo o processamento e mágica dos seus dados. Passamos sobre diversos temas que envolve o backend, lógica, lógica de programação, servidores, linguagens de programação, mercado de trabalho, ambiente de trabalho e a pouca diversificação nesta categoria de trabalho

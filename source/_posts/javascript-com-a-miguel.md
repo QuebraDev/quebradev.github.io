@@ -61,7 +61,7 @@ date: 2018-10-16 12:00:00
 tags: javascript, frontend, backend, nodejs, framework, bibliotecas, js, quebradev, comunidade, conhecimento, tecnologia
 cover: /images/javascript-com-a-miguel.png
 description: O episódio da vez foi atendendo a pedidos que recebemos por ouvintes, temos convidada no recinto e não é do sexo masculino, falaremos de JavaScript com a Miguel.
-soundcloud_id: 514903188
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/9---Tech-JavaScript-com-a-Miguel-eclvbe'
 
 ---
 

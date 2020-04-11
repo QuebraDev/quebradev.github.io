@@ -25,7 +25,7 @@ songs:
 date: 2020-03-30 12:00:00
 tags: quebradev, tecnologia, carreira, a corrida pelos devs
 description: 'Salve quebrada! Outra vez nós aqui, vai vendo, traficando informação e vendo a treta crescendo! Aliás, pra quem achou que nós iríamos nos ausentar do debate sobre a "corrida pelos devs", achou errado otário!'
-soundcloud_id: 785750131
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/34---Tech-A-corrida-pelos-devs---Realidade-eclvci'
 ---
 
 Salve quebrada! Outra vez nós aqui, vai vendo, traficando informação e vendo a treta crescendo! 

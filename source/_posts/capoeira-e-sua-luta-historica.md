@@ -36,7 +36,7 @@ date: 2020-03-16 12:00:00
 tags: quebradev, capoeira, historia, periferia, cultura, mestre bimba, mestre pastinha, besouro, candomble, umbanda
 cover: /images/capoeira-e-sua-luta-historica.png
 description: Salve quebrada! Ainda estão com o coração quentinho do episódio sobre mulheres incríveis na TI? Pois se preparem, esse ano voltamos com periodicidade e estamos aqui pra falar de outro assunto que requer mandinga, condicionamento físico e muito respeito!
-soundcloud_id: 765857839
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/32---Politize-se-Capoeira-e-sua-luta-histrica-eclvc2'
 ---
 
 Salve quebrada! Ainda estão com o coração quentinho do episódio sobre mulheres incríveis na TI? Pois se preparem, esse ano voltamos com periodicidade e estamos aqui pra falar de outro assunto que requer mandinga, condicionamento físico e muito respeito!

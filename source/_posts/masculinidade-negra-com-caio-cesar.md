@@ -37,7 +37,7 @@ date: 2019-03-25 12:00:00
 tags: masculinidade negra, periferia, autoestima, caio césar, geocaio, masculinidade, vivências, raízes, sentimentos, jesus chorou, sensibilidade, insegurança
 cover: /images/masculinidade-negra-com-caio-cesar.png
 description: 'Desta vez abordaremos um tema que ganhou mais espaço em campo de debate nos últimos tempos: a masculinidade negra. Como nosso alvo direto é a periferia, não esquecemos de falar diretamente sobre o perfil masculino de quebrada, como as ruas formaram nossas construções sociais.'
-soundcloud_id: 595511082
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/17---Raizes-Masculinidade-Negra-com-Caio-Cesar-eclvbj'
 ---
 
 Desta vez abordaremos um tema que ganhou mais espaço em campo de debate nos últimos tempos: a masculinidade negra. 

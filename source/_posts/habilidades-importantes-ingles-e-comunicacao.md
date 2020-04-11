@@ -32,7 +32,7 @@ date: 2019-08-12 12:00:00
 tags: quebradev, habilidades importantes, habilidades ti, inglês, matemática, estudo, vivências
 cover: /images/habilidades-importantes-ingles-e-comunicacao.png
 description: 'Continuando o episódio #24, falamos agora sobre a importância do inglês para comunicação na área de TI.'
-soundcloud_id: 664142069
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/25---Vivncias-Habilidades-Importantes---Ingls--Comunicao-eclvbr'
 ---
 
 Continuando o episódio #24, falamos agora sobre a importância do inglês para comunicação na área de TI.
