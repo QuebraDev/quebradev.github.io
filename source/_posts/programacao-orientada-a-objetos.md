@@ -32,7 +32,7 @@ date: 2019-11-18 12:00:00
 tags: quebradev, tecnologia, programação orientada a objetos, poo, herança, polimorfismo, encapsulamento, abstração
 cover: /images/programacao-orientada-a-objetos.png
 description: Dando continuidade na nossa mini-série sobre paradigmas de programação decidimos falar sobre orientação a objetos.
-soundcloud_id: 712020508
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/29---Tech-Programao-Orientada-a-Objetos-eclvbv'
 ---
 
 Dando continuidade na nossa mini-série sobre paradigmas de programação decidimos falar sobre orientação a objetos.

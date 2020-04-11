@@ -34,7 +34,7 @@ date: 2019-07-22 12:00:00
 tags: quebradev, tecnologia, linguagens funcionais, lisp, clojure, scala, tecnologia, paradigmas
 cover: /images/linguagens-funcionais-com-caio-trindade.png
 description: 'Decidimos começar uma mini-série sobre paradigmas de programação e para o primeiro episódio vamos falar um pouco sobre o funcional.'
-soundcloud_id: 654521018
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/23---Tech-Linguagens-Funcionais-com-Caio-Trindade-eclvbo'
 ---
 
 Decidimos começar uma mini-série sobre paradigmas de programação e para o primeiro episódio vamos falar um pouco sobre o funcional.

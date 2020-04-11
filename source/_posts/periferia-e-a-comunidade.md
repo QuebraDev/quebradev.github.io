@@ -44,7 +44,7 @@ tags: tecnologia, periferia, conhecimento, desenvolvimento, quebradev, piloto, c
 cover: /images/periferia-e-a-comunidade.png
 duration: 46:46:00
 description: Episódio piloto, apresentaremos aqui a ideia da criação do podcast, além de um pouco da nossa vivência.
-soundcloud_id: 444376998
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/0---Vivncias-Periferia-e-a-Comunidade-eclvbn'
 ---
 
 Neste episódio falamos um pouco sobre a ideia do podcast e como ele surgiu, os problemas de locomoção entre periferia e centro para o trabalho, e também falamos sobre como conhecemos a área de desenvolvimento e principais dificuldades em se habituar no ambiente de trabalho, passamos um pouco sobre a sindrome do impostor e para finalizar falamos sobre as comunidades de desenvolvimento e como elas podem ajudar você a crescer pessoalmente e profissionalmente, tudo isso com muita cultura Hip Hop.

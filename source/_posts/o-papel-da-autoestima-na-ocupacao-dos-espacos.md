@@ -40,7 +40,7 @@ date: 2018-08-23 00:37:22
 tags: tecnologia, periferia, ocupação de espaços, autoestima, ocupando espaços, representação, quebrada
 cover: /images/o-papel-da-autoestima-na-ocupacao-dos-espacos.png
 description: 'Ó quem voltou doutor, o podcast mais periférico do bagulho e nesse episódio de retorno deixamos uma pitada de polêmica com uma pauta meio... política — que não deixa de fazer parte do que representa a tecnologia, seus meios de acessibilidade e transformação da sociedade.'
-soundcloud_id: 490035519
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/7---Politize-se-O-papel-da-autoestima-na-ocupacao-dos-espacos-eclvcp'
 ---
 
 Ó quem voltou doutor, o podcast mais periférico do bagulho e nesse episódio de retorno deixamos uma pitada de polêmica com uma pauta meio... política — que não deixa de fazer parte do que representa a tecnologia, seus meios de acessibilidade e transformação da sociedade.

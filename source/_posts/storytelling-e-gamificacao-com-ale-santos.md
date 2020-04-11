@@ -41,7 +41,7 @@ date: 2018-10-22 12:00:00
 tags: storytelling, gamificação, games, afro, savagefiction, histórias, raízes, negritude, tech, quebradev, periferia, comunidade, conhecimento, tecnologia
 cover: /images/storytelling-e-gamificacao-com-ale-santos.png
 description: 'O Alê é um Consultor de Games, autor de fantasias afro-americanas e ficação científica, a zica viva do marketing inovador e estratégico.'
-soundcloud_id: 517897878
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/10---Raizes-Storytelling-e-Gamificacao---com-Ale-Santos-eclvbu'
 ---
 
 O Alê é um Consultor de Games, autor de fantasias afro-americanas e ficção científica, a zica viva do marketing inovador e estratégico, o trabalho em que o conhecemos foram as threads que ele cria no twitter, além do mais, o cara é fundador de uma consultoria de entretenimento estratégico chamada Savage Fiction.

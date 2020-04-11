@@ -34,7 +34,7 @@ date: 2018-09-13 12:20:19
 tags: braziljs, informativo, ocupação de espaços, afropython, quebradev, afroquebradev, periferia
 cover: /images/braziljs-e-informativos.png
 description: 'Fizemos este episódio na correria para noticiar algo que está fazendo com que nossas pequenas ideias tomem corpo e migrem para o mundo real, temos novidades e vocês precisam nos ouvir, então façam o favor, liguem seus autofalantes e dêem play na bagaça!'
-soundcloud_id: 499382925
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/8---Relmpago-BrazilJS-e-Informativos-eclvct'
 ---
 
 Fizemos este episódio na correria para noticiar algo que está fazendo com que nossas pequenas ideias tomem corpo e migrem para o mundo real, temos novidades e vocês precisam nos ouvir, então façam o favor, liguem seus autofalantes e dêem play na bagaça!

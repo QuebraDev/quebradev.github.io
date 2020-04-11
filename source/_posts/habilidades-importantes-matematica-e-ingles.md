@@ -31,7 +31,7 @@ date: 2019-08-06 12:00:00
 tags: quebradev, habilidades importantes, habilidades ti, inglês, matemática, estudo, vivências
 cover: /images/habilidades-importantes-matematica-e-ingles.png
 description: 'Desta vez debatemos nossas incertezas e dificuldades em obter certas habilidades que facilitariam nossas vidas profissionais e até pessoais.'
-soundcloud_id: 661777463
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/24---Vivncias-Habilidades-Importantes---Matemtica--Ingls-eclvbb'
 ---
 
 Desta vez debatemos nossas incertezas e dificuldades em obter certas habilidades que facilitariam nossas vidas profissionais e até pessoais.

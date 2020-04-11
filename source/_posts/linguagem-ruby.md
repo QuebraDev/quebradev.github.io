@@ -35,7 +35,7 @@ date: 2020-03-23 12:00:00
 tags: ruby, quebradev, ruby on rails, tecnologia
 cover: /images/linguagem-ruby.png
 description: Salve salve! Desta vez temos um episódio técnico e resolvemos falar sobre ruby que é uma linguagem multiparadigma, de tipagem forte e dinâmica.
-soundcloud_id: 780906688
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/33---Tech-Linguagem-Ruby-eclvbf'
 ---
 
 Salve salve! Desta vez temos um episódio técnico e resolvemos falar sobre ruby que é uma linguagem multiparadigma, de tipagem forte e dinâmica.

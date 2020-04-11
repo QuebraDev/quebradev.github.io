@@ -72,7 +72,7 @@ date: 2018-05-24 00:00:00
 tags: iniciando, desenvolvimento, web, frontend, front-end, css, javascript, frameworks, html, quebradev
 cover: /images/iniciando-no-desenvolvimento-web-front-end.png
 description: Ainda tem aquela dúvida de como começar a estudar para tornar um desenvolvedor web? Tentamos desvendar mistérios que envolvem esse mundo. Chega mais e cuidado ao dar o play.
-soundcloud_id: 448147206
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/1---Tech-Iniciando-no-Desenvolvimento-Web---Front-End-eclvd8'
 ---
 
 Nesse episódio nós iremos dar uma pequena prévia de como podem ser dados os primeiros passos para se tornar um desenvolvedor web. Abordamos desde conceitos técnicos estruturais sobre a Web até um dos destinos da área: como iniciar no Desenvolvimento Front-End. Não deixamos de citar referências, comunidades e sem deixar de lado a cultura Hip Hop. Deixamos explícitas muitas de nossas opiniões e caso você tenha algo a acrescentar, entre em contato com a gente, o compartilhamento de ideias é sempre bem vindo!

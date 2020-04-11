@@ -31,7 +31,7 @@ date: 2019-08-14 13:00:00
 tags: 
 cover: /images/pre-braziljs-2019.png
 description: Salve quebrada. Dessa vez chegamos com episódio relâmpago para divulgar alguns eventos pesados que vão rolar esse mês e organizados pela BrazilJS.
-soundcloud_id: 665469899
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/26---Tech-Pr-BrazilJS-2019-eclvb3'
 ---
 
 Dessa vez chegamos com episódio relâmpago para divulgar alguns eventos pesados que vão rolar esse mês e organizados pela BrazilJS.

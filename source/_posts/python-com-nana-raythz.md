@@ -49,7 +49,7 @@ date: 2019-06-17 12:00:00
 tags: quebradev, tecnologia, python, backend, framework, biblioteca, conhecimento, tech
 cover: /images/python-com-nana-raythz.png
 description: 'Se liguem só, mais uma vez falando sobre linguagens de programação e a escolhida da vez foi uma bem querida: o Python.'
-soundcloud_id: 637784010
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/20---Tech-Python-com-Nana-Raythz-eclvb8'
 ---
 
 Se liguem só, mais uma vez falando sobre linguagens de programação e a escolhida da vez foi uma bem querida: o Python.

@@ -50,7 +50,7 @@ date: 2019-06-02 12:00:00
 tags: perifacon, cultura, hq, quebrada, quebradev
 cover: /images/perifacon-e-quebradev.png
 description: Como vocês sabem, o QuebraDev esteve presente no Perifacon, o evento foi sensacional para que nós levássemos um pouco de conhecimento à algumas pessoas e também fazer com que pessoas da quebrada nos conhecessem!
-soundcloud_id: 630173067
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/18---Vivencias-PerifaCon--QuebraDev-eclvd1'
 ---
 
 Como vocês sabem, o QuebraDev esteve presente no Perifacon, o evento foi sensacional para que nós levássemos um pouco de conhecimento à algumas pessoas e também fazer com que pessoas da quebrada nos conhecessem!

@@ -39,7 +39,7 @@ date: 2019-06-10 19:00:00
 tags: cloud, infraestrutura, infra, quebradev, google cloud onboard, tecnologia, google
 cover: /images/um-pouco-sobre-cloud.png
 description: Buscando uma nova estrutura de episódio, resolvemos falar sobre algumas coisas diferentes, numa estrutura um pouco diferente e mais informativa. Desta vez abordamos um assunto sobre infraestrutura na nuvem, algumas notícias e informações interessantes sobre iniciativas que fomentam o Open Source.
-soundcloud_id: 633017397
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/19---Tech-Um-pouco-sobre-cloud-eclvbc'
 ---
 
 Buscando uma nova estrutura de episódio, resolvemos falar sobre algumas coisas diferentes, numa estrutura um pouco diferente e mais informativa. Desta vez abordamos um assunto sobre infraestrutura na nuvem, algumas notícias e informações interessantes sobre iniciativas que fomentam o Open Source.

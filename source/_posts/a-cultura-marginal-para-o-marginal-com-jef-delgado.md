@@ -54,7 +54,7 @@ date: 2019-06-24 12:00:00
 tags: quebradev, cultura, cultura marginal, periferia, funk, 150bpm, fluxo, fluxo nas periferias
 cover: /images/a-cultura-marginal-para-o-marginal.png
 description: 'Mais um episódio enaltecedor da cultura marginal, episódio este que defendemos com vivências e reflexões sobre nossas realidades, qual a importância do funk e da cultura marginal para os que não tem voz, para quem não tem existência.'
-soundcloud_id: 641185776
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/21---Razes-A-cultura-marginal--para-o-marginal-com-Jef-Delgado-eclvcq'
 ---
 
 Mais um episódio enaltecedor da cultura marginal, episódio este que defendemos com vivências e reflexões sobre nossas realidades, qual a importância do funk e da cultura marginal para os que não tem voz, para quem não tem existência.

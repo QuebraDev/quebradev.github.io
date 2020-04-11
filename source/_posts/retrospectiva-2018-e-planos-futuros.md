@@ -53,7 +53,7 @@ date: 2019-01-28 12:00:00
 tags: quebrada, tecnologia, periferia, retrospectiva, quebradev, planos, podcast, perifatecnico, periférico, autoestima, organização
 cover: /images/retrospectiva-2018-e-planos-futuros.png
 description: Neste que é o último episódio da temporada, resolvemos fazer uma espécie de "reunião", então não se preocupem com a quantidade de vozes que estão no ar.
-soundcloud_id: 565545330
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/14---Vivncias-Retrospectiva-2018-e-Planos-Futuros-eclvc4'
 ---
 
 Neste que é o último episódio da temporada, resolvemos fazer uma espécie de "reunião", então não se preocupem com a quantidade de vozes que estão no ar.

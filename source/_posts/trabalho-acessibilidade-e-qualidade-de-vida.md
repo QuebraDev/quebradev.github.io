@@ -41,7 +41,7 @@ date: 2018-07-02 18:24:02
 tags: trabalho, acessibilidade, qualidade de vida, qualidade, transporte, leitura, podcast, otimizar tempo, tecnologia, quebradev
 cover: /images/trabalho-acessibilidade-e-qualidade-de-vida.png
 description: Discutimos qualidade de vida, pontos de melhorias e como ter uma vida mais saudável melhorando seu trajeto até o trabalho.
-soundcloud_id: 466483707
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/5---Politize-se-Trabalho--acessibilidade-e-qualidade-de-vida-eclvbl'
 ---
 
 Discutimos qualidade de vida, pontos de melhorias e como ter uma vida mais saudável melhorando seu trajeto até o trabalho, falamos um pouco sobre a formação das periferias e a dificuldade no trajeto intermunicipal, comentamos sobre a importância de estar nos lugares e tudo isso com muito Hip Hop, Capoeira e os salves para aquele pessoal que entrou em contato conosco.
