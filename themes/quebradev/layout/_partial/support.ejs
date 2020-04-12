@@ -42,18 +42,4 @@
             <p>Se precisar, entre em contato com a gente através do email <a href="mailto:quebradev@gmail.com">quebradev@gmail.com</a></p>
         </div>
     </div>
-
-    <% if (data) { %>
-        <div class="col-12 supporters text-center">
-            <h4>Clique para ver a lista dos padrinhos do QuebraDev ❤️</h4>
-            
-            <div class="row support-list">
-                <% data.forEach(function(member){ %>
-                    <div class="support col-6 col-sm-4 col-lg-2 text-center">
-                        <p><%= member.name %></p>
-                    </div>
-                <% }) %>
-            </div>
-        </div>
-    <% } %>
 </div>

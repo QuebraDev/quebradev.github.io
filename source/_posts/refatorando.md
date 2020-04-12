@@ -31,7 +31,7 @@ links:
   - name: Documento de Estudos - Episódio
     link: 'https://docs.google.com/document/d/1VhAfG6nz1EVJ7OV5vbm1SfRe6ikIJu61-YXmudEAjHY/edit#'
 songs:
-  - name: 'Rincon Sapiência - Neguin di Kebra'
+  - name: 'Rincon Sapiência - Neguin di Kebra pt. 2'
   - name: 'Black Alien - Mister Niterói'
   - name: 'Mano Brown - Gangsta Boogie'
   - name: 'Monkey Jhayam - Satta Massaganja'
