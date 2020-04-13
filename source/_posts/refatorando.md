@@ -29,7 +29,7 @@ links:
   - name: Padrão de Projeto
     link: 'https://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software'
   - name: Documento de Estudos - Episódio
-    link: 'https://docs.google.com/document/d/1VhAfG6nz1EVJ7OV5vbm1SfRe6ikIJu61-YXmudEAjHY/edit#'
+    link: 'https://drive.google.com/open?id=1wEmsSML7fU6qwpYLWMF8p1s8FJ2pgmFg'
 songs:
   - name: 'Rincon Sapiência - Neguin di Kebra pt. 2'
   - name: 'Black Alien - Mister Niterói'
