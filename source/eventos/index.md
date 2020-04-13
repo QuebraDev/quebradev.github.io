@@ -7,28 +7,49 @@ data: [
     {
         name: 'Brazil JS - OnTheRoad SP',
         date: '30/11/2019',
-        description: 'Palestraremos na BrazilJS sobre comunicação como forma de representativade',
+        description: 'Palestraremos na BrazilJS sobre comunicação como forma de representativade.',
         location: 'TOTVS - Av Braz Leme, 1000, São Paulo/SP - Brazil',
         old: true
     },
     {
         name: 'Galpão ZL - Minas Programam',
         date: '23/11/2019 - 14hrs às 18hrs  (Sábado)',
-        description: 'Workshop Tecnologia & Quebrada',
+        description: 'Workshop Tecnologia & Quebrada.',
         location: 'R. Serra da Juruoca, 112 - Jardim Lapena, São Paulo - SP, 08071-180',
         old: true
     },
     {
         name: 'RoadSec',
         date: '23/11/2019 - 15hrs (Sábado)',
-        description: 'Palestraremos na RoadSec sobre comunicação como forma de representativade',
+        description: 'Palestraremos na RoadSec sobre comunicação como forma de representativade.',
         location: 'Francisco Matarazzo, 694, Água Branca, São Paulo, SP 05001-000, Brasil',
+        old: true
+    },
+    {
+        name: 'Debate sobre podcast - AudioDay Globo',
+        date: '28/10/2019 - Das 18hrs às 21hrs',
+        description: 'Painel de debate sobre criação e o crescimento dos podcasts.',
+        location: 'Centro Brasileiro Britânico / Rua Ferreira de Araújo, 741',
+        old: true
+    },
+    {
+        name: 'Workshop de Podcast Sesc Araraquara',
+        date: '12/10/2019 - 13/10/2019',
+        description: 'Workshop sobre criação e edição de podcast com divulgação nas mídias e plataformas.',
+        location: 'R. Castro Alves, 1315 - Quitandinha, Araraquara - SP, 14800-140',
+        old: true
+    },
+    {
+        name: 'ABCDev 2019',
+        date: '21/09/2019 - Das 09hrs às 18hrs (Sábado)',
+        description: 'Participação em rodas de conversas e entrevistas durante o evento.',
+        location: 'Centro de tecnologia "Leandro Klein" - São Caetano do Sul, SP',
         old: true
     },
     {
         name: 'CodeCon',
         date: '31/08/2019 - 16hrs (Sábado)',
-        description: 'Palestraremos na CodeCon sobre comunicação como forma de representativade',
+        description: 'Palestraremos na CodeCon sobre comunicação como forma de representativade.',
         location: 'Ágora Tech Park, R. Dona Francisca, nº 8300, Distrito Industrial',
         old: true
     },
