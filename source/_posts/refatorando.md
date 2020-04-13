@@ -38,8 +38,9 @@ songs:
   - name: 'Criolo - Sucrilhos'
 date: 2020-04-13 12:00:00
 tags: quebradev, refatoração, refatorando, padrões de projeto, design patterns, agile
-description:
+description: 'Salve! O episódio técnico dessa vez traz um assunto muito importante e necessário que é refatoração. Falamos daquele código que ninguém quer mexer, tá ligado? Também abordamos sobre os padrões de projeto, código limpo e algumas técnicas para refatorar.'
 embed_url: 'https://anchor.fm/quebradev/embed/episodes/36---Tech-Refatorando-ecm1bj'
 ---
 
-...
+Salve! O episódio técnico dessa vez traz um assunto muito importante e necessário que é refatoração. Falamos daquele código que ninguém quer mexer, tá ligado? Também abordamos sobre os padrões de projeto, código limpo e algumas técnicas para refatorar.
+Então dá o play aí que o bagulho tá sincero e cheio de conteúdo!
