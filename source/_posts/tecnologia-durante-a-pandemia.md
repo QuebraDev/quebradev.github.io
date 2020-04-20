@@ -1,6 +1,6 @@
 ---
 title: '#37 - [Politize-se] Tecnologia durante a pandemia'
-type: tecnologia
+type: politize
 season: 3
 cover: /images/tecnologia-durante-a-pandemia.png
 participants:
@@ -23,6 +23,7 @@ date: 2020-04-20 12:00:00
 tags: quebradev, pandemia, tecnologia, coronavirus, covid, covid19
 description: 'Salve quebrada, como tá o isolamento? Espero que estejam conseguindo se cuidar e manter os familiares bem. Falamos sobre um assunto difícil neste episódio e tentamos reduzir um pouco sobre a anticiência que vem sendo espalhada através do nosso chefe de estado.'
 embed_url: 'https://anchor.fm/quebradev/embed/episodes/37---Politize-se-Tecnologia-durante-a-pandemia-ecua2k'
+
 ---
 
 Salve quebrada, como tá o isolamento? 
