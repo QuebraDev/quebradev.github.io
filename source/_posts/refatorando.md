@@ -20,6 +20,8 @@ participants:
     twitter: reginaldoojnr
     github: reginaldojunior
 links:
+  - name: Slides da palestra Fazendo as pazes com código legado | Matheus Hernandes
+    link: 'https://speakerdeck.com/onhernandes/fazendo-as-pazes-com-codigo-legado-frontend-sp-meetup'
   - name: Code Smells
     link: 'https://medium.com/@tusharma/how-to-track-code-smells-effectively-48dbf5ba659d'
   - name: 'What is Extreme Programming (XP)? | Agile Alliance'
