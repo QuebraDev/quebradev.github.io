@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  app:
+    build:
+      context: .
+    container_name: quebradev-site
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/home/node/app
+      - /home/node/app/node_modules

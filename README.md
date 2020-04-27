@@ -6,11 +6,9 @@ Site do podcast QuebraDev.
 
 Utilizamos o [Hexo](https://hexo.io/) para desenvolvimento do site.
 
-Rodando no local
+Rodando local (Docker):
 ```
-npm install
-npm i -g hexo
-hexo server
+make start
 ```
 
 Criar página para um episódio
