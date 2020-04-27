@@ -62,6 +62,9 @@ select.form-control {
   background-size: 21px;
   background-position-x: 98%;
   cursor: pointer;
+  option {
+    color: #000;
+  }
 
   &:hover {
     border-color: #ffffff;
