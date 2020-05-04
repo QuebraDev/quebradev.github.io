@@ -5,7 +5,7 @@ type: page
 uses: links
 data: [
     { link: 'https://docs.google.com/forms/d/e/1FAIpQLSdJyJiD6hwZZ7_AlXnR-mcUhRDuOn8LX2G9yS5nU6n45HFZ-Q/viewform', title: 'Evento Perifatécnico pros Quebradinha de SP' },
-    { link: 'https://quebradev.com.br/tecnologia-durante-a-pandemia/', title: 'Último episódio de podcast' },
+    { link: 'https://quebradev.com.br/php-com-hussani-e-marcel-santos/', title: 'Último episódio de podcast' },
     { link: 'https://docs.google.com/forms/d/1ZliRtDeuHF0bsQ-hbJFWasJObRXFTlBGR5qpjLeMpog', title: 'Sugestão de Temas' },
     { link: 'https://twitter.com/quebradev', title: 'Twitter' },
     { link: 'https://www.facebook.com/quebradev/', title: 'Facebook' },
