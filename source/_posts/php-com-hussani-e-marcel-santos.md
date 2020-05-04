@@ -38,7 +38,7 @@ songs:
 date: 2020-05-04 12:00:00
 tags: tecnologia, quebradev, php, phpsp, linguagem de programação, open source, comunidade
 description: 'Salve perifatechs! Para tentar alegrar e motivar um pouco essa quarentena estamos lançando a braba, episódio de PHP sobre a linguagem mais famosa da internet e aquela que mais traz discussões.'
-embed_url: 'https://anchor.fm/quebradev/embed/episodes/39---Tech-PHP---com-Hussani-e-Marcel-Santos-edjmrc'
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/39---Tech-PHP---com-Hussani-e-Marcel-Santos-edjmrc/a-a23pfea'
 ---
 
 Salve perifatechs!
