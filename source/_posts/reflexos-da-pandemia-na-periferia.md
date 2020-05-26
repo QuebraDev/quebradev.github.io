@@ -1,8 +1,8 @@
 ---
-title: '#42 - [Politize-se] Reflexos da Pandemia na Periferia'
+title: '#42 - [Politize-se] Covid-19 e Planejamento Urbano na Periferia'
 type: politize
 season: 3
-cover: /images/reflexos-da-pandemia-na-periferia.png
+cover: /images/covid19-e-planejamento-urbano-na-periferia.png
 participants:
   - name: Cássia Caneco
   - name: Kaio Teixeira
