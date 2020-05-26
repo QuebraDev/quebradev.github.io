@@ -61,7 +61,7 @@ date: 2020-05-25 12:00:00
 tags: quebradev, pandemia, periferia, quebrada, coronavirus, covid19, covid nas favelas
 description: 'Como de costume, cá estamos com informações quentinhas para você e sinceramente? Desta vez, não só o assunto é fora de série, como trouxemos uma convidada de peso para debatê-lo com a gente!
 Na pauta da vez, debatemos sobre os problemas que a periferia enfrenta nesse momento delicado de pandemia viral, pela falta de planejamento urbano e pela negação do direito à cidade.'
-embed_url:
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/42---Politize-se-Covid-19-e-Planejamento-Urbano-na-Periferia-eehjtf/a-a2a0n0i'
 ---
 
 Salve, salve! 
