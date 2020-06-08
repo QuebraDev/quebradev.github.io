@@ -34,7 +34,7 @@ songs:
 date: 2020-06-08 12:00:00
 tags: quebradev, tecnologia, design, ux
 description: 'Salve dizainers e não dizainers. No EP de hoje falamos sobre UX Design, o que é, como entrar na área e dificuldades que profissionais encontram. Ah, e o nosso episódio #27 fala sobre introdução ao Design caso você sinta necessidade de ouvir antes beleza? Solta o play que o papo ficou fino!'
-embed_url:
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/44---Tech-UX-Design-ef4ml1/a-a2dkheg'
 ---
 
 Salve dizainers e não dizainers. No EP de hoje falamos sobre UX Design, o que é, como entrar na área e dificuldades que profissionais encontram. Ah, e o nosso episódio #27 fala sobre introdução ao Design caso você sinta necessidade de ouvir antes beleza? Solta o play que o papo ficou fino!
