@@ -15,7 +15,7 @@ participants:
     twitter: miglsoares
     github: miguelssrs
   - name: Wagner Silva
-    twitter: WAGUlN
+    twitter: WAGUIN
     instagram: wagnercomdablio
 links:
   - name: 
