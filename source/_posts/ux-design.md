@@ -13,7 +13,7 @@ participants:
     twitter: olucasjs
     github: lucasjs
   - name: Wagner Silva
-    twitter: WAGUIN
+    twitter: WAGUlN
     instagram: wagnercomdablio
 links:
   - name: 'Mas afinal o que é UX Research de fato?'
