@@ -25,9 +25,19 @@ songs:
   - name: 'Parteum - Raciocínio Quebrado'
   - name: 'Geraldo Filme - Tristeza do Sambista'
 date: 2020-06-15 12:00:00
-tags: quebradev, politize, glamourizacao do sofrimento
-description:
-embed_url:
+tags: quebradev, politize, glamourizacao do sofrimento, charlinho
+description: 'Quem aí já ouviu: "O tempo ruim vai passar, é só uma fase"? Um clássico, não é mesmo? Pois bem, o tempo ruim por vezes não é um problema meramente existencial. Quem vem de onde nós viemos sabe que existem condições de existência que são um tanto insalubres.'
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/45---Politize-se-Glamourizao-do-Sofrimento-efd1ba/a-a2f7k26'
 ---
 
-Neste episódio falamos um pouco sobre a ideia do podcast e como ele surgiu, os problemas de locomoção entre periferia e centro para o trabalho, e também falamos sobre como conhecemos a área de desenvolvimento e principais dificuldades em se habituar no ambiente de trabalho, passamos um pouco sobre a sindrome do impostor e para finalizar falamos sobre as comunidades de desenvolvimento e como elas podem ajudar você a crescer pessoalmente e profissionalmente, tudo isso com muita cultura Hip Hop.
+Salve, salve!
+
+Quem aí já ouviu: "O tempo ruim vai passar, é só uma fase"? Um clássico, não é mesmo? Pois bem, o tempo ruim por vezes não é um problema meramente existencial. Quem vem de onde nós viemos sabe que existem condições de existência que são um tanto insalubres.
+
+Neste episódio conversamos sobre a glamourização do sofrimento, foi um bate papo descontraído sobre críticas que temos sobre a visão romantizada do veneno que muita gente tem que passar para virar texto motivacional em redes sociais e palestras.
+
+Para isto, convidamos o Junior Rocha, que é um queridíssimo afromarxista que tem um corre muito próximo ao nosso!
+
+Lembrando que a nossa luta é para que todo tipo de existência seja contemplada pelo mundo ao nosso redor, certo?
+
+Da um play aí que a reflexão ficou pesada!
