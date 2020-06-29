@@ -22,8 +22,8 @@ songs:
   - name: 'Urias - Diaba'
 date: 2020-06-29 12:00:00
 tags: quebradev, lgbtq+, orgulho lgbt, tecnologia, periferia
-description: 'Salve manos, manas e monas! No EP de hoje falamos um pouco sobre vida LGBTQ+ na tecnologia. Falamos um pouco dos perrengues, preconceitos e desafios da área. Solta o play com orgulho!'
+description: 'Salve manos, manas e monas! No EP de hoje falamos um pouco sobre vida LGBTQ+ na tecnologia. Conversamos sobre perrengues, preconceitos e desafios da área. Solta o play com orgulho!'
 embed_url: 'https://anchor.fm/quebradev/embed/episodes/46---Politize-se-Vida-LGBTQ-na-Tecnologia-eg333c/a-a2j6fjm'
 ---
 
-Salve manos, manas e monas! No EP de hoje falamos um pouco sobre vida LGBTQ+ na tecnologia. Falamos um pouco dos perrengues, preconceitos e desafios da área. Solta o play com orgulho!
+Salve manos, manas e monas! No EP de hoje falamos um pouco sobre vida LGBTQ+ na tecnologia. Conversamos sobre perrengues, preconceitos e desafios da área. Solta o play com orgulho!
