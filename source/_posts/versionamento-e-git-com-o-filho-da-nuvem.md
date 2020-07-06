@@ -32,7 +32,7 @@ songs:
 date: 2020-07-06 12:00:00
 tags: quebradev, tecnologia, git, github, versionamento, scm
 description: 'Salve salve rapaziada! Quem já passou o dia todo focado em um projeto, mudou vários e vários arquivos e teve o azar de ter o notebook desligado por falta de energia e perdeu tudo? Ou quando você não sabe mais qual é a ultima versão que funciona daquele seu trabalho importante?'
-embed_url: 'https://anchor.fm/quebradev/episodes/47---Tech-Versionamento-e-GIT-com-o-Filho-da-Nuvem-egbfpg/a-a2klvjb'
+embed_url: 'https://anchor.fm/quebradev/embed/episodes/47---Tech-Versionamento-e-GIT-com-o-Filho-da-Nuvem-egbfpg/a-a2klvjb'
 ---
 
 Salve salve rapaziada! Quem já passou o dia todo focado em um projeto, mudou vários e vários arquivos e teve o azar de ter o notebook desligado por falta de energia e perdeu tudo? Ou quando você não sabe mais qual é a ultima versão que funciona daquele seu trabalho importante?
