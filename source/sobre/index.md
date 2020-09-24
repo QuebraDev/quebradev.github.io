@@ -9,7 +9,7 @@ data: [
         twitter: 'gustv0_',
         github: 'gucastiliao',
         linkedin: 'https://www.linkedin.com/in/gustv0_/',
-        photo: 'gustavo_profile.jpg'
+        photo: 'gustavo.jpg'
     },
     {
         name: 'Kaio Teixeira',
@@ -17,13 +17,6 @@ data: [
         github: 'kteixeira',
         linkedin: 'https://www.linkedin.com/in/kaio-teixeira-9118a95a/',
         photo: 'kaio_profile.jpg'
-    },
-    {
-        name: 'Miguel Soares',
-        twitter: 'miglsoares',
-        github: 'miglsoares',
-        linkedin: 'https://www.linkedin.com/in/migueldenegocios/',
-        photo: 'miguel_profile.jpg'
     },
     {
         name: 'Reginaldo Junior',
