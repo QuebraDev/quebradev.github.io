@@ -24,12 +24,12 @@ description: 'Neste episódio conversamos com duas estudantes, Agnes Roldan e Ju
 embed_url: 'https://anchor.fm/quebradev/embed/episodes/49---T-No-Rumo-Como-pensar-o-futuro-ek3vso'
 ---
 
-De volta à ativa, agora anunciamos uma parceria com o pessoal do Tô No Rumo! A ideia é criar conteúdo que além de ter o alcance aos nossos ouvintes, também servir de materia de apoio à professores em sala de aula!
+De volta à ativa, agora anunciamos uma parceria com o pessoal do Tô No Rumo! A ideia é criar conteúdo que além de ter o alcance aos nossos ouvintes, também servir de matéria de apoio à professores em sala de aula!
 
 Neste episódio conversamos com duas estudantes, Agnes Roldan e Juliana Borges e a ideia central foi entender como andam os anseios, as inseguranças e as esperanças da juventude periférica em um momento crítico e delicado para todos nós.
 
 Como pensar o futuro em um momento que se assemelha ao caos? Como conservar esperanças com o desmonte de políticas públicas que ferem direitos civis? O que será da juventude neste momento?
 
-Uma somatória de perguntas e reflexões que tem como objetivo levantar reflexões que possam nos ajudar a enfrentar a realidade de forma direta!
+Uma somatória de perguntas que tem como objetivo levantar reflexões que possam nos ajudar a enfrentar a realidade de forma direta!
 
 Escuta aê que o episódio ta pesado!
