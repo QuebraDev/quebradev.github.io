@@ -5,6 +5,10 @@ type: page
 uses: members
 data: [
     {
+        name: 'Debora Rocha',
+        photo: 'debora_profile.jpg'
+    },
+    {
         name: 'Gustavo Castilião',
         twitter: 'gustv0_',
         github: 'gucastiliao',
@@ -52,10 +56,6 @@ data: [
         github: 'lucasjs',
         linkedin: 'http://linkedin.com/in/lucasjsilva',
         photo: 'lucas.jpg'
-    },
-    {
-        name: 'Debora Rocha',
-        photo: 'debora_profile.jpg'
     },
 ]
 ---
