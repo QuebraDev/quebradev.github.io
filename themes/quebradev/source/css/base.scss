@@ -97,9 +97,3 @@ footer {
     color: #ccc;
   }
 }
-
-@include media-breakpoint-down(sm) {
-  .navbar-toggler {
-    border: none;
-  }
-}
