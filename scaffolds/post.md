@@ -1,7 +1,7 @@
 ---
 title: '#0 - [Tema] Titulo Podcast'
 type: 'tecnologia'
-season: 3
+season: 4
 date: {{ date }}
 tags:
 cover: /images/titulo-podcast.png
@@ -11,12 +11,12 @@ participants:
   - name: Gustavo Castilião
     twitter: gustv0_
     github: gustv0_
+  - name: Lucas Silva
+    twitter: olucasjs
+    github: lucasjs
   - name: Marcos Florencio
     twitter: eptaccio
     github: eptaccio
-  - name: Miguel Soares
-    twitter: miglsoares
-    github: miguelssrs
   - name: Kaio Teixeira
     twitter: __kaell13
     github: kteixeira
