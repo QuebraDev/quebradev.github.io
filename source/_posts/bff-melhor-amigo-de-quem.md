@@ -15,6 +15,8 @@ participants:
 links:
   - name: Slides do Willian Viana sobre BFF
     link: 'https://slides.com/willianviana/bff-melhor-amigo-de-quem'
+  - name: BFF @ SoundCloud
+    link: 'https://www.thoughtworks.com/pt/insights/blog/bff-soundcloud'
 songs:
   - name: Slum Village - Get Dis Money
   - name: Iman Omari - Turmoil
