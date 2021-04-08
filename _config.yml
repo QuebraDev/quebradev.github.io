@@ -101,3 +101,6 @@ image_minifier:
   enable: true
   pngquant: true
   silent: true
+
+include:
+  - _redirects
