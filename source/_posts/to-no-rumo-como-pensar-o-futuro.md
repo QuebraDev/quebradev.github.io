@@ -7,7 +7,7 @@ participants:
   - name: Agnes Roldan
   - name: Juliana Borges
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Marcos Florencio
     twitter: eptaccio
