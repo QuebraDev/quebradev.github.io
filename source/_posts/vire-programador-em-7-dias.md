@@ -8,7 +8,7 @@ participants:
     twitter: eptaccio
     github: eptaccio
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
   - name: Thassia Lima
     twitter: ThassiaLays

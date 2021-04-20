@@ -16,7 +16,7 @@ participants:
     twitter: nanaraythz
     github: https://www.github.com/nraythz
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: PyJobs

@@ -14,7 +14,7 @@ participants:
     twitter: miglsoares
     github: miguelssrs
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 songs:
   - name: Thelonious Monk - Raise Four

@@ -14,7 +14,7 @@ participants:
     twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'A história dos chatbots'

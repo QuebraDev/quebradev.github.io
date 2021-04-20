@@ -24,7 +24,7 @@ data: [
     },
     {
         name: 'Reginaldo Junior',
-        twitter: 'reginaldoojnr',
+        twitter: 'r1g312',
         github: 'reginaldojunior',
         linkedin: 'https://www.linkedin.com/in/reginaldo-luis-luna-junior-b26b4b79/',
         photo: 'reginaldo_profile.jpg'
