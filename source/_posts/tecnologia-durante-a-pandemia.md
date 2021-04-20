@@ -5,7 +5,7 @@ season: 3
 cover: /images/tecnologia-durante-a-pandemia.png
 participants:
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Lucas Silva
     twitter: olucasjs

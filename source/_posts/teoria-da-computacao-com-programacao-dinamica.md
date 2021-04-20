@@ -7,7 +7,7 @@ participants:
   - name: Hallison Paz
     twitter: hallpaz
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Kizzy Terra
     twitter: kizzy_terra

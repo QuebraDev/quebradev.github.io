@@ -7,7 +7,7 @@ participants:
   - name: Junior Rocha
     twitter: rotchajunior
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
     twitter: r1g312

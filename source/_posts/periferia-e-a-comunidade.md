@@ -5,7 +5,7 @@ season: 1
 category: 'podcast'
 participants:
   - name: Kaio Leal
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gustv0_

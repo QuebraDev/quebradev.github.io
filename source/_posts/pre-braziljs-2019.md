@@ -4,7 +4,7 @@ type: 'tecnologia'
 season: 2
 participants:
   - name: Kaio Leal
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Junior Pereira
     twitter: pereirajrdevds

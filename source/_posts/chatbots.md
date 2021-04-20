@@ -11,7 +11,7 @@ participants:
     twitter: eptaccio
     github: eptaccio
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
     twitter: r1g312
