@@ -35,7 +35,7 @@ songs:
 date: 2021-04-20 18:00:00
 tags:
 description:
-embed_url:
+embed_url: https://anchor.fm/quebradev/embed/episodes/55---Politize-se-Nis--Fora-de-Trabalho---Com-Galo-dos-Entregadores-Antifascistas-ev9upc
 ---
 
 Salve, salve camaradas! Estão preparades?
