@@ -33,8 +33,8 @@ songs:
   - name: Inquérito - Meu Super Herói
   - name: Realidade Cruel - Ao Menos Uma Vez
 date: 2021-04-20 18:00:00
-tags:
-description:
+tags: periferia, potência, classe trabalhadora, união, trabalhadores, entregadores antifascistas, entregadores, ubereats, ifood, rappi, galo, paulo lima, empreendedorismo, trabalhador, trabalhadora, trabalhadore, trampo, antifascismo, emancipação
+description: O papo de hoje vai ser só paulada nas ideia, a gente quer não só dialogar, mas abrir espaço para um companheiro de luta e de classe mandar um papo pra nóis que é da área de tecnologia!
 embed_url: https://anchor.fm/quebradev/embed/episodes/55---Politize-se-Nis--Fora-de-Trabalho---Com-Galo-dos-Entregadores-Antifascistas-ev9upc
 ---
 
