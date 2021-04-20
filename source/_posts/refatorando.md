@@ -14,7 +14,7 @@ participants:
     twitter: miglsoares
     github: miguelssrs
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
     twitter: reginaldoojnr

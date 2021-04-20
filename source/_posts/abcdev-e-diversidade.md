@@ -4,7 +4,7 @@ type: politize
 season: 1
 participants:
   - name: Kaio Leal
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gustv0_

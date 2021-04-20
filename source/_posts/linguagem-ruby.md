@@ -10,7 +10,7 @@ participants:
     twitter: jrjoacir
     linkedin: joacir-oliveira-santos-junior
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Marcos Florencio
     twitter: eptaccio
