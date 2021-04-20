@@ -10,7 +10,7 @@ participants:
     twitter: __kaell13
     github: kteixeira
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: '4G para estudar'

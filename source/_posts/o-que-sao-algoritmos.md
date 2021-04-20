@@ -7,7 +7,7 @@ participants:
     twitter: onhernandes
     github: onhernandes
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
   - name: Willian Viana
     twitter: wbvianna

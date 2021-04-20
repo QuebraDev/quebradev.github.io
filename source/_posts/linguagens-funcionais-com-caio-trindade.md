@@ -12,7 +12,7 @@ participants:
     twitter: miglsoares
     github: miguelssrs
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'Caio Trindade - Linkedin'

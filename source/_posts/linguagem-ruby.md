@@ -16,7 +16,7 @@ participants:
     twitter: eptaccio
     github: eptaccio
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: Ruby Lang

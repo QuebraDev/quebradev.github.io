@@ -16,7 +16,7 @@ participants:
     twitter: onhernandes
     github: onhernandes
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'O papel da autoestima na ocupação dos espaços'

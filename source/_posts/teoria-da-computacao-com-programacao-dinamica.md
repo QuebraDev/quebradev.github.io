@@ -12,7 +12,7 @@ participants:
   - name: Kizzy Terra
     twitter: kizzy_terra
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'Programação Dinâmica - Twitter'

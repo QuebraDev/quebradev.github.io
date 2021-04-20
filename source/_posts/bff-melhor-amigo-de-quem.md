@@ -7,7 +7,7 @@ participants:
   - name: Leandro - Grillo
     twitter: leandrocgrillo
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
   - name: Willian Viana
     twitter: wbvianna

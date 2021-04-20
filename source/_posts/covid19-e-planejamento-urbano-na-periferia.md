@@ -12,7 +12,7 @@ participants:
     twitter: olucasjs
     github: lucasjs
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'Direito à Cidade'

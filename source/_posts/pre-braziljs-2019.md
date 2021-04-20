@@ -10,7 +10,7 @@ participants:
     twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: BrazilJS Conf

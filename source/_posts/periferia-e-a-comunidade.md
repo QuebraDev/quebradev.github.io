@@ -11,7 +11,7 @@ participants:
     twitter: gustv0_
     github: gustv0_
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'QuebraDev GitHub'
