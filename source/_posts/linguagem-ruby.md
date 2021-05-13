@@ -10,13 +10,13 @@ participants:
     twitter: jrjoacir
     linkedin: joacir-oliveira-santos-junior
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Marcos Florencio
     twitter: eptaccio
     github: eptaccio
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: Ruby Lang

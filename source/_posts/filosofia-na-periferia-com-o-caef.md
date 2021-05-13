@@ -7,10 +7,10 @@ participants:
   - name: Felipe Almeida (Felps)
     twitter: Felps_F
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
   - name: Ricardo (Bizao)
 songs:

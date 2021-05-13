@@ -11,7 +11,7 @@ participants:
     github: gustv0_
   - name: Rafael
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: Sesc Araraquara

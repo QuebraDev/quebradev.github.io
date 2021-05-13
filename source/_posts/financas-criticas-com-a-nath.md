@@ -7,12 +7,12 @@ participants:
     twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Nath
     twitter: FinancasNath
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: Finanças com a Nath - YouTube

@@ -6,7 +6,7 @@ participants:
   - name: Beatriz Lira
     instagram: designestranha
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira 
   - name: Lucas Rodrigues
     twitter: lucaspqnasci

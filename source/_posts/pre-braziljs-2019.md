@@ -4,13 +4,13 @@ type: 'tecnologia'
 season: 2
 participants:
   - name: Kaio Leal
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Junior Pereira
     twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: BrazilJS Conf

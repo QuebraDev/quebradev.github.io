@@ -14,10 +14,10 @@ participants:
     twitter: miglsoares
     github: miguelssrs
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: Slides da palestra Fazendo as pazes com código legado | Matheus Hernandes

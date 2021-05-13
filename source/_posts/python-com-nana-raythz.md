@@ -7,7 +7,7 @@ participants:
     twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Miguel Soares
     twitter: miglsoares
@@ -16,7 +16,7 @@ participants:
     twitter: nanaraythz
     github: https://www.github.com/nraythz
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: PyJobs

@@ -6,10 +6,10 @@ cover: /images/o-que-e-ciencia-de-dados.png
 participants:
   - name: Jaqueline Rodrigues
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'Udemy - Curos Data Science'

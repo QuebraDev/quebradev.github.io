@@ -7,13 +7,13 @@ participants:
     twitter: pereirajrdevds
     github: pereirajunior1407
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Matheus Hernandes
     twitter: onhernandes
     github: onhernandes
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: Entenda o Heartbleed Bug

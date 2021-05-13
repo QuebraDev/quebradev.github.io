@@ -10,13 +10,13 @@ participants:
     twitter: gustv0_
     github: gustv0_
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Matheus Hernandes
     twitter: onhernandes
     github: onhernandes
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'O papel da autoestima na ocupação dos espaços'
@@ -28,7 +28,7 @@ links:
   - name: 'Banco Comunitário - Moedas Alternativas'
     link: 'https://www.youtube.com/watch?v=sG5XZ5T-URU'
   - name: 'Thread do Kaio no Twitter'
-    link: 'https://twitter.com/__kaell13/status/1098798726611636226'
+    link: 'https://twitter.com/kaelltx/status/1098798726611636226'
   - name: 'Finanças com a Nath'
     link: 'https://www.youtube.com/channel/UCmhzmQBdXP9TeRtpQ-iWSPg'
   - name: 'Padrim QuebraDev'

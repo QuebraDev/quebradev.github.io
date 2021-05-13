@@ -5,13 +5,13 @@ season: 1
 category: 'podcast'
 participants:
   - name: Kaio Leal
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Gustavo Castilião
     twitter: gustv0_
     github: gustv0_
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'QuebraDev GitHub'

@@ -6,13 +6,13 @@ cover: /images/covid19-e-planejamento-urbano-na-periferia.png
 participants:
   - name: Cássia Caneco
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Lucas Silva
     twitter: olucasjs
     github: lucasjs
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'Direito à Cidade'

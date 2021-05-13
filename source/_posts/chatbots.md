@@ -11,10 +11,10 @@ participants:
     twitter: eptaccio
     github: eptaccio
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
 links:
   - name: 'A história dos chatbots'

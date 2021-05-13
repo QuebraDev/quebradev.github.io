@@ -6,10 +6,10 @@ participants:
   - name: Caio César
     twitter: geocaio_
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
   - name: Willian Viana
     twitter: wbvianna

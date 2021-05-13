@@ -4,13 +4,13 @@ type: politize
 season: 3
 participants:
   - name: Kaio Teixeira
-    twitter: __kaell13
+    twitter: kaelltx
     github: kteixeira
   - name: Marcos Florencio
     twitter: eptaccio
     github: eptaccio
   - name: Reginaldo Junior
-    twitter: reginaldoojnr
+    twitter: r1g312
     github: reginaldojunior
   - name: Willian Viana
     twitter: wbvianna
