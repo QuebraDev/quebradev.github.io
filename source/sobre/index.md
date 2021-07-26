@@ -12,14 +12,14 @@ data: [
         name: 'Gustavo Castilião',
         twitter: 'gustv0_',
         github: 'gucastiliao',
-        linkedin: 'https://www.linkedin.com/in/gustv0_/',
+        linkedin: 'https://www.linkedin.com/in/gucastiliao/',
         photo: 'gustavo.jpg'
     },
     {
         name: 'Kaio Teixeira',
         twitter: 'kaelltx',
         github: 'kteixeira',
-        linkedin: 'https://www.linkedin.com/in/kaio-teixeira-9118a95a/',
+        linkedin: 'https://www.linkedin.com/in/kaio-leal-a12055200/',
         photo: 'kaio_profile.jpg'
     },
     {
