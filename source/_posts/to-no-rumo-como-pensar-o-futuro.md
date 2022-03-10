@@ -1,7 +1,7 @@
 ---
 title: '#49 - [Tô No Rumo | Ação Educativa] Como pensar o futuro?'
 type: politize
-season: tonorumo
+season: 4
 cover: /images/to-no-rumo-como-pensar-o-futuro.png
 participants:
   - name: Agnes Roldan

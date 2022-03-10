@@ -1,7 +1,7 @@
 ---
 title: '#50 - [Tô No Rumo | Ação Educativa] Primeiro Emprego: Transição Escola-Trabalho'
 type: politize
-season: tonorumo
+season: 4
 cover: /images/to-no-rumo-primeiro-emprego-transicao-escola-trabalho.png
 participants:
   - name: Profª Draª Gisela Lobo Tartuce

@@ -1,7 +1,7 @@
 ---
 title: '#56 - [Tô No Rumo | Ação Educativa] Jovens mães, estudo e trabalho'
 type: tecnologia
-season: tonorumo
+season: 4 
 cover: /images/to-no-rumo-jovens-maes-estudo-e-trabalho.jpg
 participants:
   - name: Thassia Lima

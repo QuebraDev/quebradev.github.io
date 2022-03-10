@@ -1,7 +1,7 @@
 ---
 title: '#62 - [To No Rumo | Ação Educativa] Entrevista com Silvio Bock'
 type: politize
-season: tonorumo
+season: 4 
 cover: /images/to-no-rumo-entrevista-com-silvio-bock.jpeg
 participants:
   - name: Wellington Cruz

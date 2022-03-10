@@ -1,7 +1,7 @@
 ---
 title: '#54 - [Tô No Rumo | Ação Educativa] Educação & Saúde Mental na Pandemia'
 type: politize
-season: tonorumo
+season: 4
 cover: /images/to-no-rumo-educacao-e-saude-mental-na-pandemia.png
 participants:
   - name: Willian Viana

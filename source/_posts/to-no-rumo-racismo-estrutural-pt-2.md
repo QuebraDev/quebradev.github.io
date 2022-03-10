@@ -1,7 +1,7 @@
 ---
 title: '#59 - [Tô No Rumo | Ação Educativa] Racismo Estrutural, pt. 2'
 type: politize
-season: tonorumo
+season: 4 
 cover: /images/to-no-rumo-racismo-estrutural-pt2.jpg
 participants:
   - name: Allexia Antuona

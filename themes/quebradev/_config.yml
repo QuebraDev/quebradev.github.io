@@ -35,6 +35,9 @@ types:
   politize: 
     name: 'Politize-se'
     description: 'Lorem ipsum'
+  iniciacaocientifica: 
+    name: 'Iniciação Científica'
+    description: 'Lorem ipsum'
 
 node_sass:
   outputStyle: compressed
