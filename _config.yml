@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://quebradev.com.br
+url: http://quebra.dev
 root: /
 permalink: :title/
 permalink_defaults:
