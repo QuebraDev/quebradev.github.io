@@ -9,7 +9,10 @@ participants:
     twitter: r1g312
     github: reginaldojunior
 songs:
-  - name: 'Tim Maia - Bom Senso' 
+  - name: 'Tim Maia - Bom Senso'
+links:
+  - name: 'Referencias'
+  - link: https://docs.google.com/document/d/1nfXLplM4hsnDhHaipYk4B4_OKKWYUCjC4CEfuEM85KI/edit?usp=sharing
 date: 2022-03-24 12:00:00
 tags: quebradev, iniciacao cientifica, divulgacao cientifica, método cientifico
 description: 'Você está pronto para mais um episódio que vai abrir seus horizontes? Hoje com uma convidada especial, Raquel Queiroz, iremos falar sobre BCI.'
