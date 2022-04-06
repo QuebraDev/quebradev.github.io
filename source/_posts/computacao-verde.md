@@ -12,6 +12,9 @@ participants:
     github: willian-viana
 songs:
   - name: 'Tim Maia - Bom Senso' 
+links:
+  - name: 'Referencias'
+  - link: https://docs.google.com/document/d/1pT8NAXx0KYhKN_XpUghDw_E4WkbB5tlj9IqPlbVAV1I/edit?usp=sharing
 date: 2022-03-31 12:00:00
 tags: quebradev, iniciacao cientifica, divulgacao cientifica, método cientifico
 description: 'Hoje vamos falar dela a tal da sustentabilidade na computação. Computação verde e não estamos falando da graminha barata de 1 real ou da diamba.'
