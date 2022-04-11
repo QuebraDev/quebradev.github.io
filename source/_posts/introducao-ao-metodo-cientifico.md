@@ -9,7 +9,7 @@ participants:
     github: reginaldojunior
 songs:
   - name: 'Tim Maia - Bom Senso' 
-links
+links:
   - name: 'Referencias'
     link: https://docs.google.com/document/d/1ejsXUD8SZ8ozvGTRxabWnWq0g9Fv1NZRns8OqlXWHU0/edit?usp=sharing
 date: 2022-03-10 12:00:00
