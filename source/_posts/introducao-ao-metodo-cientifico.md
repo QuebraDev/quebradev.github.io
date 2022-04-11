@@ -9,6 +9,9 @@ participants:
     github: reginaldojunior
 songs:
   - name: 'Tim Maia - Bom Senso' 
+links
+  - name: 'Referencias'
+    link: https://docs.google.com/document/d/1ejsXUD8SZ8ozvGTRxabWnWq0g9Fv1NZRns8OqlXWHU0/edit?usp=sharing
 date: 2022-03-10 12:00:00
 tags: quebradev, iniciacao cientifica, divulgacao cientifica, método cientifico
 description: 'Atravessando as fronteiras do conhecimento, expandimos e agora também estamos com uns episódios de iniciação científica dentro e fora da área de computação.'
