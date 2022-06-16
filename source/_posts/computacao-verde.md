@@ -1,6 +1,6 @@
 ---
 title: '#65 - [Iniciação Científica] Computação Verde'
-type: iniciacaocientifica 
+type: iniciacaocientifica
 season: 5
 cover: /images/computacao-verde.jpg
 participants:

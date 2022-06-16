@@ -1,6 +1,6 @@
 ---
 title: '#67 - [Iniciação Ciêntifica] Um Direito à Explicação, com Carla Vieira'
-type: tecnologia
+type: iniciacaocientifica
 season: 5
 cover: /images/um-direito-a-explicacao-com-carla-vieira.jpg
 participants:

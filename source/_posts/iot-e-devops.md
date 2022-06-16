@@ -1,6 +1,6 @@
 ---
 title: '#66 - [Iniciação Científica] IoT & Devops'
-type: tecnologia
+type: iniciacaocientifica
 season: 5
 cover: /images/iot-e-devops.jpg
 participants:
