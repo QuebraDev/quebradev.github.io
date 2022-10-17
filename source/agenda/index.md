@@ -1,8 +1,8 @@
 ---
-title: Eventos
+title: Agenda
 date: 2019-01-14 22:40:49
 type: page
-uses: events
+uses: agenda
 data: [
     {
         name: 'Brazil JS - OnTheRoad SP',

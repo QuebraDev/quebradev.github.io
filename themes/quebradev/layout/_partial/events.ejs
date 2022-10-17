@@ -1,17 +1,17 @@
 <div class="events-wrapper row">
     <div class="col-12">
-        <h1 class="bordered-left">Eventos</h1>
+        <h1 class="bordered-left">Agenda</h1>
         <div class="text-center">
-            <p>Eventos que o QuebraDev estará presente</p>
+            <p>Agenda do coletivo QuebraDev</p>
         </div>
     </div>
 
-    <% data.forEach(function(event){ %>
-        <div class="event col-6 <% if (event.old) { %> old <% } %>">
-            <h3><%= event.name %></h3>
-            <p><strong>Datas:</strong> <%= event.date %></p>
-            <p><strong>Conteúdo:</strong> <%= event.description %></p>
-            <p><strong>Onde:</strong> <a href="https://maps.google.com/?q=<%= event.location %>" target="_blank" title="Localização do evento no Google Maps."><%= event.location %></a></p>
+    <% data.forEach(function(agenda){ %>
+        <div class="event col-6 <% if (agenda.old) { %> old <% } %>">
+            <h3><%= agenda.name %></h3>
+            <p><strong>Datas:</strong> <%= agenda.date %></p>
+            <p><strong>Conteúdo:</strong> <%= agenda.description %></p>
+            <p><strong>Onde:</strong> <a href="https://maps.google.com/?q=<%= agenda.location %>" target="_blank" title="Localização do evento no Google Maps."><%= agenda.location %></a></p>
         </div>
     <% }) %>
 </div>
