@@ -5,6 +5,18 @@ type: page
 uses: events
 data: [
     {
+        name: 'AfrOya Tech Conf: Oyá: o Rio da Riqueza!',
+        date: '05/11/2022',
+        description: 'Estaremos fazendo uma palestra e também no evento para trocar uma ideia e interagir com geral.',
+        location: 'Inteli - Instituto de Tecnologia e Liderança, São Paulo - SP'
+    },
+    {
+        name: 'FRONTIN Comunidades 2022',
+        date: '22/10/2022',
+        description: 'Estaremos auxiliando e fazendo apresentações no evento junto com outras comunidades.',
+        location: 'Fábrica de Cultura Brasilândia, São Paulo - SP'
+    },
+    {
         name: 'Brazil JS - OnTheRoad SP',
         date: '30/11/2019',
         description: 'Palestraremos na BrazilJS sobre comunicação como forma de representativade.',
