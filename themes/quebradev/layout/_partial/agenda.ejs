@@ -1,0 +1,21 @@
+<div class="events-wrapper row">
+    <div class="col-12">
+        <h1 class="bordered-left">Agenda</h1>
+        <div class="text-center">
+            <p>Agenda do coletivo QuebraDev</p>
+        </div>
+    </div>
+
+    <% data.forEach(function(agenda){ %>
+        <div class="event col-6 <% if (agenda.old) { %> old <% } %>">
+            <h3><%= agenda.name %></h3>
+            <p><strong>Datas:</strong> <%= agenda.date %></p>
+            <p><strong>Conteúdo:</strong> <%= agenda.description %></p>
+            <p><strong>Onde:</strong> <a href="https://maps.google.com/?q=<%= agenda.location %>" target="_blank" title="Localização do evento no Google Maps."><%= agenda.location %></a></p>
+        </div>
+    <% }) %>
+</div>
+
+<div class="events-contact">
+    <h3>Entre em contato para saber mais através do e-mail <a href="mailto:quebradev@gmail.com">quebradev@gmail.com</a></h3>
+</div>
