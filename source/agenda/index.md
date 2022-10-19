@@ -17,6 +17,12 @@ data: [
         location: 'Fábrica de Cultura Brasilândia, São Paulo - SP'
     },
     {
+        name: '1ª Feira do Estudante Itinerante',
+        date: '21/10/2022 - 11hrs',
+        description: 'Estaremos ministrando uma palestra sobre como entrar na área de tecnologia vindo da periferia.',
+        location: 'E.E. Dom Paulo Rolim Loureiro (Avenida Domingos Fanganielo, 251, Ponte Grande, Guarulhos - SP)'
+    },
+    {
         name: 'Brazil JS - OnTheRoad SP',
         date: '30/11/2019',
         description: 'Palestraremos na BrazilJS sobre comunicação como forma de representativade.',
