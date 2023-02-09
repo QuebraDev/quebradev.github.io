@@ -5,10 +5,6 @@ type: page
 uses: members
 data: [
     {
-        name: 'Debora Rocha',
-        photo: 'debora_profile.jpg'
-    },
-    {
         name: 'Gustavo Castilião',
         twitter: 'gustv0_',
         github: 'gucastiliao',
@@ -23,20 +19,6 @@ data: [
         photo: 'kaio_profile.jpg'
     },
     {
-        name: 'Reginaldo Junior',
-        twitter: 'r1g312',
-        github: 'reginaldojunior',
-        linkedin: 'https://www.linkedin.com/in/reginaldo-luis-luna-junior-b26b4b79/',
-        photo: 'reginaldo_profile.jpg'
-    },
-    {
-        name: 'Willian Viana',
-        twitter: 'wbvianna',
-        github: 'willian-viana',
-        linkedin: 'https://www.linkedin.com/in/willian-viana-94038b12a/',
-        photo: 'will_profile.jpg'
-    },
-    {
         name: 'Marcos Florencio',
         twitter: 'eptaccio',
         github: 'eptaccio',
@@ -44,11 +26,25 @@ data: [
         photo: 'marcos_profile.jpg'
     },
     {
-        name: 'Thassia Lima',
-        twitter: 'thassialays',
-        github: 'thassialima',
-        linkedin: 'https://www.linkedin.com/in/thassia-lima',
-        photo: 'thassia_profile.jpg'
+        name: 'Reginaldo Junior',
+        twitter: 'r1g312',
+        github: 'reginaldojunior',
+        linkedin: 'https://www.linkedin.com/in/reginaldo-luis-luna-junior-b26b4b79/',
+        photo: 'reginaldo_profile.jpg'
+    },
+    {
+        name: 'Vitor Silva',
+        twitter: 'virtoglk',
+        github: 'vitorsilv',
+        linkedin: 'https://www.linkedin.com/in/vitorsilv/',
+        photo: 'vitor_profile.jpg'
+    },
+    {
+        name: 'Willian Viana',
+        twitter: 'wbvianna',
+        github: 'willian-viana',
+        linkedin: 'https://www.linkedin.com/in/willian-viana-94038b12a/',
+        photo: 'will_profile.jpg'
     },
     {
         name: 'Lucas Silva',

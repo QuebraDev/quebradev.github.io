@@ -55,12 +55,14 @@
                     </ul>
                 <% } %>
 
-                <h3 class="bordered-left">Músicas</h3>
-                <ul>
-                    <% post.songs.forEach(function(song) { %>
-                        <li><%= song.name %></li>
-                    <% }) %>
-                </ul>
+		<% if (post.songs) { %>
+		    <h3 class="bordered-left">Músicas</h3>
+		    <ul>
+			<% post.songs.forEach(function(song) { %>
+			    <li><%= song.name %></li>
+			<% }) %>
+		    </ul>
+                <% } %>
             </div>
         </div>
     </div>
