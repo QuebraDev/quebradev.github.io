@@ -8,19 +8,22 @@ data: [
         name: 'AfrOya Tech Conf: Oyá: o Rio da Riqueza!',
         date: '05/11/2022',
         description: 'Estaremos fazendo uma palestra e também no evento para trocar uma ideia e interagir com geral.',
-        location: 'Inteli - Instituto de Tecnologia e Liderança, São Paulo - SP'
+        location: 'Inteli - Instituto de Tecnologia e Liderança, São Paulo - SP',
+        old: true
     },
     {
         name: 'FRONTIN Comunidades 2022',
         date: '22/10/2022',
         description: 'Estaremos auxiliando e fazendo apresentações no evento junto com outras comunidades.',
-        location: 'Fábrica de Cultura Brasilândia, São Paulo - SP'
+        location: 'Fábrica de Cultura Brasilândia, São Paulo - SP',
+        old: true
     },
     {
         name: '1ª Feira do Estudante Itinerante',
         date: '21/10/2022 - 11hrs',
         description: 'Estaremos ministrando uma palestra sobre como entrar na área de tecnologia vindo da periferia.',
-        location: 'E.E. Dom Paulo Rolim Loureiro (Avenida Domingos Fanganielo, 251, Ponte Grande, Guarulhos - SP)'
+        location: 'E.E. Dom Paulo Rolim Loureiro (Avenida Domingos Fanganielo, 251, Ponte Grande, Guarulhos - SP)',
+        old: true
     },
     {
         name: 'Brazil JS - OnTheRoad SP',

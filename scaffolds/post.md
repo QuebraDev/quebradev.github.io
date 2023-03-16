@@ -23,9 +23,9 @@ participants:
   - name: Reginaldo Junior
     twitter: r1g312
     github: reginaldojunior
-  - name: Thassia Lima
-    twitter: ThassiaLays
-    github: ThassiaLima
+  - name: Vitor Silva
+    twitter: virtoglk
+    github: vitorsilv
   - name: Willian Viana
     twitter: wbvianna
     github: willian-viana
