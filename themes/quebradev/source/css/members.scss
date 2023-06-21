@@ -25,19 +25,13 @@
     }
 
     .member-info {
-      padding: 0;
-      position: absolute;
-      top: 0;
-      background: rgba(0,0,0, 0.6);
-      height: 100%;
       text-align: center;
-      padding-top: 110px;
 
       .member-links {
         a {
           svg {
             width: 30px;
-            transition: .2s ease;
+            transition: 0.2s ease;
           }
 
           &:hover {

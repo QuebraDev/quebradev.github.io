@@ -1,7 +1,9 @@
-html { background: #000000; }
+html {
+  background: #000000;
+}
 
 #app {
-  font-family: 'ubuntu_monoregular', Helvetica, Arial, sans-serif;
+  font-family: "ubuntu_monoregular", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #ffffff;
@@ -12,23 +14,30 @@ main {
   padding: 0 20px;
 }
 
-a, .nav-item a {
+a,
+.nav-item a {
   color: #ffffff;
 
   &:hover {
     color: #ffffff !important;
   }
 
-  &:active, &:visited {
+  &:active,
+  &:visited {
     color: #ffffff;
   }
+}
+
+a {
+  text-decoration: none;
 }
 
 .underline {
   text-decoration: underline;
 }
 
-.page-title, .bordered-left {
+.page-title,
+.bordered-left {
   color: #ffffff;
   margin-top: 30px;
   margin-bottom: 40px;
@@ -45,7 +54,7 @@ a, .nav-item a {
   .btn {
     font-size: 21px;
     color: #fff;
-    
+
     &:hover {
       text-decoration: underline;
     }
