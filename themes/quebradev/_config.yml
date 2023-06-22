@@ -17,24 +17,27 @@ footer_links:
     link: https://www.youtube.com/channel/UCcC9BomrjB8nM4WwGXxAkgg
   github:
     link: https://github.com/QuebraDev
-support_links: {}
+support_links:
+  fixfibra:
+    link: "https://www.fixfibra.com.br?utm_source=quebradev"
+    height: 25
 
 types:
-  tecnologia: 
-    name: 'Tecnologia'
-    description: 'Lorem ipsum'
-  vivencias: 
-    name: 'Vivências'
-    description: 'Lorem ipsum'
+  tecnologia:
+    name: "Tecnologia"
+    description: "Lorem ipsum"
+  vivencias:
+    name: "Vivências"
+    description: "Lorem ipsum"
   raizes:
-    name: 'Raízes' 
-    description: 'Lorem ipsum'
-  politize: 
-    name: 'Politize-se'
-    description: 'Lorem ipsum'
-  iniciacaocientifica: 
-    name: 'Iniciação Científica'
-    description: 'Lorem ipsum'
+    name: "Raízes"
+    description: "Lorem ipsum"
+  politize:
+    name: "Politize-se"
+    description: "Lorem ipsum"
+  iniciacaocientifica:
+    name: "Iniciação Científica"
+    description: "Lorem ipsum"
 
 node_sass:
   outputStyle: compressed
