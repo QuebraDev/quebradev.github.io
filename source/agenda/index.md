@@ -31,7 +31,7 @@ data: [
     {
         name: 'SindPD Participação - Lançamento Plataforma de Cursos',
         date: '15/08/2023 - 19:00 às 22:00',
-        description: 'Participação no painel podcast da Quebrada!',
+        description: 'Participação no lançamento da plataforma de cursos!',
         location: 'Av. Angélica, 35 - Santa Cecilia, São Paulo - SP, 01227-000'
     },
     {
