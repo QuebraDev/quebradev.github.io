@@ -5,6 +5,42 @@ type: page
 uses: agenda
 data: [
     {
+        name: 'Innovators Hive - Data Cloud & AI',
+        date: '07/07/2023 - 09:30',
+        description: 'Participaremos do painel sobre carreira no Innovators Hive que é o maior evento do Google Cloud para desenvolvedores que tem como objetivo unir os profissionais mais influentes do mercado.',
+        location: 'Av. Henry Ford, 511 - Parque da Mooca, São Paulo - SP, 03109-000'
+    },
+    {
+        name: 'Bate papo com a empresa Fix Fibra',
+        date: '07/07/2023 - 11:00',
+        description: 'Conversa com nossos apoiadores Fix Fibra para buscar oportunidades de atividades presenciais e novos projetos.',
+        location: 'Privado'
+    },
+    {
+        name: 'Frontin Sampa',
+        date: '29/07/2023 - 09:00 às 22:00',
+        description: 'Palestra do Membro Reginaldo Junior, falando sobre o consumo energético das aplicações de front-end.',
+        location: 'Av. Paulista, 900, Bairro Bela Vista, São Paulo - SP - Brasil'
+    },
+    {
+        name: 'Perifacon 2023',
+        date: '30/07/2023 - 09:00 às 18:00',
+        description: 'Participação no painel podcast da Quebrada!',
+        location: 'R. Inácio Monteiro, 6900 - Jardim São Paulo, São Paulo - SP, 08474-480'
+    },
+    {
+        name: 'SindPD Participação - Lançamento Plataforma de Cursos',
+        date: '15/08/2023 - 19:00 às 22:00',
+        description: 'Participação no painel podcast da Quebrada!',
+        location: 'Av. Angélica, 35 - Santa Cecilia, São Paulo - SP, 01227-000'
+    },
+    {
+        name: 'Congresso Tecnologia e Sociedade - Tecnologia para Quem?',
+        date: '28/10/2023 - 13:00 às 19:00',
+        description: 'Mais informações em breve...',
+        location: 'A definir...'
+    },
+    {
         name: 'AfrOya Tech Conf: Oyá: o Rio da Riqueza!',
         date: '05/11/2022',
         description: 'Estaremos fazendo uma palestra e também no evento para trocar uma ideia e interagir com geral.',
