@@ -6,13 +6,13 @@ uses: agenda
 data: [
     {
         name: 'Innovators Hive - Data Cloud & AI',
-        date: '07/07/2023 - 09:30',
+        date: '08/07/2023 - 09:30',
         description: 'Participaremos do painel sobre carreira no Innovators Hive que é o maior evento do Google Cloud para desenvolvedores que tem como objetivo unir os profissionais mais influentes do mercado.',
         location: 'Av. Henry Ford, 511 - Parque da Mooca, São Paulo - SP, 03109-000'
     },
     {
         name: 'Bate papo com a empresa Fix Fibra',
-        date: '07/07/2023 - 11:00',
+        date: '08/07/2023 - 11:00',
         description: 'Conversa com nossos apoiadores Fix Fibra para buscar oportunidades de atividades presenciais e novos projetos.',
         location: 'Privado'
     },
