@@ -3,19 +3,7 @@ title: Agenda
 date: 2019-01-14 22:40:49
 type: page
 uses: agenda
-data: [
-    {
-        name: 'Innovators Hive - Data Cloud & AI',
-        date: '08/07/2023 - 09:30',
-        description: 'Participaremos do painel sobre carreira no Innovators Hive que é o maior evento do Google Cloud para desenvolvedores que tem como objetivo unir os profissionais mais influentes do mercado.',
-        location: 'Av. Henry Ford, 511 - Parque da Mooca, São Paulo - SP, 03109-000'
-    },
-    {
-        name: 'Bate papo com a empresa Fix Fibra',
-        date: '08/07/2023 - 11:00',
-        description: 'Conversa com nossos apoiadores Fix Fibra para buscar oportunidades de atividades presenciais e novos projetos.',
-        location: 'Privado'
-    },
+data: [   
     {
         name: 'Frontin Sampa',
         date: '29/07/2023 - 09:00 às 22:00',
@@ -24,8 +12,14 @@ data: [
     },
     {
         name: 'Perifacon 2023',
-        date: '30/07/2023 - 09:00 às 18:00',
-        description: 'Participação no painel podcast da Quebrada!',
+        date: '30/07/2023 - 11:00 às 11:45',
+        description: 'ESPAÇO TEIA - A periferia e o mercado de tecnologia - Vitor Leonardo',
+        location: 'R. Inácio Monteiro, 6900 - Jardim São Paulo, São Paulo - SP, 08474-480'
+    },
+    {
+        name: 'Perifacon 2023',
+        date: '30/07/2023 - 13:40 às 14:00',
+        description: 'SALA DE BATE PAPO - Podcasts de Quebrada - Kaio Leal',
         location: 'R. Inácio Monteiro, 6900 - Jardim São Paulo, São Paulo - SP, 08474-480'
     },
     {
@@ -39,6 +33,20 @@ data: [
         date: '28/10/2023 - 13:00 às 19:00',
         description: 'Mais informações em breve...',
         location: 'A definir...'
+    },
+    {
+        name: 'Innovators Hive - Data Cloud & AI',
+        date: '08/07/2023 - 09:30',
+        description: 'Participaremos do painel sobre carreira no Innovators Hive que é o maior evento do Google Cloud para desenvolvedores que tem como objetivo unir os profissionais mais influentes do mercado.',
+        location: 'Av. Henry Ford, 511 - Parque da Mooca, São Paulo - SP, 03109-000',
+        old: true
+    },
+    {
+        name: 'Bate papo com a empresa Fix Fibra',
+        date: '08/07/2023 - 11:00',
+        description: 'Conversa com nossos apoiadores Fix Fibra para buscar oportunidades de atividades presenciais e novos projetos.',
+        location: 'Privado',
+        old: true
     },
     {
         name: 'AfrOya Tech Conf: Oyá: o Rio da Riqueza!',
