@@ -3,36 +3,53 @@ title: Agenda
 date: 2019-01-14 22:40:49
 type: page
 uses: agenda
-data: [   
+data: [      
+    {
+        name: 'Confratenização + Organização',
+        date: '19/01/2024 - 09:00 às 21/01/2024 às 17:00',
+        description: 'Coletivo irá confratenizar o ano de 2023 e organizar as atividades, projetos e estrutura do ano de 2024.',
+        location: 'Privado'
+    },
+    {
+        name: 'Atividade Criptobaile 2023',
+        date: '29/07/2023 - 09:00 às 22:00',
+        description: 'Coletivo irá desenvolver uma atividade de entrevista em formato de podcast ao vivo durante o evento criptobaile',
+        location: 'Ceilândia, Brasília - DF'
+    },
     {
         name: 'Frontin Sampa',
         date: '29/07/2023 - 09:00 às 22:00',
         description: 'Palestra do Membro Reginaldo Junior, falando sobre o consumo energético das aplicações de front-end.',
-        location: 'Av. Paulista, 900, Bairro Bela Vista, São Paulo - SP - Brasil'
+        location: 'Av. Paulista, 900, Bairro Bela Vista, São Paulo - SP - Brasil',
+        old: true
     },
     {
         name: 'Perifacon 2023',
         date: '30/07/2023 - 11:00 às 11:45',
         description: 'ESPAÇO TEIA - A periferia e o mercado de tecnologia - Vitor Leonardo',
-        location: 'R. Inácio Monteiro, 6900 - Jardim São Paulo, São Paulo - SP, 08474-480'
+        location: 'R. Inácio Monteiro, 6900 - Jardim São Paulo, São Paulo - SP, 08474-480',
+        old: true
     },
     {
         name: 'Perifacon 2023',
         date: '30/07/2023 - 13:40 às 14:00',
         description: 'SALA DE BATE PAPO - Podcasts de Quebrada - Kaio Leal',
-        location: 'R. Inácio Monteiro, 6900 - Jardim São Paulo, São Paulo - SP, 08474-480'
+        location: 'R. Inácio Monteiro, 6900 - Jardim São Paulo, São Paulo - SP, 08474-480',
+        old: true
     },
     {
         name: 'SindPD Participação - Lançamento Plataforma de Cursos',
         date: '15/08/2023 - 19:00 às 22:00',
         description: 'Participação no lançamento da plataforma de cursos!',
-        location: 'Av. Angélica, 35 - Santa Cecilia, São Paulo - SP, 01227-000'
+        location: 'Av. Angélica, 35 - Santa Cecilia, São Paulo - SP, 01227-000',
+        old: true
     },
     {
-        name: 'Congresso Tecnologia e Sociedade - Tecnologia para Quem?',
+        name: '1ª Conferência Tecnologia e Sociedade - Tecnologia para Quem?',
         date: '28/10/2023 - 13:00 às 19:00',
-        description: 'Mais informações em breve...',
-        location: 'A definir...'
+        description: 'O evento aconteceu em São Paulo, na sede do sindicato SINDPD-SP e procurou debater a tecnologia e sua importância na sociedade.',
+        location: 'SindPD SP',
+        old: true
     },
     {
         name: 'Innovators Hive - Data Cloud & AI',
