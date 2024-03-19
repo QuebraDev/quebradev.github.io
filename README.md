@@ -4,7 +4,7 @@
 
 Site do podcast QuebraDev.
 
-> Um coletivo que tem como objetivo democratizar a informação para a periferia.
+> Um movimento social de origem periférica com destino voltado a origem.
 
 <br/>
 
