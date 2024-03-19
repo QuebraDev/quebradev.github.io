@@ -4,7 +4,7 @@
 
 Site do podcast QuebraDev.
 
-> Um movimento social de origem periférica com destino voltado a origem.
+> Um coletivo de tecnologia de origem periférica com destino voltado a origem.
 
 <br/>
 
