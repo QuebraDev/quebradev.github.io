@@ -39,19 +39,5 @@ data: [
         linkedin: 'https://www.linkedin.com/in/vitorsilv/',
         photo: 'vitor_profile.jpg'
     },
-    {
-        name: 'Willian Viana',
-        twitter: 'wbvianna',
-        github: 'willian-viana',
-        linkedin: 'https://www.linkedin.com/in/willian-viana-94038b12a/',
-        photo: 'will_profile.jpg'
-    },
-    {
-        name: 'Lucas Silva',
-        twitter: 'olucasjs',
-        github: 'lucasjs',
-        linkedin: 'http://linkedin.com/in/lucasjsilva',
-        photo: 'lucas.jpg'
-    },
 ]
 ---
