@@ -39,5 +39,33 @@ data: [
         linkedin: 'https://www.linkedin.com/in/vitorsilv/',
         photo: 'vitor_profile.jpg'
     },
+    {
+        name: 'Fernanda Souza',
+        twitter: 'leitoraincomum',
+        github: 'leitoraincomum',
+        linkedin: 'https://www.linkedin.com/in/leitoraincomum/',
+        photo: 'leitoraincomum.jpg'
+    },
+    {
+        name: 'Raquel Queiroz',
+        twitter: 'Raquel_Queiroz_',
+        github: 'dinossaur23',
+        linkedin: 'https://www.linkedin.com/in/raquel-queiroz/',
+        photo: 'raquel_queiroz.jpg'
+    },
+    {
+        name: 'Sara Oliveira',
+        twitter: '#',
+        github: 'saraOliveirac',
+        linkedin: 'https://www.linkedin.com/in/oliveirasarac/',
+        photo: 'sara-oliveira.jpg'
+    },
+    {
+        name: 'Pedro Ellio',
+        twitter: '_pedroellio',
+        github: 'pedroellio',
+        linkedin: 'https://www.linkedin.com/in/pedroellio/',
+        photo: 'pedro-ellio.jpg'
+    },
 ]
 ---
