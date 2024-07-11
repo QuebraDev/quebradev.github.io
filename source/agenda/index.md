@@ -8,14 +8,14 @@ data: [
         name: 'Confratenização + Organização',
         date: '19/01/2024 - 09:00 às 21/01/2024 às 17:00',
         description: 'Coletivo irá confratenizar o ano de 2023 e organizar as atividades, projetos e estrutura do ano de 2024.',
-        location: 'Privado'
+        location: 'Privado',
         old: true
     },
     {
         name: 'Atividade Criptobaile 2023',
         date: '29/07/2023 - 09:00 às 22:00',
         description: 'Coletivo irá desenvolver uma atividade de entrevista em formato de podcast ao vivo durante o evento criptobaile',
-        location: 'Ceilândia, Brasília - DF'
+        location: 'Ceilândia, Brasília - DF',
         old: true
     },
     {
