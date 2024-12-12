@@ -1,0 +1,109 @@
+<div class="mediakit-wrapper">
+    <div class="row">
+        <div class="col-12 text-center">
+            <!-- <h1>Certificados Emitidos pela Associação QuebraDev</h1> -->
+            <!-- <div class="subtitle">
+                <p></p>
+            </div> -->
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12 text-left">
+            <div class="form-container">
+                <h2>Consulte os certificados</h2>
+                <form action="#" method="POST">
+                    <div class="radio-group">
+                        <label><input type="radio" name="options" value="rg" id="radio-rg"> RG</label>
+                        <label><input type="radio" name="options" value="cpf" id="radio-cpf"> CPF</label>
+                        <label><input type="radio" name="options" value="hash" id="radio-hash"> Hash</label>
+                    </div>
+                    <div class="form-group">
+                        <label for="data" id="label-data">Digite o valor</label>
+                        <input type="text" id="data" name="data" placeholder="Digite algo">
+                    </div>
+                    <button type="submit" class="submit-btn">Enviar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center contact-email">
+        <p><a href="mailto:quebradev@gmail.com">quebradev@gmail.com</a></p>
+    </div>
+</div>
+
+<style>
+    .form-container {
+        background: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .radio-group {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 15px;
+    }
+
+    .radio-group label {
+        margin-right: 10px;
+        color: #555;
+    }
+
+    .form-container h2 {
+        margin-bottom: 20px;
+        color: #333;
+        text-align: center;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .form-group label {
+        display: block;
+        margin-bottom: 5px;
+        color: #555;
+    }
+
+    .form-group .radio {
+        width: 33%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+    .form-group input:focus {
+        border-color: #b8013d;
+        outline: none;
+    }
+
+    .submit-btn {
+        width: 100%;
+        padding: 10px;
+        background: #b8013d;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+    .submit-btn:hover {
+        background: #0056b3;
+    }
+</style>
