@@ -1,0 +1,142 @@
+<div class="mediakit-wrapper">
+
+    <div class="row">
+        <div class="col-12 text-left">
+            <div class="form-container">
+                <!-- <form action="#" method="POST"> -->
+                    <div class="radio-group">
+                        <label><input type="radio" name="options" value="rg" id="radio-rg"> RG</label>
+                        <label><input type="radio" name="options" value="hash" id="radio-hash"> Hash</label>
+                    </div>
+                    <div class="form-group">
+                        <label for="data" id="label-data">Digite o valor</label>
+                        <input type="text" id="data" name="data" placeholder="Digite algo">
+                    </div>
+                    <a href="javascript:consultarCertificado();" class="btn submit-btn">Enviar</a>
+                <!-- </form> -->
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center contact-email">
+        <p><a href="mailto:quebradev@gmail.com">Dúvidas sobre certificados, emissões e consultas: quebradev@gmail.com</a></p>
+    </div>
+</div>
+
+<script>
+    function consultarCertificado() {
+        const radioRg = document.querySelector('#radio-rg:checked');
+        const radioHash = document.querySelector('#radio-hash:checked');
+        const dataInput = document.querySelector('#data');
+        const dataValue = dataInput.value.trim();
+
+        if (!dataValue) {
+            alert('Por favor, digite o valor.');
+            return;
+        }
+
+        if (!radioRg && !radioHash) {
+            alert('Por favor, selecione uma opção (RG ou Hash).');
+            return;
+        }
+
+        const url = `https://api.quebra.dev/certified/valid/${dataValue}`;
+
+        fetch(url, {
+            method: 'GET',
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Erro na consulta: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log(data);
+                if (data.certified_valid) {
+                    alert(`Certificado emitido pela Assoaciação QuebraDev`);
+                } else {
+                    alert(`Não foi encontrado certificados emitidos pela Assoaciação QuebraDev para esses dados`);
+                }
+            })
+            .catch(error => {
+                console.error('Erro:', error);
+                alert('Ocorreu um erro ao consultar o certificado.');
+            });
+    }
+</script>
+
+<style>
+    .form-container {
+        background: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, .1);
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .radio-group {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 15px;
+    }
+
+    .radio-group label {
+        margin-right: 10px;
+        color: #555;
+    }
+
+    .form-container h2 {
+        margin-bottom: 20px;
+        color: #333;
+        text-align: center;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .form-group label {
+        display: block;
+        margin-bottom: 5px;
+        color: #555;
+    }
+
+    .form-group .radio {
+        width: 33%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+    .form-group input:focus {
+        border-color: #b8013d;
+        outline: none;
+    }
+
+    .submit-btn {
+        width: 100%;
+        padding: 10px;
+        background: #b8013d;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+    .submit-btn:hover {
+        background: #0056b3;
+    }
+</style>
