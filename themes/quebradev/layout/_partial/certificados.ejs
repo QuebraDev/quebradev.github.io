@@ -1,29 +1,19 @@
 <div class="mediakit-wrapper">
-    <div class="row">
-        <div class="col-12 text-center">
-            <!-- <h1>Certificados Emitidos pela Associação QuebraDev</h1> -->
-            <!-- <div class="subtitle">
-                <p></p>
-            </div> -->
-        </div>
-    </div>
 
     <div class="row">
         <div class="col-12 text-left">
             <div class="form-container">
-                <h2>Consulte os certificados</h2>
-                <form action="#" method="POST">
+                <!-- <form action="#" method="POST"> -->
                     <div class="radio-group">
                         <label><input type="radio" name="options" value="rg" id="radio-rg"> RG</label>
-                        <label><input type="radio" name="options" value="cpf" id="radio-cpf"> CPF</label>
                         <label><input type="radio" name="options" value="hash" id="radio-hash"> Hash</label>
                     </div>
                     <div class="form-group">
                         <label for="data" id="label-data">Digite o valor</label>
                         <input type="text" id="data" name="data" placeholder="Digite algo">
                     </div>
-                    <button type="submit" class="submit-btn">Enviar</button>
-                </form>
+                    <a href="javascript:consultarCertificado();" class="btn submit-btn">Enviar</a>
+                <!-- </form> -->
             </div>
         </div>
     </div>
@@ -32,6 +22,29 @@
         <p><a href="mailto:quebradev@gmail.com">quebradev@gmail.com</a></p>
     </div>
 </div>
+
+<script>
+    function consultarCertificado() {
+        let radioRg = document.querySelector('#radio-rg:checked');
+        let radioHash = document.querySelector('#radio-hash:checked');
+        let data = document.querySelector('#data');
+
+        
+    let xhr = new XMLHttpRequest();
+
+    let url = 'https://api.quebra.dev/certified/valid/' + data;
+    xhr.open("GET", url, true);
+
+    xhr.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            console.log(this.responseText);
+        }
+    }
+    xhr.send();
+
+    console.log(xhr.responseText);
+}
+</script>
 
 <style>
     .form-container {
