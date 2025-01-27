@@ -25,25 +25,45 @@
 
 <script>
     function consultarCertificado() {
-        let radioRg = document.querySelector('#radio-rg:checked');
-        let radioHash = document.querySelector('#radio-hash:checked');
-        let data = document.querySelector('#data');
+        const radioRg = document.querySelector('#radio-rg:checked');
+        const radioHash = document.querySelector('#radio-hash:checked');
+        const dataInput = document.querySelector('#data');
+        const dataValue = dataInput.value.trim();
 
-        
-    let xhr = new XMLHttpRequest();
-
-    let url = 'https://api.quebra.dev/certified/valid/' + data;
-    xhr.open("GET", url, true);
-
-    xhr.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
-            console.log(this.responseText);
+        if (!dataValue) {
+            alert('Por favor, digite o valor.');
+            return;
         }
-    }
-    xhr.send();
 
-    console.log(xhr.responseText);
-}
+        if (!radioRg && !radioHash) {
+            alert('Por favor, selecione uma opção (RG ou Hash).');
+            return;
+        }
+
+        const url = `https://api.quebra.dev/certified/valid/${dataValue}`;
+
+        fetch(url, {
+            method: 'GET',
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Erro na consulta: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log(data);
+                if (data.certified_valid) {
+                    alert(`Certificado emitido pela Assoaciação QuebraDev`);
+                } else {
+                    alert(`Não foi encontrado certificados emitidos pela Assoaciação QuebraDev para esses dados`);
+                }
+            })
+            .catch(error => {
+                console.error('Erro:', error);
+                alert('Ocorreu um erro ao consultar o certificado.');
+            });
+    }
 </script>
 
 <style>
