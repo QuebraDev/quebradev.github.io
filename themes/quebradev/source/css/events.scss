@@ -23,9 +23,35 @@
         }
     }
 
+    .event-paper {
+        border-left: 4px solid #fff;
+        padding-left: 15px;
+        margin: 15px;
+
+        p {
+            width: 100%;
+        }
+
+        p.author {
+            font-size: 18px;
+            font-weight: 700;
+        }
+        
+        a {
+            text-decoration: none;
+            margin-right: 15px;
+        }
+    }
+
     .event.old {
         opacity: 0.3;
     }
+}
+
+.events-wrapper-basic {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 40px 0;
 }
 
 .events-contact {
