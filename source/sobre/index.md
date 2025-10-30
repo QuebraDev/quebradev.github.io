@@ -34,7 +34,7 @@ data: [
     },
     {
         name: 'Vitor Silva',
-        twitter: 'virtoglk',
+        twitter: '#',
         github: 'vitorsilv',
         linkedin: 'https://www.linkedin.com/in/vitorsilv/',
         photo: 'vitor_profile.jpg'
@@ -67,5 +67,19 @@ data: [
         linkedin: 'https://www.linkedin.com/in/pedroellio/',
         photo: 'pedro-ellio.jpg'
     },
+    {
+        name: 'Beatriz Fersi',
+        twitter: '#',
+        github: '#',
+        linkedin: 'https://www.linkedin.com/in/beatrizfersi/',
+        photo: 'fersi_profile.jpg'
+    },
+    {
+        name: 'Lucas Valeriano',
+        twitter: '#',
+        github: 'valerivno',
+        linkedin: 'https://www.linkedin.com/in/valeriano/',
+        photo: 'valeriano_profile.jpg'
+    }
 ]
 ---
